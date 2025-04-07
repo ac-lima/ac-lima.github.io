@@ -15,6 +15,9 @@ website:
   search: false
   site-url: https://ac-lima.github.io
 
+execute:
+  freeze: false
+
   navbar:
     pinned: true
     logo: img/indexlogo.png
