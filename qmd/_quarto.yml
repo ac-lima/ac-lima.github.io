@@ -10,13 +10,13 @@ project:
     watch-inputs: true
     navigate: true
 
+execute:
+  freeze: false
+
 website:
   title: "augusto lima"
   search: false
   site-url: https://ac-lima.github.io
-
-execute:
-  freeze: false
 
   navbar:
     pinned: true
