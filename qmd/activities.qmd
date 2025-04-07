@@ -53,7 +53,7 @@ I am excited to share that the GLACIMONTIS project will be featured in the [S4SS
 The [summer school in Tapado Glacier - Chile](https://storymaps.arcgis.com/stories/e956b861bd604e898312537c755df471) was an enriching experience where I got to expand my knowledge in Unmanned Aerial Vehicles technology and its application on cryosphere and landscape analysis. The program offered valuable insights through lectures, practical workshops, and networking opportunities with fellow researchers and experts in the field.
 
 <div>
-  <img src="img/activities/chile.jpg" alt="Chile" style="max-width: 100%; height: auto; object-fit: contain; display: block; margin: 0 auto;"/>
+  <img src="img/activities/chile.JPG" alt="Chile" style="max-width: 100%; height: auto; object-fit: contain; display: block; margin: 0 auto;"/>
 </div>
 ---
 
@@ -85,7 +85,7 @@ I volunteered as an assistant for the [International Workshop on the Greenland I
 I delivered another Lunch Talk to the Ecological and Environmental Change Research Group, where I discussed GLACIMONTIS, a global geodatabase of mountain glacier extents of the Last Glacial Maximum. I focused on the importance of this geodatabase in reconstructing past ecosystems, modeling species distributions, and assessing glacial refugia.
 
 <div>
-  <img src="img/activities/lunch2.jpg" alt="Lunch 2" style="max-width: 100%; height: auto; object-fit: contain; display: block; margin: 0 auto;"/>
+  <img src="img/activities/lunch2.JPG" alt="Lunch 2" style="max-width: 100%; height: auto; object-fit: contain; display: block; margin: 0 auto;"/>
 </div>
 
 ---
@@ -105,7 +105,7 @@ I was invited to speak at the 2025 Winter Speaker Series of the Western US Paleo
 At the [Bjerknes Annual Meeting 2025]((https://bjerknes.uib.no/kalender/bjerknes-annual-meeting)), I received excellent feedback from special guest Erica Coppola ([News](https://bjerknes.uib.no/en/news/meet-our-new-sac-member-erika-coppola)) regarding my research on paleoglaciers. The event provided a fantastic opportunity to present new findings and engage with the scientific community about the dynamics of glaciers during the Last Glacial Maximum.
 
 <div>
-  <img src="img/activities/bjerknes.jpg" alt="Bjerknes" style="max-width: 100%; height: auto; object-fit: contain; display: block; margin: 0 auto;"/>
+  <img src="img/activities/bjerknes.JPG" alt="Bjerknes" style="max-width: 100%; height: auto; object-fit: contain; display: block; margin: 0 auto;"/>
 </div>
 
 ---

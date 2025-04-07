@@ -13,7 +13,7 @@ css: style.css
 <head>
   <style>
     body {
-      background-image: url('img/background2.jpeg'); /* Path to your image */
+      background-image: url('img/background2.JPEG'); /* Path to your image */
       background-size: cover; /* Ensure the image covers the whole screen */
       background-position: center center; /* Center the image */
       background-attachment: fixed; /* Fix the background when scrolling */
@@ -63,4 +63,4 @@ css: style.css
   <p>I am an early-career researcher at the Department of Biological Sciences in the University of Bergen, and part of the Past, Present and Future of Alpine Biomes Worldwide (PPF-Alpine) research group. I have background in Earth sciences and spatial analysis, with focus on paleoclimate, glaciology, mountain regions, remote sensing and Quaternary geomorphology. My research interests encompass the monitoring of cryosphere processes in mountain ranges, reconstructing paleoglaciers and paleoclimates, applying Earth Observation (EO) and GIS techniques, and implementing artificial intelligence tools. I emphasize open science, interdisciplinary collaboration and educational outreach throughout my work.</p>
 </div>
 
-  <img src="img/img10.jpeg" alt="Photo 3" class="custom-image"> 
+  <img src="img/img10.JPEG" alt="Photo 3" class="custom-image"> 
