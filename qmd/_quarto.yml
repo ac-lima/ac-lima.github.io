@@ -22,28 +22,6 @@ website:
     pinned: true
     logo: img/indexlogo.png
 
-    left:
-      - href: about.qmd
-        text: About
-      - text: Projects
-        menu:
-          - href: research.qmd
-            text: Overview
-          - href: thermalmap.qmd
-            text: Urban Heat Islands
-          - href: tapado.qmd
-            text: Remote Sensing of the Cryosphere
-          - href: glacimontis.qmd
-            text: GLACIMONTIS
-          - href: uibcollaborative.qmd
-            text: UiB Collaborative Platform for GIS/RS
-      - href: fieldwork.qmd
-        text: Fieldwork Gallery
-      - href: activities.qmd
-        text: Research Activities
-      - href: CV.qmd
-        text: CV
-
     right:
       - icon: github
         href: https://github.com/ac-lima
