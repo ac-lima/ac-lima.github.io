@@ -47,7 +47,7 @@ format:
   <img src="img/finse/1.jpeg" alt="Finse 1">
   <img src="img/finse/2.jpeg" alt="Finse 2">
   <img src="img/finse/3.jpeg" alt="Finse 3">
-  <img src="img/finse/5.jpg" alt="Finse 5">
+  <img src="img/finse/5.JPG" alt="Finse 5">
   <img src="img/finse/6.JPEG" alt="Finse 6">
   <img src="img/finse/7.JPG" alt="Finse 7">
   <img src="img/finse/8.jpeg" alt="Finse 8">
@@ -111,7 +111,7 @@ format:
   <img src="img/azores/10.jpg" alt="Azores 10">
   <img src="img/azores/11.JPEG" alt="Azores 11">
   <img src="img/azores/12.JPEG" alt="Azores 12">
-  <img src="img/azores/13.jpeg" alt="Azores 13">
+  <img src="img/azores/13.JPEG" alt="Azores 13">
   <img src="img/azores/14.JPEG" alt="Azores 14">
   <img src="img/azores/15.JPEG" alt="Azores 15">
   <img src="img/azores/16.JPEG" alt="Azores 16">
@@ -150,7 +150,7 @@ format:
   <img src="img/tapado/23.JPG" alt="Tapado 23">
   <img src="img/tapado/24.JPG" alt="Tapado 24">
   <img src="img/tapado/25.JPG" alt="Tapado 25">
-  <img src="img/tapado/26.jpg" alt="Tapado 26">
+  <img src="img/tapado/26.JPG" alt="Tapado 26">
   <img src="img/tapado/27.JPG" alt="Tapado 27">
   <img src="img/tapado/28.JPEG" alt="Tapado 28">
   <img src="img/tapado/29.JPG" alt="Tapado 29">
