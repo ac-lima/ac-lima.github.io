@@ -10,9 +10,6 @@ project:
     watch-inputs: true
     navigate: true
 
-execute:
-  freeze: true
-
 website:
   title: "augusto lima"
   search: false
