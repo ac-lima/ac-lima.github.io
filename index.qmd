@@ -1,7 +1,16 @@
 ---
-title: "ac-lima.github.io"
+format: html
+class: home-page
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+<head>
+  <style>
+    body {
+      background-image: url('img/background.jpeg'); /* Path to your image */
+      background-size: cover; /* Ensure the image covers the whole screen */
+      background-position: center center; /* Center the image */
+      background-attachment: fixed; /* Fix the background when scrolling */
+      color: white; /* Optional: Change text color to contrast with the image */
+    }
+  </style>
+</head>

@@ -1,0 +1,60 @@
+---
+title: "<a href='https://bora.uib.no/bora-xmlui/handle/11250/3120974' target='_blank'>Understanding Glacier Melt with Drones: The Case of Tapado Glacier, Chile</a>"
+authors: "Augusto Lima"
+date: 2023-11-27
+format:
+  html:
+    theme: united
+    code-fold: true
+    smooth-scroll: true
+    css: styles.css
+---
+
+My master's thesis explores how supraglacial ponds and ice cliffs influence the melting patterns of Tapado Glacier in the semiarid Andes of Chile. These features, found on the debris-covered surface of the glacier, play a crucial role in how the glacier loses mass. Using a mix of historical aerial imagery, satellite data, and drone-based surveys, I built an inventory of these features from 1956 to 2023. The goal was to understand their distribution, how they form, and—most importantly—how they accelerate ice melt in specific areas.
+
+<div style="text-align: center;">
+  <img src="img/tapadolake.png" alt="Tapado lakes" style="max-width: 100%; height: auto; object-fit: contain;"/>
+  <p style="margin-top: 1rem; font-size: 0.95em; color: #555;">
+       Location of Tapado Complex and its landforms. The three main landforms that will be discussed in the thesis are 1) Tapado Complex-, 2) debris-covered glacier (upper and lower debris-covered glacier) pinpointing ice cliffs in Area 1 and Area 2,  3) Area 1 representing UAV survey thermokarst depression from 2019 to 2020, and 4) Area 2 representing cliffed area surveyed in 2022 and 2023
+  </p>
+</div>
+
+The results showed that even though ponds and cliffs occupy a relatively small surface area, they have an outsized impact on glacier thinning. For instance, ice cliffs alone can increase melt rates by more than six times compared to surrounding areas. 
+
+<div style="text-align: center;">
+  <img src="img/lowering.png" alt="Tapado lowering" style="max-width: 100%; height: auto; object-fit: contain;" />
+  <p style="margin-top: 1rem; font-size: 0.95em; color: #555;">
+       Surface elevation changes related to supraglacial pond and ice cliff formation for each 5 m within 30 m radius. Left graph shows surface lowering for each analyzed year, middle graph for each analyzed period and right graph according the presence or absence of ice cliffs for each analyzed period
+  </p>
+</div>
+
+I also found that these features tend to form in areas with low surface slope and slow ice movement—insights that help explain why certain parts of the glacier are thinning faster than others. 
+
+<div style="text-align: center;">
+  <img src="img/tapadodistribution.png" alt="Tapado distribution" style="max-width: 100%; height: auto; object-fit: contain;" />
+  <p style="margin-top: 1rem; font-size: 0.95em; color: #555;">
+        Figure on the top shows the location of supraglacial ponds by cliff presence, year and area based on surface velocity and slope gradient of debris-covered glacier on Tapado Complex.
+  </p>
+</div>
+
+Importantly, the use of drone technology (UAVs) proved to be a game-changer, offering high-resolution 3D models that captured subtle changes missed by satellite imagery.
+
+<div style="text-align: center;">
+  <img src="img/m3c2.png" alt="Tapado m3c2" style="max-width: 100%; height: auto; object-fit: contain;" />
+  <p style="margin-top: 1rem; font-size: 0.95em; color: #555;">
+        M3C2 yearly distances in meters from dense cloud pair 2022-2023 for cliff area 2. On the left is the dense cloud point represented in RGB
+  </p>
+</div>
+
+This research adds to our understanding of how climate change is affecting high mountain water sources. Tapado Glacier provides meltwater to over 230,000 people downstream, making it a critical resource in a region already facing water scarcity. By highlighting the importance of supraglacial features and the power of UAV-based remote sensing, this thesis offers valuable tools for future glacier monitoring and water resource planning in the Andes and beyond.
+
+<div style="text-align: center;">
+  <img src="img/tapadoinventory.png" alt="Tapado inventory" style="max-width: 100%; height: auto; object-fit: contain;" />
+  <p style="margin-top: 1rem; font-size: 0.95em; color: #555;">
+        Tapado Glacier supraglacial ponds and ice cliffs inventory from 1955 to 2023
+  </p>
+</div>
+
+# Contact
+
+Have questions? Reach out on [Email](mailto:augusto.naschimento@uib.no) and access the [Full Master's Thesis](https://bora.uib.no/bora-xmlui/handle/11250/3120974) for further reading.
