@@ -40,7 +40,7 @@ website:
       - href: fieldwork.qmd
         text: Fieldwork Gallery
       - href: activities.qmd
-        text: Research Activities.qmd
+        text: Research Activities
       - href: CV.qmd
         text: CV
 
