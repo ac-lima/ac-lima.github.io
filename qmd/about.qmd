@@ -1,0 +1,66 @@
+---
+class: about-page
+format: html
+css: style.css
+---
+
+<style>
+.navbar {
+  background-color: #335885 !important; /* Change to your desired color in navbar */
+}
+</style>
+
+<head>
+  <style>
+    body {
+      background-image: url('img/background2.jpeg'); /* Path to your image */
+      background-size: cover; /* Ensure the image covers the whole screen */
+      background-position: center center; /* Center the image */
+      background-attachment: fixed; /* Fix the background when scrolling */
+    }
+  </style>
+</head>
+
+<style> /* IMG CONFIGURATION */
+  .custom-image {
+    width: 500px;  /* Adjust image width */
+    height: 500px; /* Make height equal to width */
+    border-radius: 50%; /* Make it a perfect circle */
+    object-fit: cover; /* Ensure the image fills the circular shape */
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.2); /* Optional: Shadow */
+
+    position: absolute;
+    left: 0;  /* Align to the left */
+    top: 55%; /* Move to the middle */
+    transform: translateY(-55%); /* Adjust to perfectly center vertically */
+    margin-left: 100px; /* Add some spacing from the edge */
+  }
+</style>
+
+<style> /* TEXT BOX */
+   .text-box {
+    width: 1475px; /* Make it wider */
+    height: 700px; /* Keep it shorter */
+    background-color: #F1F6FA; /* Background color */
+    padding: 20px; /* Inner spacing */
+    padding-left: 350px; /* Set text padding */
+    padding-top: 125px;
+    padding-right: 100px;
+    border-radius: 10px; /* Optional: rounded corners */
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.2); /* Optional: shadow */
+    text-align: justify;
+
+    position: absolute;
+    right: 0;
+    top: 60%; /* Center vertically */
+    transform: translateY(-60%); /* Adjust for exact centering */
+    margin-right: 100px; /* Push it to the right while keeping 100px right margin */
+  }
+</style>
+
+<div class="text-box">
+  <h2>Olá!</h2>
+  <p>I am an early-career researcher at the Department of Biological Sciences in the University of Bergen, and part of the Past, Present and Future of Alpine Biomes Worldwide (PPF-Alpine) research group. I have background in Earth sciences and spatial analysis, with focus on paleoclimate, glaciology, mountain regions, remote sensing and Quaternary geomorphology. My research interests encompass the monitoring of cryosphere processes in mountain ranges, reconstructing paleoglaciers and paleoclimates, applying Earth Observation (EO) and GIS techniques, and implementing artificial intelligence tools. I emphasize open science, interdisciplinary collaboration and educational outreach throughout my work.</p>
+</div>
+
+  <img src="img/img10.jpeg" alt="Photo 3" class="custom-image"> 

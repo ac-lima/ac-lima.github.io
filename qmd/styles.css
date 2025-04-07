@@ -1,0 +1,55 @@
+/* ==========================================================================
+   Quarto SCSS Defaults (optional if you're using SCSS)
+   ========================================================================== */
+/*-- scss:defaults --*/
+
+/* ==========================================================================
+   Navbar Customization
+   ========================================================================== */
+
+/* Overall navbar background */
+.navbar {
+    background-color: #335885 !important; /* Navbar background color */
+    height: 50px;                         /* Navbar height */
+  }
+  
+  /* Navbar brand (site title/logo) */
+  .navbar-brand {
+    color: #ffffff !important;           /* Title color */
+    font-size: 25px !important;          /* Title font size */
+  }
+  
+  .navbar-brand:hover {
+    color: #ff9d00 !important;           /* Title hover color */
+  }
+  
+  /* Navbar links */
+  .navbar-nav .nav-link {
+    color: #ffffff !important;           /* Link color */
+  }
+  
+  .navbar-nav .nav-link:hover {
+    color: #ff9d00 !important;           /* Link hover color */
+  }
+  
+  /* Field Work Gallery */
+  
+  .photo-gallery {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+    margin-top: 10px;
+  }
+  
+  .photo-gallery img {
+    width: 200px;
+    height: auto;
+    border-radius: 8px;
+    object-fit: cover;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    transition: transform 0.2s ease;
+  }
+  
+  .photo-gallery img:hover {
+    transform: scale(1.03);
+  }

@@ -1,0 +1,164 @@
+---
+format:
+  html:
+    theme: united
+    code-fold: true
+    smooth-scroll: true
+    css: styles.css
+    toc: true
+---
+
+# Pico da Bandeira - Brazil 
+
+<div class="photo-gallery">
+  <img src="img/bandeira/1.jpg" alt="Pico da Bandeira 1">
+    <img src="img/bandeira/3.jpeg" alt="Pico da Bandeira 3">
+  <img src="img/bandeira/4.jpg" alt="Pico da Bandeira 4">
+  <img src="img/bandeira/5.jpg" alt="Pico da Bandeira 5">
+  <img src="img/bandeira/6.jpg" alt="Pico da Bandeira 6">
+  <img src="img/bandeira/2.jpg" alt="Pico da Bandeira 2">
+  <img src="img/bandeira/7.jpg" alt="Pico da Bandeira 7">
+  <img src="img/bandeira/8.jpg" alt="Pico da Bandeira 8">
+</div>
+
+# Bergen - Norway
+
+<div class="photo-gallery">
+  <img src="img/bergen/1.jpg" alt="Bergen 1">
+  <img src="img/bergen/2.jpg" alt="Bergen 2">
+  <img src="img/bergen/3.jpg" alt="Bergen 3">
+  <img src="img/bergen/4.jpg" alt="Bergen 4">
+  <img src="img/bergen/5.jpg" alt="Bergen 5">
+  <img src="img/bergen/6.jpg" alt="Bergen 6">
+  <img src="img/bergen/7.jpeg" alt="Bergen 7">
+  <img src="img/bergen/8.jpeg" alt="Bergen 8">
+  <img src="img/bergen/9.jpeg" alt="Bergen 9">
+  <img src="img/bergen/10.jpeg" alt="Bergen 10">
+  <img src="img/bergen/11.jpeg" alt="Bergen 11">
+  <img src="img/bergen/12.jpeg" alt="Bergen 12">
+  <img src="img/bergen/13.jpeg" alt="Bergen 13">
+  <img src="img/bergen/14.jpeg" alt="Bergen 14">
+  <img src="img/bergen/15.jpg" alt="Bergen 15">
+</div>
+
+# Finse - Norway
+
+<div class="photo-gallery">
+  <img src="img/finse/1.jpeg" alt="Finse 1">
+  <img src="img/finse/2.jpeg" alt="Finse 2">
+  <img src="img/finse/3.jpeg" alt="Finse 3">
+  <img src="img/finse/5.jpg" alt="Finse 5">
+  <img src="img/finse/6.jpeg" alt="Finse 6">
+  <img src="img/finse/7.jpg" alt="Finse 7">
+  <img src="img/finse/8.jpeg" alt="Finse 8">
+  <img src="img/finse/9.jpeg" alt="Finse 9">
+  <img src="img/finse/10.jpeg" alt="Finse 10">
+  <img src="img/finse/11.jpeg" alt="Finse 11">
+  <img src="img/finse/12.jpeg" alt="Finse 12">
+  <img src="img/finse/13.jpeg" alt="Finse 13">
+  <img src="img/finse/14.jpeg" alt="Finse 14">
+  <img src="img/finse/15.jpeg" alt="Finse 15">
+  <img src="img/finse/16.jpeg" alt="Finse 16">
+  <img src="img/finse/17.jpeg" alt="Finse 17">
+  <img src="img/finse/18.jpeg" alt="Finse 18">
+  <img src="img/finse/19.jpeg" alt="Finse 19">
+  <img src="img/finse/20.jpeg" alt="Finse 20">
+  <img src="img/finse/21.jpeg" alt="Finse 21">
+  <img src="img/finse/22.jpeg" alt="Finse 22">
+  <img src="img/finse/23.jpeg" alt="Finse 23">
+  <img src="img/finse/24.jpeg" alt="Finse 24">
+  <img src="img/finse/25.jpeg" alt="Finse 25">
+</div>
+
+# Nordfjord - Norway
+
+<div class="photo-gallery">
+  <img src="img/nordfjord/1.jpeg" alt="Nordfjord 1">
+  <img src="img/nordfjord/2.jpeg" alt="Nordfjord 2">
+  <img src="img/nordfjord/3.jpeg" alt="Nordfjord 3">
+  <img src="img/nordfjord/4.jpeg" alt="Nordfjord 4">
+  <img src="img/nordfjord/5.jpeg" alt="Nordfjord 5">
+  <img src="img/nordfjord/6.jpeg" alt="Nordfjord 6">
+  <img src="img/nordfjord/7.jpeg" alt="Nordfjord 7">
+  <img src="img/nordfjord/8.jpeg" alt="Nordfjord 8">
+  <img src="img/nordfjord/9.jpeg" alt="Nordfjord 9">
+  <img src="img/nordfjord/10.jpeg" alt="Nordfjord 10">
+  <img src="img/nordfjord/11.jpeg" alt="Nordfjord 11">
+  <img src="img/nordfjord/12.jpeg" alt="Nordfjord 12">
+  <img src="img/nordfjord/13.jpeg" alt="Nordfjord 13">
+  <img src="img/nordfjord/14.jpeg" alt="Nordfjord 14">
+  <img src="img/nordfjord/15.jpeg" alt="Nordfjord 15">
+  <img src="img/nordfjord/16.jpeg" alt="Nordfjord 16">
+  <img src="img/nordfjord/17.jpeg" alt="Nordfjord 17">
+  <img src="img/nordfjord/18.jpeg" alt="Nordfjord 18">
+  <img src="img/nordfjord/19.jpeg" alt="Nordfjord 19">
+  <img src="img/nordfjord/20.jpeg" alt="Nordfjord 20">
+  <img src="img/nordfjord/21.jpeg" alt="Nordfjord 21">
+</div>
+
+# Azores - Portugal
+
+<div class="photo-gallery">
+  <img src="img/azores/1.jpeg" alt="Azores 1">
+  <img src="img/azores/2.jpeg" alt="Azores 2">
+  <img src="img/azores/3.jpeg" alt="Azores 3">
+  <img src="img/azores/4.jpeg" alt="Azores 4">
+  <img src="img/azores/5.jpeg" alt="Azores 5">
+  <img src="img/azores/6.jpeg" alt="Azores 6">
+  <img src="img/azores/7.jpeg" alt="Azores 7">
+  <img src="img/azores/8.jpeg" alt="Azores 8">
+  <img src="img/azores/9.jpeg" alt="Azores 9">
+  <img src="img/azores/10.jpg" alt="Azores 10">
+  <img src="img/azores/11.jpeg" alt="Azores 11">
+  <img src="img/azores/12.jpeg" alt="Azores 12">
+  <img src="img/azores/13.jpeg" alt="Azores 13">
+  <img src="img/azores/14.jpeg" alt="Azores 14">
+  <img src="img/azores/15.jpeg" alt="Azores 15">
+  <img src="img/azores/16.jpeg" alt="Azores 16">
+  <img src="img/azores/17.jpeg" alt="Azores 17">
+  <img src="img/azores/18.jpeg" alt="Azores 18">
+  <img src="img/azores/19.jpeg" alt="Azores 19">
+  <img src="img/azores/20.jpeg" alt="Azores 20">
+  <img src="img/azores/21.jpeg" alt="Azores 21">
+</div>
+
+# Tapado Glacier - Chile
+
+<div class="photo-gallery">
+  <img src="img/tapado/1.jpeg" alt="Tapado 1">
+  <img src="img/tapado/2.jpeg" alt="Tapado 2">
+  <img src="img/tapado/3.jpeg" alt="Tapado 3">
+  <img src="img/tapado/4.jpeg" alt="Tapado 4">
+  <img src="img/tapado/5.jpeg" alt="Tapado 5">
+  <img src="img/tapado/6.jpeg" alt="Tapado 6">
+  <img src="img/tapado/7.jpeg" alt="Tapado 7">
+  <img src="img/tapado/8.jpeg" alt="Tapado 8">
+  <img src="img/tapado/9.jpeg" alt="Tapado 9">
+  <img src="img/tapado/10.jpeg" alt="Tapado 10">
+  <img src="img/tapado/11.jpeg" alt="Tapado 11">
+  <img src="img/tapado/12.jpeg" alt="Tapado 12">
+  <img src="img/tapado/13.jpeg" alt="Tapado 13">
+  <img src="img/tapado/14.jpeg" alt="Tapado 14">
+  <img src="img/tapado/15.jpeg" alt="Tapado 15">
+  <img src="img/tapado/16.jpeg" alt="Tapado 16">
+  <img src="img/tapado/17.jpeg" alt="Tapado 17">
+  <img src="img/tapado/18.jpeg" alt="Tapado 18">
+  <img src="img/tapado/19.jpeg" alt="Tapado 19">
+  <img src="img/tapado/20.jpeg" alt="Tapado 20">
+  <img src="img/tapado/21.jpeg" alt="Tapado 21">
+  <img src="img/tapado/22.jpeg" alt="Tapado 22">
+  <img src="img/tapado/23.jpg" alt="Tapado 23">
+  <img src="img/tapado/24.jpg" alt="Tapado 24">
+  <img src="img/tapado/25.jpg" alt="Tapado 25">
+  <img src="img/tapado/26.jpg" alt="Tapado 26">
+  <img src="img/tapado/27.jpg" alt="Tapado 27">
+  <img src="img/tapado/28.jpeg" alt="Tapado 28">
+  <img src="img/tapado/29.jpg" alt="Tapado 29">
+  <img src="img/tapado/30.jpg" alt="Tapado 30">
+  <img src="img/tapado/31.jpg" alt="Tapado 31">
+  <img src="img/tapado/32.jpg" alt="Tapado 32">
+  <img src="img/tapado/33.jpg" alt="Tapado 33">
+  <img src="img/tapado/34.jpg" alt="Tapado 34">
+  <img src="img/tapado/35.jpg" alt="Tapado 35">
+  <img src="img/tapado/36.jpg" alt="Tapado 36">
+</div>
