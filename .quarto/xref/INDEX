@@ -1,0 +1,32 @@
+{
+  "about.qmd": {
+    "about.html": "949cc482"
+  },
+  "activities.qmd": {
+    "activities.html": "ee846573"
+  },
+  "CV.qmd": {
+    "CV.html": "a1be06c2"
+  },
+  "fieldwork.qmd": {
+    "fieldwork.html": "ed861cbc"
+  },
+  "glacimontis.qmd": {
+    "glacimontis.html": "aa99c784"
+  },
+  "index.qmd": {
+    "index.html": "153188d9"
+  },
+  "research.qmd": {
+    "research.html": "c7a3b1cd"
+  },
+  "tapado.qmd": {
+    "tapado.html": "d1cea540"
+  },
+  "thermalmap.qmd": {
+    "thermalmap.html": "46a53bde"
+  },
+  "uibcollaborative.qmd": {
+    "uibcollaborative.html": "9cb07b58"
+  }
+}
