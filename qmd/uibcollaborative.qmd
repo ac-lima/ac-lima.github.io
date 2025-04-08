@@ -22,7 +22,6 @@ format:
   <p>
     The GeoBridge platform offers a dynamic schedule of events aimed at skill sharing, networking, and collaborative project design:
   </p>
-  ---
   
   <img src="img/monthlyseminars.png" alt="Monthly Series" style="width: 100%; height: auto; border-radius: 8px; margin: 15px 0;" />
   
@@ -39,9 +38,7 @@ format:
 </div>
 
 <div class="card p-4 border rounded shadow-sm mb-4">
-  <h2>📬 Contact</h2>
-  <p>For more information, visit the <a href="https://ac-lima.github.io/geobridge" target="_blank">GeoBridge Website</a> or reach out directly:</p>
-  <ul>
-    <li><strong>Email:</strong> <a href="mailto:augusto.naschimento@uib.no">augusto.naschimento@uib.no</a></li>
-  </ul>
+  <h5>📬 Contact</h5>
+  <p>For more information, visit the <a href="https://ac-lima.github.io/geobridge" target="_blank">GeoBridge Website</a> or reach out directly: <a href="mailto:augusto.naschimento@uib.no">augusto.naschimento@uib.no</a></li>
+  </p>
 </div>
