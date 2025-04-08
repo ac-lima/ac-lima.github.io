@@ -1,6 +1,6 @@
 ---
 title: "<a href='https://www.mdpi.com/2073-4433/13/3/491' target='_blank'>Urban Heat Islands: A Comparison of Air and Land Surface Temperature in São Paulo</a>"
-authors: "Augusto Lima, Emerson Galvani, João Paulo Assis Gobo & Cássio Arthur Wollmann"
+authors: "Augusto Lima, **Emerson Galvani**, João Paulo Assis Gobo & Cássio Arthur Wollmann"
 date: 2022-03-18
 format:
   html:
@@ -10,25 +10,44 @@ format:
     css: styles.css
 ---
 
-Our research investigated the relationship between air temperature and land surface temperature (LST) in São Paulo, Brazil, focusing on how urbanization and seasonal variations affect temperature patterns across the city. We used remote sensing data to quantify the urban heat island effect and found substantial temperature differences between urban and rural areas. Specifically, urban regions experienced temperatures approximately 5.8 to 11.5 °C warmer than rural areas during spring–summer and 4.4 to 8.5 °C warmer during autumn–winter, clearly showing how urban development significantly influences local climate.
-
-<div style="text-align: center;">
-  <img src="img/spimg.png" alt="Thermal Results" style="max-width: 100%; height: auto; object-fit: contain;" />
-  <p style="margin-top: 1rem; font-size: 0.95em; color: #555;">
-      Land Use/Land Cover (LULC) classification of Sao Paulo city on the right. Thermal mapping of LST of Sao Paulo during summer on center and during winter on the left.
+<div class="card p-4 border rounded shadow-sm mb-4">
+  <p>
+    Our research investigated the relationship between air temperature and land surface temperature (LST) in São Paulo, Brazil, focusing on how urbanization and seasonal variations affect temperature patterns across the city. We used remote sensing data to quantify the urban heat island effect and found substantial temperature differences between urban and rural areas.
+  </p>
+  <p>
+    Specifically, urban regions experienced temperatures approximately <strong>5.8 to 11.5 °C</strong> warmer than rural areas during spring–summer, and <strong>4.4 to 8.5 °C</strong> warmer during autumn–winter. These results clearly show how urban development significantly influences local climate.
   </p>
 </div>
 
-More important, this study demonstrates that remote sensing is a highly effective, affordable, and practical tool for monitoring urban climate conditions. By providing precise enough spatial temperature data, our findings can directly inform urban planning strategies and environmental policies. Ultimately, this research highlights the importance of integrating remote sensing technology to better manage and mitigate urban heat island effects in growing cities that don't have a network of weather stations.
-
-
-<div style="text-align: center;">
-  <img src="img/thermalimg.png" alt="Thermal Graphs" style="max-width: 100%; height: auto; object-fit: contain;" />
-  <p style="margin-top: 1rem; font-size: 0.95em; color: #555;">
-      Comparison between Air Temperature and Land Surface Temperature during winter (left) and summer (right) seasons.
+<div class="text-center mb-4">
+  <img src="img/spimg.png" alt="Thermal Results" class="img-fluid rounded shadow-sm" />
+  <p class="text-muted mt-2" style="font-size: 0.95em;">
+    <em>Land Use/Land Cover (LULC) classification of São Paulo on the right. LST thermal mapping during summer (center) and winter (left).</em>
   </p>
 </div>
 
-# Contact
+<div class="card p-4 border rounded shadow-sm mb-4">
+  <p>
+    More importantly, this study demonstrates that remote sensing is a highly effective, affordable, and practical tool for monitoring urban climate conditions. By providing sufficiently precise spatial temperature data, our findings can directly inform urban planning strategies and environmental policies.
+  </p>
+  <p>
+    Ultimately, this research highlights the importance of integrating remote sensing technology to better manage and mitigate urban heat island effects—especially in growing cities that lack a dense network of weather stations.
+  </p>
+</div>
 
-Have questions? Reach out on [Email](mailto:augusto.naschimento@uib.no) and access the [Full Paper](https://www.mdpi.com/2073-4433/13/3/491) for further reading.
+<div class="text-center mb-4">
+  <img src="img/thermalimg.png" alt="Thermal Graphs" class="img-fluid rounded shadow-sm" />
+  <p class="text-muted mt-2" style="font-size: 0.95em;">
+    <em>Comparison between Air Temperature and Land Surface Temperature during winter (left) and summer (right).</em>
+  </p>
+</div>
+
+# 📬 Contact
+
+<div class="card p-4 border rounded shadow-sm">
+  <p>Have questions or want to learn more? Reach out via email or explore the full publication below:</p>
+  <ul>
+    <li><strong>Email:</strong> <a href="mailto:augusto.naschimento@uib.no">augusto.naschimento@uib.no</a></li>
+    <li><strong>Full Paper:</strong> <a href="https://www.mdpi.com/2073-4433/13/3/491" target="_blank">Urban Heat Islands: A Comparison of Air and Land Surface Temperature in São Paulo</a></li>
+  </ul>
+</div>

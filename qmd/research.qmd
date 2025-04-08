@@ -9,7 +9,7 @@ body {
   background-color: #F1F6FA !important;
 }
 
-/* Container for each circular image + label */
+/* Base layout (unchanged) */
 .project-circle {
   width: 275px;
   text-align: center;
@@ -19,25 +19,31 @@ body {
   transform: translateY(-20%);
 }
 
-/* Specific positioning for each project */
+/* Your manual spacing */
 .project1 { left: 120px; }
 .project2 { left: calc(120px + 400px + 25px); }
 .project3 { left: calc(120px + 400px + 25px + 400px + 25px); }
 .project4 { left: calc(120px + 400px + 25px + 400px + 25px + 400px + 25px); }
 
-/* Circular image */
+/* Styling for the images */
 .project-image {
   width: 275px;
   height: 275px;
   border-radius: 50%;
   object-fit: cover;
-  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+  transition: transform 0.3s ease;
 }
 
-/* Spacing between image and label */
+.project-image:hover {
+  transform: scale(1.05);
+}
+
+/* Styling for the label */
 .project-circle p {
   margin-top: 15px;
   font-size: 1em;
+  color: #222;
 }
 </style>
 
@@ -65,5 +71,5 @@ body {
 
 <div class="project-circle project4">
   <img src="img/proj4.png" alt="Project 4" class="project-image">
-  <p>UiB Collaborative Platform for GIS & RS</p>
+  <p>GeoBridge</p>
 </div>

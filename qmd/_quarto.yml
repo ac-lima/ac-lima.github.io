@@ -37,7 +37,7 @@ website:
           - href: glacimontis.qmd
             text: GLACIMONTIS
           - href: uibcollaborative.qmd
-            text: UiB Collaborative Platform for GIS/RS
+            text: GeoBridge
       - href: fieldwork.qmd
         text: Fieldwork Gallery
       - href: activities.qmd

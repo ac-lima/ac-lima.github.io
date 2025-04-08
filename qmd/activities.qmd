@@ -8,126 +8,140 @@ format:
     css: styles.css
 ---
 
-# Grants
+# 🏅 Grants
 
-### Student4Student Summerschool
-**Date:** 2025.04.07<br>
-This grant provided me with a registration waiver worth of €450, allowing me to participate in the Summer School and share my work with an international audience. These opportunities have been invaluable in furthering my research and connecting with the global scientific community.
-
----
-
-### European Geosciences Union 2025 (EGU25) General Assembly
-**Date:** 2025.03.05<br>
-This grant provided me with a registration waiver worth €525, along with an additional €500 in support to attend the EGU25 conference. I was also honored to be awarded an oral presentation spot, where I present the GLACIMONTIS geodatabase on mountain glacier extents of the Last Glacial Maximum (LGM).
----
-
-# Internationl Conferences
-
-### International Mountain Conference 2025 (IMC25)
-**Date:** 2025.11.14<br>
-The advancements achieved by the GLACIMONTIS will further discussed in the [IMC25](https://imc2025.info/), under the session [FS 3.150: Methodological advances in mountain research](https://imc2025.info/imc25/sessions-n-workshops/focus-session/fs-3-150-methodological-advances-in-mountain-research/). As the first author and presenter, I will continue to share our team's work on a new open-access global geodatabase of mountain glacier extents spanning the period 57-14 kyr BP and will present the next advancements on our project.
-
----
-
-### European Geosciences Union 2025 (EGU25) General Assembly
-**Date:** 2025.04.29<br>
-I had the honor of delivering an abstract titled ["Global geodatabase of mountain glacier extents at the Last Glacial Maximum"](https://meetingorganizer.copernicus.org/EGU25/EGU25-20104.html) at the upcoming [EGU25 General Assembly](https://www.egu25.eu/). As the first author and presenter, I will have the opportunity to share our team's work on a new open-access global geodatabase of mountain glacier extents spanning the period 57-14 kyr BP. This synthesis integrates data from 219 studies and provides valuable insights into past climate variability, glacier modelling, and paleoecological reconstructions of mountain ecosystems.
-
----
-
-### European Geosciences Union 2024 (EGU24) General Assembly
-**Date:** 2024.04.16<br>
-I am honored to be part of the abstract titled ["Monitoring the physical processes driving the mass loss of Tapado Glacier, Desert Andes of Chile"](https://meetingorganizer.copernicus.org/EGU24/EGU24-13473.html) for the [EGU24 General Assembly](https://www.egu24.eu/). This abstract included some of the key results from my master's thesis, focusing on the dynamics of glaciers during the Last Glacial Maximum. It’s exciting to see my research contribute to the ongoing discussions at such a prestigious international event.
----
-
-# Summer Schools
-
-### Student4Student Summerschool
-**Date:** 2025.11.07 - 2025.11.12<br>
-I am excited to share that the GLACIMONTIS project will be featured in the [S4SS Summer School](https://imc2025.info/summerschool/), under the session [FS 3.509: Do we model what we measure?](https://imc2025.info/summerschool/s4sss25/sessions/do-we-model-what-we-measure/). This summer school is an excellent opportunity to engage with experts and peers in the field, discuss the methodologies behind mountain glacier research, and explore the application of GLACIMONTIS in validating model data.
-
----
-
-### 11-day International Summer School
-**Date:** 2022.12.04 - 2022.12.15<br>
-The [summer school in Tapado Glacier - Chile](https://storymaps.arcgis.com/stories/e956b861bd604e898312537c755df471) was an enriching experience where I got to expand my knowledge in Unmanned Aerial Vehicles technology and its application on cryosphere and landscape analysis. The program offered valuable insights through lectures, practical workshops, and networking opportunities with fellow researchers and experts in the field.
-
-<div>
-  <img src="img/activities/chile.JPG" alt="Chile" style="max-width: 100%; height: auto; object-fit: contain; display: block; margin: 0 auto;"/>
-</div>
----
-
-# Workshops
-
-### Geospatial Artificial Intelligence Workshop
-**Date:** 2024.05.23<br>
-I attended the [GeoAI Workshop](https://www.iearth.no/feed/geospatial-artificial-intelligence-workshop-23-24th-of-may), delving into the integration of advanced deep-learning algorithms within remote sensing workflows for image classification. The workshop was a collaboration between Geodata, iEarth, and the University of Bergen. 
-
-<div>
-  <img src="img/activities/geoai.png" alt="Geoai" style="max-width: 100%; height: auto; object-fit: contain; display: block; margin: 0 auto;"/>
+<div class="card mb-3 p-3 border rounded shadow-sm">
+  <h4>Student4Student Summerschool</h4>
+  <p>This grant covered the full registration fee (€450) for my participation in the Student4Student Summer School in Innsbruck.</p>
 </div>
 
----
-
-### International Workshop on Greenland Ice Sheet
-**Date:** 2023.04.27  
-I volunteered as an assistant for the [International Workshop on the Greenland Ice Sheet](https://www.uib.no/en/rg/quaternary/162213/international-workshop-greenland-ice-sheet). This workshop brought together experts to discuss the latest advancements in research on the Greenland Ice Sheet, focusing on its implications for climate science and global sea-level rise.
-
-<div>
-  <img src="img/activities/greenland.jpg" alt="Greenland" style="max-width: 100%; height: auto; object-fit: contain; display: block; margin: 0 auto;"/>
-</div>
----
-
-# Talks
-
-### Ecological and Environmental Change Research Group Lunch Talk  
-**Date:** 2025.03.28  
-I delivered another Lunch Talk to the Ecological and Environmental Change Research Group, where I discussed GLACIMONTIS, a global geodatabase of mountain glacier extents of the Last Glacial Maximum. I focused on the importance of this geodatabase in reconstructing past ecosystems, modeling species distributions, and assessing glacial refugia.
-
-<div>
-  <img src="img/activities/lunch2.JPG" alt="Lunch 2" style="max-width: 100%; height: auto; object-fit: contain; display: block; margin: 0 auto;"/>
+<div class="card mb-3 p-3 border rounded shadow-sm">
+  <h4>European Geosciences Union 2025 (EGU25) General Assembly</h4>
+  <p>I was awarded an EGU25 grant that included a full registration waiver (€525) and an additional €500 in travel support to attend the European Geosciences Union General Assembly in Vienna.</p>
 </div>
 
----
+# 🌍 International Conferences
 
-### 2025 Winter Speaker Series of the Western US Paleoglaciers Working Group  
-**Date:** 2025.03.14  
-I was invited to speak at the 2025 Winter Speaker Series of the Western US Paleoglaciers Working Group. My talk focused on the progress of the GLACIMONTIS project, which compiles a global geodatabase of paleoglaciers, sharing the latest findings and future directions for this critical resource.
-
-<div>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/cX87fKqr_yg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="card mb-3 p-3 border rounded shadow-sm">
+  <h4>International Mountain Conference 2025 (IMC25)</h4>
+  <p><strong>Date:</strong> 2025.11.14</p>
+  <p><strong>Place:</strong> Innsbruck, Austria</p>
+  <p>I was awarded an oral presentation at the <a href="https://imc2025.info/">International Mountain Conference 2025</a>, under the session <a href="https://imc2025.info/imc25/sessions-n-workshops/focus-session/fs-3-150-methodological-advances-in-mountain-research/">FS 3.150: Methodological advances in mountain research</a>. In this talk, I will present ongoing developments of the GLACIMONTIS project—an open-access global geodatabase of mountain glacier extents spanning 57–14 ka BP. The presentation will showcase methodological innovations in data integration and their implications for modeling paleoenvironmental conditions in mountain systems. IMC25 will provide a valuable opportunity to connect with researchers working at the forefront of high-altitude climate and landscape studies.</p>
 </div>
 
----
-
-### Bjerknes Annual Meeting 2025
-**Date:** 2024.10.01  
-At the [Bjerknes Annual Meeting 2025]((https://bjerknes.uib.no/kalender/bjerknes-annual-meeting)), I received excellent feedback from special guest Erica Coppola ([News](https://bjerknes.uib.no/en/news/meet-our-new-sac-member-erika-coppola)) regarding my research on paleoglaciers. The event provided a fantastic opportunity to present new findings and engage with the scientific community about the dynamics of glaciers during the Last Glacial Maximum.
-
-<div>
-  <img src="img/activities/bjerknes.JPG" alt="Bjerknes" style="max-width: 100%; height: auto; object-fit: contain; display: block; margin: 0 auto;"/>
+<div class="card mb-3 p-3 border rounded shadow-sm">
+  <h4>European Geosciences Union 2025 (EGU25)</h4>
+  <p><strong>Date:</strong> 2025.04.29</p>
+  <p><strong>Place:</strong> Viena, Austria</p>
+  <p>I will deliver an oral presentation of our abstract titled <a href="https://meetingorganizer.copernicus.org/EGU25/EGU25-20104.html">"Global geodatabase of mountain glacier extents at the Last Glacial Maximum"</a> at the <a href="https://www.egu25.eu/">EGU25 General Assembly</a>. As the first author and presenter, I will highlight our synthesis of glacier reconstructions from over 219 studies, exploring their applications in paleoclimate analysis, species distribution modelling, and glacier models validation. This presentation aims to foster dialogue on the role of curated spatial data in advancing our understanding of Quaternary climate variability and mountain landscape evolution.</p>
 </div>
 
----
+<div class="card mb-3 p-3 border rounded shadow-sm">
+  <h4>European Geosciences Union 2024 (EGU24)</h4>
+  <p><strong>Date:</strong> 2024.04.16</p>
+  <p><strong>Place:</strong> Viena, Austria</p>
+  <p>Although I did not attend the <a href="https://www.egu24.eu/">EGU24 General Assembly</a>, I was proud to contribute to the abstract <a href="https://meetingorganizer.copernicus.org/EGU24/EGU24-13473.html">"Monitoring the physical processes driving the mass loss of Tapado Glacier, Desert Andes of Chile"</a>, presented by Prof. Álvaro Ayala. The manuscript incorporated key findings from my master’s thesis, which focused on the glaciological dynamics of Tapado Glacier. This contribution reflects the broader relevance of my research in understanding contemporary glacier change in high mountain environments.</p>
+</div>
 
-### Ecological and Environmental Change Research Group Lunch Talk  
-**Date:** 2024.04.12  
-I delivered a Lunch Talk for the Ecological and Environmental Change Research Group, presenting recent advancements in paleoclimate research, with a focus on literature review methods and data accessibility.
+# 🏫 Summer Schools & Study Exchange
 
----
+<div class="card mb-3 p-3 border rounded shadow-sm">
+  <h4>Student4Student Summer School</h4>
+  <p><strong>Date:</strong> 2025.11.07 – 2025.11.12</p>
+  <p><strong>Place:</strong> Innsbruck, Austria</p>
+  <p>I will participate in the <a href="https://imc2025.info/summerschool/">Student4Student Summer School (S4SS)</a> as a grant-supported attendee and presenter. The GLACIMONTIS project was selected for inclusion in the session <a href="https://imc2025.info/summerschool/s4sss25/sessions/do-we-model-what-we-measure/">FS 3.509: Do we model what we measure?</a>, which focuses on bridging empirical data and modeling practices in mountain research. I will present ongoing work on spatial uncertainty in paleoglacier reconstructions and discuss how GLACIMONTIS can be used to test and refine glaciological models. The summer school provides a unique space for peer-to-peer learning, interdisciplinary exchange, and critical reflection on the tools we use to understand past environmental change.</p>
+</div>
 
-### XVI Colóquio de Estudantes de Pós-graduação da Universidade de São Paulo  
-**Date:** 2023.10.19  
-I participated in the XVI Colóquio de Estudantes de Pós-graduação da USP, where I presented my master's thesis on Tapado Glacier in a collaboration in between Universidade de São Paulo (USP) and University of Bergen (UiB). It was a great platform to exchange ideas with fellow graduate students and experts in the field.
+<div class="card mb-3 p-3 border rounded shadow-sm">
+  <h4>International Summer School (Chile)</h4>
+  <p><strong>Date:</strong> 2022.12.04 – 2022.12.15</p>
+  <p><strong>Place:</strong> La Serena, Chile</p>
+  <p>I took part in an 11-day international summer school organized around <a href="https://storymaps.arcgis.com/stories/e956b861bd604e898312537c755df471">Tapado Glacier</a>, focusing on the application of Unmanned Aerial Vehicles (UAVs) in cryosphere and landscape research. Through field-based training, data acquisition, and analysis workshops, I gained hands-on experience in UAV operations, structure-from-motion photogrammetry, and digital elevation model generation. The program also emphasized collaborative research and included site-specific discussions on glacier-climate interactions in the high-altitude Andes. This training directly supported the methodological foundation of my master’s thesis and strengthened ties between researchers from South America and Europe.</p>
+  <img src="img/activities/chile.JPG" alt="Chile Summer School" class="img-fluid rounded mx-auto d-block mt-2"/>
+</div>
 
----
+<div class="card mb-3 p-3 border rounded shadow-sm">
+  <h4>Erasmus+ Exchange at Charles University</h4>
+  <p><strong>Date:</strong> 2022.09.24 – 2023.02.25</p>
+  <p><strong>Place:</strong> Prague, Czech Republic</p>
+  <p>As part of my master’s studies, I took part in an Erasmus+ exchange at Charles University in Prague. During the semester, I focused on the application of Geographic Information Systems (GIS) and Remote Sensing (RS) in environmental and urban analysis. The experience allowed me to engage with interdisciplinary coursework and deepen my technical skills in spatial data processing, urban land cover classification, and satellite image interpretation. Studying in an international academic setting also broadened my perspective on how geospatial technologies are used in sustainable urban planning and landscape management across Europe.</p>
+</div>
 
-### GIS/Remote Sensing Workshop Group Get-Together  
-**Date:** 2023.09.20  
-This event was a collaborative gathering of professionals, students, and researchers in GIS and Remote Sensing. We shared experiences, discussed recent developments in these fields, and explored opportunities for future collaboration in landscape analysis and environmental monitoring. I presented the results and methods of my master's thesis on the melting processes at Tapado Glacier, Chile.
+<div class="card mb-3 p-3 border rounded shadow-sm">
+  <h4>Bachelor Exchange at the University of Bergen (UiB)</h4>
+  <p><strong>Date:</strong> 2021.01.04 – 2021.12.20</p>
+  <p><strong>Place:</strong> Bergen, Norway</p>
+  <p>During my undergraduate studies in Geography, I spent one academic year at the University of Bergen through a bilateral exchange program. My coursework focused on Quaternary geomorphology, cryosphere dynamics, and advanced GIS and Remote Sensing techniques. This period was formative in shaping my interest in long-term environmental change and mountain glaciation, as I gained hands-on experience with spatial data analysis, landform mapping, and proxy-based climate interpretation. The exchange also marked my first academic involvement in cryospheric science and laid the foundation for my ongoing focus on glacial and paleoenvironmental research in high-mountain regions.</p>
+</div>
 
----
+# 🛠️ Workshops
 
-### Panorama Atual dos Projetos de Pesquisa Integrados: Avanços nas Parcerias USP e UNIR  
-**Date:** 2022.12.16  
-In this event presented my master's thesis project, fostering the collaboration between the University of Bergen (UiB) and the University of São Paulo (USP). The event was a discussion on the current panorama of integrated research projects, highlighting the advancements in partnerships between USP and the Federal University of Rondônia (UNIR). It was an opportunity to share insights and get to know ongoing research projects.
+<div class="card mb-3 p-3 border rounded shadow-sm">
+  <h4>Geospatial Artificial Intelligence Workshop</h4>
+  <p><strong>Date:</strong> 2024.05.23</p>
+  <p><strong>Place:</strong> Bergen, Norway</p>
+  <p>I attended the <a href="https://www.iearth.no/feed/geospatial-artificial-intelligence-workshop-23-24th-of-may">Geospatial Artificial Intelligence Workshop</a>, a two-day event co-organized by Geodata, iEarth, and the University of Bergen. The workshop explored the integration of deep learning algorithms in geospatial workflows, with a focus on remote sensing image classification. Through hands-on exercises and expert-led sessions, I deepened my understanding of convolutional neural networks and their applications to Earth observation data. This experience strengthened my ability to evaluate AI tools for cryosphere studies and opened pathways for future work at the intersection of geoinformatics and environmental change.</p>
+  <img src="img/activities/geoai.png" alt="GeoAI Workshop" class="img-fluid rounded mx-auto d-block mt-2"/>
+</div>
+
+<div class="card mb-3 p-3 border rounded shadow-sm">
+  <h4>International Workshop on Greenland Ice Sheet</h4>
+  <p><strong>Date:</strong> 2023.04.27</p>
+  <p><strong>Place:</strong> Bergen, Norway</p>
+  <p>I volunteered as an assistant for the <a href="https://www.uib.no/en/rg/quaternary/162213/international-workshop-greenland-ice-sheet">International Workshop on the Greenland Ice Sheet</a>, which brought together scientists to share recent advances in Greenland ice sheet dynamics and their implications for climate change and sea-level rise. My role included logistical and technical support throughout the event. This workshop provided me with a broader context for academic event management and organization.</p>
+  <img src="img/activities/greenland.jpg" alt="Greenland Workshop" class="img-fluid rounded mx-auto d-block mt-2"/>
+</div>
+
+# 🎤 Talks
+
+<div class="card mb-3 p-3 border rounded shadow-sm">
+  <h4>Lunch Talk – Ecological and Environmental Change Research Group</h4>
+  <p><strong>Date:</strong> 2025.03.28</p>
+  <p><strong>Place:</strong> Bergen, Norway</p>
+  <p>I delivered a departmental Lunch Talk to the Ecological and Environmental Change Research Group, where I presented ongoing work from the GLACIMONTIS project. My presentation focused on the global geodatabase of mountain glacier extents during the Last Glacial Maximum and its implications for paleoecological reconstructions. I discussed the database’s role in identifying glacial refugia and informing species distribution models in mountainous environments. The talk encouraged interdisciplinary discussion among geographers, ecologists, and paleoclimatologists, strengthening local interest in cross-scalar Quaternary research.</p>
+  <img src="img/activities/lunch2.JPG" alt="Lunch Talk 2025" class="img-fluid rounded mx-auto d-block mt-2"/>
+</div>
+
+<div class="card mb-3 p-3 border rounded shadow-sm">
+  <h4>Western US Paleoglaciers Working Group – Speaker Series</h4>
+  <p><strong>Date:</strong> 2025.03.14</p>
+  <p><strong>Place:</strong> Online</p>
+  <p>I was invited to speak in the 2025 Winter Speaker Series of the Western US Paleoglaciers Working Group. My presentation focused on the methodology and results of the GLACIMONTIS initiative, emphasizing global patterns in paleoglacier extent and the challenges of harmonizing spatial data from diverse reconstructions. I also shared preliminary findings on mountain glacier variability across regions and discussed future directions in open-access paleodata publishing.</p>
+  <a href="https://www.youtube.com/watch?v=cX87fKqr_yg" target="_blank" class="btn btn-primary mt-2">🎥 Watch the talk here!</a>
+</div>
+
+<div class="card mb-3 p-3 border rounded shadow-sm">
+  <h4>Bjerknes Annual Meeting 2025</h4>
+  <p><strong>Date:</strong> 2024.10.01</p>
+  <p><strong>Place:</strong> Bergen, Norway</p>
+  <p>At the <a href="https://bjerknes.uib.no/kalender/bjerknes-annual-meeting">Bjerknes Annual Meeting</a>, I presented my ongoing work on paleoglaciers and their relevance to present-day mountain ecosystem dynamics. The event gathered members of the Bjerknes Centre for Climate Research, fostering exchanges between Earth system scientists across disciplines. I received valuable feedback from keynote guest <a href="https://bjerknes.uib.no/en/news/meet-our-new-sac-member-erika-coppola">Dr. Erika Coppola</a>, particularly on integrating paleodata into climate model validation efforts.</p>
+  <img src="img/activities/bjerknes.JPG" alt="Bjerknes Meeting" class="img-fluid rounded mx-auto d-block mt-2"/>
+</div>
+
+<div class="card mb-3 p-3 border rounded shadow-sm">
+  <h4>Lunch Talk – Ecological and Environmental Change Group</h4>
+  <p><strong>Date:</strong> 2024.04.12</p>
+  <p><strong>Place:</strong> Bergen, Norway</p>
+  <p>I presented a departmental Lunch Talk to the Ecological and Environmental Change Research Group, focusing on literature review strategies and the accessibility of paleoclimate data. I shared my experiences with systematic database compilation and discussed tools for improving reproducibility and transparency in geoscientific synthesis work.</p>
+</div>
+
+<div class="card mb-3 p-3 border rounded shadow-sm">
+  <h4>XVI Colóquio de Estudantes de Pós-graduação da USP</h4>
+  <p><strong>Date:</strong> 2023.10.19</p>
+  <p><strong>Place:</strong> São Paulo, Brazil</p>
+  <p>I presented my master’s thesis at the <em>XVI Colóquio de Estudantes de Pós-graduação</em> at the University of São Paulo (USP), where I discussed glacial dynamics at Tapado Glacier and the development of a field-based monitoring strategy. The event fostered interdisciplinary exchange and provided a platform for emerging research across Brazilian graduate programs. My talk also highlighted the collaboration between USP and the University of Bergen (UiB), strengthening international academic ties.</p>
+</div>
+
+<div class="card mb-3 p-3 border rounded shadow-sm">
+  <h4>GIS/Remote Sensing Workshop Group Get-Together</h4>
+  <p><strong>Date:</strong> 2023.09.20</p>
+  <p><strong>Place:</strong> Bergen, Norway</p>
+  <p>During a departmental gathering of the GIS and Remote Sensing Workshop Group, I presented results and methods from my master’s thesis on glacial melt processes at Tapado Glacier, Chile. The event brought together researchers and students interested in spatial technologies, facilitating discussions on UAV data processing, DEM accuracy, and landscape change detection. My contribution helped demonstrate the applicability of remote sensing methods in high-mountain environments under climate stress.</p>
+</div>
+
+<div class="card mb-3 p-3 border rounded shadow-sm">
+  <h4>Panorama Atual dos Projetos de Pesquisa Integrados (USP/UNIR)</h4>
+  <p><strong>Date:</strong> 2022.12.16</p>
+  <p><strong>Place:</strong> São Paulo, Brazil</p>
+  <p>I presented my master's thesis project at the event <em>Panorama Atual dos Projetos de Pesquisa Integrados</em>, which focused on the progress of collaborative initiatives between the University of São Paulo (USP) and the Federal University of Rondônia (UNIR). My talk emphasized the value of international research collaboration, highlighting fieldwork in the Chilean Andes and my joint academic affiliation with the University of Bergen (UiB). The event served as a platform for interdisciplinary dialogue and cross-institutional research planning in Brazil.</p>
+</div>

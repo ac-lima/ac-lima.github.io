@@ -8,6 +8,8 @@ format:
     toc: true
 ---
 
+<div id="map" style="height: 500px; margin-bottom: 2rem;"></div>
+
 # Pico da Bandeira - Brazil 
 
 <div class="photo-gallery">
@@ -162,3 +164,33 @@ format:
   <img src="img/tapado/35.JPG" alt="Tapado 35">
   <img src="img/tapado/36.JPG" alt="Tapado 36">
 </div>
+
+<!-- Leaflet.js styles and script -->
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.3/dist/leaflet.css" />
+<script src="https://unpkg.com/leaflet@1.9.3/dist/leaflet.js"></script>
+
+<script>
+  // Create the map
+  const map = L.map('map').setView([20, 0], 2); // World view
+
+  // Add OpenStreetMap tiles
+  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    attribution: '&copy; OpenStreetMap contributors'
+  }).addTo(map);
+
+  // Define markers
+  const markers = [
+    { place: "Pico da Bandeira", lat: -20.44, lon: -41.79 },
+    { place: "Bergen", lat: 60.39, lon: 5.32 },
+    { place: "Finse", lat: 60.60, lon: 7.51 },
+    { place: "Nordfjord", lat: 61.92, lon: 6.72 },
+    { place: "Azores", lat: 37.74, lon: -25.67 },
+    { place: "Tapado Glacier", lat: -30.13, lon: -69.89 },
+    { place: "Prague (Erasmus Exchange)", lat: 50.0755, lon: 14.4378 }
+  ];
+
+  // Add markers to map
+  markers.forEach(({ place, lat, lon }) => {
+    L.marker([lat, lon]).addTo(map).bindPopup(`<strong>${place}</strong>`);
+  });
+</script>

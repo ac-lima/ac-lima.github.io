@@ -33,7 +33,7 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-2f5df379a58b258e96c21c0638c20c03.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-70bd1e6054638e554be7dd495c03aabe.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-c9568b247aef3b28382fc6cbfeff32a9.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "language": {
     "search-no-results-text": "No results",
@@ -101,7 +101,7 @@ ul.task-list li input[type="checkbox"] {
   </li>  
         <li>
     <a class="dropdown-item" href="./uibcollaborative.html">
- <span class="dropdown-text">UiB Collaborative Platform for GIS/RS</span></a>
+ <span class="dropdown-text">GeoBridge</span></a>
   </li>  
     </ul>
   </li>
@@ -188,6 +188,9 @@ window.addEventListener("load", detectZoom);
 
 
 
+<div id="map" style="height: 500px; margin-bottom: 2rem;">
+
+</div>
 <section id="pico-da-bandeira---brazil" class="level1">
 <h1>Pico da Bandeira - Brazil</h1>
 <div class="photo-gallery">
@@ -223,6 +226,34 @@ window.addEventListener("load", detectZoom);
 <div class="photo-gallery">
 <p><img src="img/tapado/1.JPEG" alt="Tapado 1"> <img src="img/tapado/2.JPEG" alt="Tapado 2"> <img src="img/tapado/3.JPEG" alt="Tapado 3"> <img src="img/tapado/4.JPEG" alt="Tapado 4"> <img src="img/tapado/5.JPEG" alt="Tapado 5"> <img src="img/tapado/6.JPEG" alt="Tapado 6"> <img src="img/tapado/7.JPEG" alt="Tapado 7"> <img src="img/tapado/8.JPEG" alt="Tapado 8"> <img src="img/tapado/9.JPEG" alt="Tapado 9"> <img src="img/tapado/10.JPEG" alt="Tapado 10"> <img src="img/tapado/11.JPEG" alt="Tapado 11"> <img src="img/tapado/12.JPEG" alt="Tapado 12"> <img src="img/tapado/13.JPEG" alt="Tapado 13"> <img src="img/tapado/14.JPEG" alt="Tapado 14"> <img src="img/tapado/15.JPEG" alt="Tapado 15"> <img src="img/tapado/16.JPEG" alt="Tapado 16"> <img src="img/tapado/17.JPEG" alt="Tapado 17"> <img src="img/tapado/18.JPEG" alt="Tapado 18"> <img src="img/tapado/19.JPEG" alt="Tapado 19"> <img src="img/tapado/20.JPEG" alt="Tapado 20"> <img src="img/tapado/21.JPEG" alt="Tapado 21"> <img src="img/tapado/22.JPEG" alt="Tapado 22"> <img src="img/tapado/23.JPG" alt="Tapado 23"> <img src="img/tapado/24.JPG" alt="Tapado 24"> <img src="img/tapado/25.JPG" alt="Tapado 25"> <img src="img/tapado/26.JPG" alt="Tapado 26"> <img src="img/tapado/27.JPG" alt="Tapado 27"> <img src="img/tapado/28.JPEG" alt="Tapado 28"> <img src="img/tapado/29.JPG" alt="Tapado 29"> <img src="img/tapado/30.JPG" alt="Tapado 30"> <img src="img/tapado/31.JPG" alt="Tapado 31"> <img src="img/tapado/32.JPG" alt="Tapado 32"> <img src="img/tapado/33.JPG" alt="Tapado 33"> <img src="img/tapado/34.JPG" alt="Tapado 34"> <img src="img/tapado/35.JPG" alt="Tapado 35"> <img src="img/tapado/36.JPG" alt="Tapado 36"></p>
 </div>
+<!-- Leaflet.js styles and script -->
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.3/dist/leaflet.css">
+<script src="https://unpkg.com/leaflet@1.9.3/dist/leaflet.js"></script>
+<script>
+  // Create the map
+  const map = L.map('map').setView([20, 0], 2); // World view
+
+  // Add OpenStreetMap tiles
+  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    attribution: '&copy; OpenStreetMap contributors'
+  }).addTo(map);
+
+  // Define markers
+  const markers = [
+    { place: "Pico da Bandeira", lat: -20.44, lon: -41.79 },
+    { place: "Bergen", lat: 60.39, lon: 5.32 },
+    { place: "Finse", lat: 60.60, lon: 7.51 },
+    { place: "Nordfjord", lat: 61.92, lon: 6.72 },
+    { place: "Azores", lat: 37.74, lon: -25.67 },
+    { place: "Tapado Glacier", lat: -30.13, lon: -69.89 },
+    { place: "Prague (Erasmus Exchange)", lat: 50.0755, lon: 14.4378 }
+  ];
+
+  // Add markers to map
+  markers.forEach(({ place, lat, lon }) => {
+    L.marker([lat, lon]).addTo(map).bindPopup(`<strong>${place}</strong>`);
+  });
+</script>
 
 
 </section>

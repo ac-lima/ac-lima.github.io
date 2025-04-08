@@ -1,16 +1,20 @@
 ---
-format: html
+format:
+  html:
+    theme: united
+    css: styles.css
+    toc: false
 class: home-page
 ---
 
-<head>
-  <style>
-    body {
-      background-image: url('img/background.JPEG'); /* Path to your image */
-      background-size: cover; /* Ensure the image covers the whole screen */
-      background-position: center center; /* Center the image */
-      background-attachment: fixed; /* Fix the background when scrolling */
-      color: white; /* Optional: Change text color to contrast with the image */
-    }
-  </style>
-</head>
+<style>
+  body {
+    background-image: url('img/background.JPEG'); /* Adjust extension if needed */
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+    background-color: #000; /* fallback */
+    color: white;
+    text-shadow: 1px 1px 3px rgba(0,0,0,0.7); /* Better contrast */
+  }
+</style>

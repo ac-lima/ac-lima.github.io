@@ -31,7 +31,7 @@
   .navbar-nav .nav-link:hover {
     color: #ff9d00 !important;           /* Link hover color */
   }
-  
+   
   /* Field Work Gallery */
   
   .photo-gallery {
@@ -52,4 +52,44 @@
   
   .photo-gallery img:hover {
     transform: scale(1.03);
+  }
+
+/* Activities Cards Layout */
+  .card {
+    background-color: #ffffff;
+    transition: transform 0.2s ease-in-out;
+  }
+  
+  .card:hover {
+    transform: scale(1.01);
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.08);
+  }
+  
+  h4 {
+    font-weight: 600;
+    color: #2c3e50;
+  }
+  
+  a {
+    text-decoration: underline;
+    color: #007bff;
+  }
+  
+  a:hover {
+    text-decoration: none;
+  }
+
+   /* Projects text changes */
+
+  .text-muted {
+    color: #6c757d;
+  }
+  
+  .img-fluid {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .shadow-sm {
+    box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075);
   }
