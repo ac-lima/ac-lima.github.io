@@ -7,8 +7,11 @@ format:
     css: styles.css
     toc: true
 ---
-
+::: {.column-page-inset-left}
 <div id="map" style="height: 500px; margin-bottom: 2rem;"></div>
+
+:::
+
 
 # Pico da Bandeira - Brazil 
 
@@ -186,7 +189,8 @@ format:
     { place: "Nordfjord", lat: 61.92, lon: 6.72 },
     { place: "Azores", lat: 37.74, lon: -25.67 },
     { place: "Tapado Glacier", lat: -30.13, lon: -69.89 },
-    { place: "Prague (Erasmus Exchange)", lat: 50.0755, lon: 14.4378 }
+    { place: "Prague", lat: 50.0755, lon: 14.4378 }
+    { place: "São Paulo", lat: -23.55, lon: -46.63 }
   ];
 
   // Add markers to map
