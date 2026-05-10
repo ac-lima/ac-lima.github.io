@@ -28,5 +28,35 @@
   },
   "uibcollaborative.qmd": {
     "uibcollaborative.html": "9cb07b58"
+  },
+  "qmd/about.qmd": {
+    "about.html": "30db2fbc"
+  },
+  "qmd/activities.qmd": {
+    "activities.html": "5c855926"
+  },
+  "qmd/CV.qmd": {
+    "CV.html": "f4b556de"
+  },
+  "qmd/fieldwork.qmd": {
+    "fieldwork.html": "78f40a1f"
+  },
+  "qmd/glacimontis.qmd": {
+    "glacimontis.html": "36260583"
+  },
+  "qmd/index.qmd": {
+    "index.html": "6670c9fe"
+  },
+  "qmd/research.qmd": {
+    "research.html": "4f968626"
+  },
+  "qmd/tapado.qmd": {
+    "tapado.html": "6479765e"
+  },
+  "qmd/thermalmap.qmd": {
+    "thermalmap.html": "05b7bcc9"
+  },
+  "qmd/uibcollaborative.qmd": {
+    "uibcollaborative.html": "1f327d53"
   }
 }

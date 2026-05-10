@@ -1,0 +1,24 @@
+---
+title: "Research"
+toc: false
+---
+
+::: {.project-grid}
+
+::: {.project-card}
+[![Urban Heat Islands](img/img11.png)](thermalmap.qmd)
+:::
+
+::: {.project-card}
+[![Remote Sensing of the Cryosphere](img/img14.JPEG)](tapado.qmd)
+:::
+
+::: {.project-card}
+[![GLACIMONTIS](img/glacimontis_fixed.png)](glacimontis.qmd)
+:::
+
+::: {.project-card}
+[![GeoBridge](img/proj4.png)](uibcollaborative.qmd)
+:::
+
+:::

@@ -1,0 +1,11 @@
+---
+page-layout: full
+toc: false
+format:
+  html:
+    body-classes: home-page
+---
+
+::: {.home-hero}
+
+:::

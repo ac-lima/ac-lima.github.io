@@ -1,0 +1,325 @@
+---
+title: "Fieldwork Gallery"
+page-layout: full
+---
+
+
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.3/dist/leaflet.css">
+<script src="https://unpkg.com/leaflet@1.9.3/dist/leaflet.js"></script>
+
+<div id="map"></div>
+
+<script>
+  const map = L.map('map').setView([20, 0], 2);
+  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    attribution: '&copy; OpenStreetMap contributors'
+  }).addTo(map);
+
+  const markers = [
+    { place: "Pico da Bandeira", lat: -20.44, lon: -41.79 },
+    { place: "Bergen", lat: 60.39, lon: 5.32 },
+    { place: "Finse", lat: 60.60, lon: 7.51 },
+    { place: "Nordfjord", lat: 61.92, lon: 6.72 },
+    { place: "Azores", lat: 37.74, lon: -25.67 },
+    { place: "Tapado Glacier", lat: -30.13, lon: -69.89 },
+    { place: "Prague", lat: 50.0755, lon: 14.4378 },
+    { place: "São Paulo", lat: -23.55, lon: -46.63 }
+  ];
+
+  markers.forEach(({ place, lat, lon }) => {
+    L.marker([lat, lon]).addTo(map).bindPopup(`<strong>${place}</strong>`);
+  });
+</script>
+
+
+# Pico da Bandeira - Brazil
+
+
+::: {.photo-gallery}
+
+![Pico da Bandeira 1](img/bandeira/1.jpg)
+
+![Pico da Bandeira 3](img/bandeira/3.JPEG)
+
+![Pico da Bandeira 4](img/bandeira/4.jpg)
+
+![Pico da Bandeira 5](img/bandeira/5.jpg)
+
+![Pico da Bandeira 6](img/bandeira/6.jpg)
+
+![Pico da Bandeira 2](img/bandeira/2.jpg)
+
+![Pico da Bandeira 7](img/bandeira/7.jpg)
+
+![Pico da Bandeira 8](img/bandeira/8.jpg)
+
+:::
+
+# Bergen - Norway
+
+
+::: {.photo-gallery}
+
+![Bergen 1](img/bergen/1.jpg)
+
+![Bergen 2](img/bergen/2.jpg)
+
+![Bergen 3](img/bergen/3.jpg)
+
+![Bergen 4](img/bergen/4.jpg)
+
+![Bergen 5](img/bergen/5.jpg)
+
+![Bergen 6](img/bergen/6.jpg)
+
+![Bergen 7](img/bergen/7.JPEG)
+
+![Bergen 8](img/bergen/8.JPEG)
+
+![Bergen 9](img/bergen/9.JPEG)
+
+![Bergen 10](img/bergen/10.JPEG)
+
+![Bergen 11](img/bergen/11.JPEG)
+
+![Bergen 12](img/bergen/12.JPEG)
+
+![Bergen 13](img/bergen/13.JPEG)
+
+![Bergen 14](img/bergen/14.JPEG)
+
+![Bergen 15](img/bergen/15.JPG)
+
+:::
+
+# Finse - Norway
+
+
+::: {.photo-gallery}
+
+![Finse 1](img/finse/1.jpeg)
+
+![Finse 2](img/finse/2.jpeg)
+
+![Finse 3](img/finse/3.jpeg)
+
+![Finse 5](img/finse/5.JPG)
+
+![Finse 6](img/finse/6.JPEG)
+
+![Finse 7](img/finse/7.JPG)
+
+![Finse 8](img/finse/8.jpeg)
+
+![Finse 9](img/finse/9.JPEG)
+
+![Finse 10](img/finse/10.JPEG)
+
+![Finse 11](img/finse/11.JPEG)
+
+![Finse 12](img/finse/12.JPEG)
+
+![Finse 13](img/finse/13.JPEG)
+
+![Finse 14](img/finse/14.JPEG)
+
+![Finse 15](img/finse/15.JPEG)
+
+![Finse 16](img/finse/16.JPEG)
+
+![Finse 17](img/finse/17.JPEG)
+
+![Finse 18](img/finse/18.JPEG)
+
+![Finse 19](img/finse/19.JPEG)
+
+![Finse 20](img/finse/20.JPEG)
+
+![Finse 21](img/finse/21.JPEG)
+
+![Finse 22](img/finse/22.JPEG)
+
+![Finse 23](img/finse/23.JPEG)
+
+![Finse 24](img/finse/24.JPEG)
+
+![Finse 25](img/finse/25.JPEG)
+
+:::
+
+# Nordfjord - Norway
+
+
+::: {.photo-gallery}
+
+![Nordfjord 1](img/nordfjord/1.JPEG)
+
+![Nordfjord 2](img/nordfjord/2.JPEG)
+
+![Nordfjord 3](img/nordfjord/3.JPEG)
+
+![Nordfjord 4](img/nordfjord/4.JPEG)
+
+![Nordfjord 5](img/nordfjord/5.JPEG)
+
+![Nordfjord 6](img/nordfjord/6.JPEG)
+
+![Nordfjord 7](img/nordfjord/7.JPEG)
+
+![Nordfjord 8](img/nordfjord/8.JPEG)
+
+![Nordfjord 9](img/nordfjord/9.JPEG)
+
+![Nordfjord 10](img/nordfjord/10.JPEG)
+
+![Nordfjord 11](img/nordfjord/11.JPEG)
+
+![Nordfjord 12](img/nordfjord/12.JPEG)
+
+![Nordfjord 13](img/nordfjord/13.JPEG)
+
+![Nordfjord 14](img/nordfjord/14.JPEG)
+
+![Nordfjord 15](img/nordfjord/15.JPEG)
+
+![Nordfjord 16](img/nordfjord/16.JPEG)
+
+![Nordfjord 17](img/nordfjord/17.JPEG)
+
+![Nordfjord 18](img/nordfjord/18.JPEG)
+
+![Nordfjord 19](img/nordfjord/19.JPEG)
+
+![Nordfjord 20](img/nordfjord/20.JPEG)
+
+![Nordfjord 21](img/nordfjord/21.JPEG)
+
+:::
+
+# Azores - Portugal
+
+
+::: {.photo-gallery}
+
+![Azores 1](img/azores/1.JPEG)
+
+![Azores 2](img/azores/2.JPEG)
+
+![Azores 3](img/azores/3.JPEG)
+
+![Azores 4](img/azores/4.JPEG)
+
+![Azores 5](img/azores/5.JPEG)
+
+![Azores 6](img/azores/6.JPEG)
+
+![Azores 7](img/azores/7.JPEG)
+
+![Azores 8](img/azores/8.JPEG)
+
+![Azores 9](img/azores/9.JPEG)
+
+![Azores 10](img/azores/10.jpg)
+
+![Azores 11](img/azores/11.JPEG)
+
+![Azores 12](img/azores/12.JPEG)
+
+![Azores 13](img/azores/13.JPEG)
+
+![Azores 14](img/azores/14.JPEG)
+
+![Azores 15](img/azores/15.JPEG)
+
+![Azores 16](img/azores/16.JPEG)
+
+![Azores 17](img/azores/17.JPEG)
+
+![Azores 18](img/azores/18.JPEG)
+
+![Azores 19](img/azores/19.JPEG)
+
+![Azores 20](img/azores/20.JPEG)
+
+![Azores 21](img/azores/21.JPEG)
+
+:::
+
+# Tapado Glacier - Chile
+
+
+::: {.photo-gallery}
+
+![Tapado 1](img/tapado/1.JPEG)
+
+![Tapado 2](img/tapado/2.JPEG)
+
+![Tapado 3](img/tapado/3.JPEG)
+
+![Tapado 4](img/tapado/4.JPEG)
+
+![Tapado 5](img/tapado/5.JPEG)
+
+![Tapado 6](img/tapado/6.JPEG)
+
+![Tapado 7](img/tapado/7.JPEG)
+
+![Tapado 8](img/tapado/8.JPEG)
+
+![Tapado 9](img/tapado/9.JPEG)
+
+![Tapado 10](img/tapado/10.JPEG)
+
+![Tapado 11](img/tapado/11.JPEG)
+
+![Tapado 12](img/tapado/12.JPEG)
+
+![Tapado 13](img/tapado/13.JPEG)
+
+![Tapado 14](img/tapado/14.JPEG)
+
+![Tapado 15](img/tapado/15.JPEG)
+
+![Tapado 16](img/tapado/16.JPEG)
+
+![Tapado 17](img/tapado/17.JPEG)
+
+![Tapado 18](img/tapado/18.JPEG)
+
+![Tapado 19](img/tapado/19.JPEG)
+
+![Tapado 20](img/tapado/20.JPEG)
+
+![Tapado 21](img/tapado/21.JPEG)
+
+![Tapado 22](img/tapado/22.JPEG)
+
+![Tapado 23](img/tapado/23.JPG)
+
+![Tapado 24](img/tapado/24.JPG)
+
+![Tapado 25](img/tapado/25.JPG)
+
+![Tapado 26](img/tapado/26.JPG)
+
+![Tapado 27](img/tapado/27.JPG)
+
+![Tapado 28](img/tapado/28.JPEG)
+
+![Tapado 29](img/tapado/29.JPG)
+
+![Tapado 30](img/tapado/30.JPG)
+
+![Tapado 31](img/tapado/31.JPG)
+
+![Tapado 32](img/tapado/32.JPG)
+
+![Tapado 33](img/tapado/33.JPG)
+
+![Tapado 34](img/tapado/34.JPG)
+
+![Tapado 35](img/tapado/35.JPG)
+
+![Tapado 36](img/tapado/36.JPG)
+
+:::

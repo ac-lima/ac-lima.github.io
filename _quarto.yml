@@ -1,0 +1,45 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "augusto lima"
+  site-url: "https://ac-lima.github.io"
+  navbar:
+    logo: img/indexlogo.png
+    left:
+      - text: "About"
+        href: about.qmd
+      - text: "Projects"
+        menu:
+          - text: "Overview"
+            href: research.qmd
+          - text: "Urban Heat Islands"
+            href: thermalmap.qmd
+          - text: "Remote Sensing of the Cryosphere"
+            href: tapado.qmd
+          - text: "GLACIMONTIS"
+            href: glacimontis.qmd
+          - text: "GeoBridge"
+            href: uibcollaborative.qmd
+      - text: "Fieldwork Gallery"
+        href: fieldwork.qmd
+      - text: "Research Activities"
+        href: activities.qmd
+      - text: "CV"
+        href: CV.qmd
+    right:
+      - icon: github
+        href: https://github.com/ac-lima
+      - icon: linkedin
+        href: https://www.linkedin.com/in/augusto-clima/
+      - icon: envelope
+        href: mailto:augusto.naschimento@gmail.com
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    smooth-scroll: true
+    link-external-newwindow: true
