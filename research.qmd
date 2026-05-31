@@ -21,4 +21,20 @@ toc: false
 [![GeoBridge](img/proj4.png)](uibcollaborative.qmd)
 :::
 
+::: {.project-card}
+[![ECO-SPACE](img/ecospace.jpg)](ecospace.qmd)
+:::
+
+::: {.project-card}
+[![Paleoglacier Evolution Modelling](img/igm.png)](paleoglacier.qmd.qmd)
+:::
+
+::: {.project-card}
+[![Drone-Willow-Bumblebee Project](img/bumblebee.png)](bumblebee.qmd)
+:::
+
+::: {.project-card}
+[![Mountain Paleoglacier Modelling Review](img/modelrev.png)](modelrev.qmd)
+:::
+
 :::

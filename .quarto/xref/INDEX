@@ -58,5 +58,17 @@
   },
   "qmd/uibcollaborative.qmd": {
     "uibcollaborative.html": "1f327d53"
+  },
+  "bumblebee.qmd": {
+    "bumblebee.html": "6bb9ae28"
+  },
+  "ecospace.qmd": {
+    "ecospace.html": "a6d1b525"
+  },
+  "modelrev.qmd": {
+    "modelrev.html": "4dbff3d3"
+  },
+  "paleoglacier.qmd": {
+    "paleoglacier.html": "a2ddd126"
   }
 }

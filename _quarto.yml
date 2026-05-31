@@ -22,6 +22,14 @@ website:
             href: glacimontis.qmd
           - text: "GeoBridge"
             href: uibcollaborative.qmd
+          - text: "Paleoglacier Evolution Modelling"
+            href: paleoglacier.qmd
+          - text: "ECO-SPACE: Geospatial Competence and Education in Biosciences"
+            href: ecospace.qmd
+          - text: "Mountain Paleoglacier Modelling Review"
+            href: modelrev.qmd
+          - text: "Drone-Willow-Bumblebee Project"
+            href: bumblebee.qmd
       - text: "Fieldwork Gallery"
         href: fieldwork.qmd
       - text: "Research Activities"

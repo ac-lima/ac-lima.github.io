@@ -20,7 +20,7 @@ The [GeoBridge Seminar Series](https://mountains-in-motion.github.io/geobridge/s
 :::
 
 ::: {.card}
-![](img/uavbanner.png){.img-fluid}
+![Workshop on UAV and Remote Sensing](img/uavbanner.png){.img-fluid}
 
 A hands-on, immersive experience combining UAV fieldwork and geospatial analysis. The [2-Day UAV and Remote Sensing Workshop](https://mountains-in-motion.github.io/geobridge/uavworkshop.html) offers an engaging mix of field missions, data processing, and applied GIS/RS learning. Join researchers, students, and professors for a practical and theoretical deep dive into modern UAV-based landscape analysis.
 :::
@@ -29,6 +29,12 @@ A hands-on, immersive experience combining UAV fieldwork and geospatial analysis
 ![StoryMaps Workshop](img/storymaps.png){.img-fluid}
 
 As part of the GeoBridge community, we are organized a [two-day hands-on workshop on ArcGIS StoryMaps](https://mountains-in-motion.github.io/geobridge/storymaps.html), a powerful approach for communicating research through interactive maps and visual narratives. The workshop focused on translating spatial analyses into compelling visual narratives, bridging the gap between data, interpretation, and communication. During the workshop, participants learned how to design and build their own StoryMaps using ArcGIS StoryMaps, with a focus on effectively translating spatial analyses into compelling visual narratives.
+:::
+
+::: {.card}
+![Research Stay in Finse](img/finse_research_stay.png){.img-fluid}
+
+As part of the GeoBridge community, we are organizing a research stay in Finse, Norway from 27th to 31st July 2026. This research stay will bring together researchers from the Institute of Biodiversity and Ecosystem Dynamics (IBED) at the University of Amsterdam, and the Department of Earth Sciences and the Department of Biological Sciences at the University of Bergen to collaborate on projects related to landscape dynamics in a changing world, with focus on biodiversity. The research stay will provide an opportunity for participants to work together in a unique and inspiring environment, fostering interdisciplinary collaboration and knowledge exchange.
 :::
 
 # 📬 Contact
