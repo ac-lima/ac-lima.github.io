@@ -31,6 +31,13 @@ page-layout: full
   });
 </script>
 
+# Finse - Norway
+
+::: {.photo-gallery}
+
+
+
+:::
 
 # Pico da Bandeira - Brazil
 
@@ -39,7 +46,7 @@ page-layout: full
 
 ![Pico da Bandeira 1](img/bandeira/1.jpg)
 
-![Pico da Bandeira 3](img/bandeira/3.JPEG)
+![Pico da Bandeira 3](img/bandeira/3.jpeg)
 
 ![Pico da Bandeira 4](img/bandeira/4.jpg)
 
@@ -72,23 +79,23 @@ page-layout: full
 
 ![Bergen 6](img/bergen/6.jpg)
 
-![Bergen 7](img/bergen/7.JPEG)
+![Bergen 7](img/bergen/7.jpeg)
 
-![Bergen 8](img/bergen/8.JPEG)
+![Bergen 8](img/bergen/8.jpeg)
 
-![Bergen 9](img/bergen/9.JPEG)
+![Bergen 9](img/bergen/9.jpeg)
 
-![Bergen 10](img/bergen/10.JPEG)
+![Bergen 10](img/bergen/10.jpeg)
 
-![Bergen 11](img/bergen/11.JPEG)
+![Bergen 11](img/bergen/11.jpeg)
 
-![Bergen 12](img/bergen/12.JPEG)
+![Bergen 12](img/bergen/12.jpeg)
 
-![Bergen 13](img/bergen/13.JPEG)
+![Bergen 13](img/bergen/13.jpeg)
 
-![Bergen 14](img/bergen/14.JPEG)
+![Bergen 14](img/bergen/14.jpeg)
 
-![Bergen 15](img/bergen/15.JPG)
+![Bergen 15](img/bergen/15.jpg)
 
 :::
 
@@ -103,47 +110,47 @@ page-layout: full
 
 ![Finse 3](img/finse/3.jpeg)
 
-![Finse 5](img/finse/5.JPG)
+![Finse 5](img/finse/5.jpg)
 
-![Finse 6](img/finse/6.JPEG)
+![Finse 6](img/finse/6.jpeg)
 
-![Finse 7](img/finse/7.JPG)
+![Finse 7](img/finse/7.jpg)
 
 ![Finse 8](img/finse/8.jpeg)
 
-![Finse 9](img/finse/9.JPEG)
+![Finse 9](img/finse/9.jpeg)
 
-![Finse 10](img/finse/10.JPEG)
+![Finse 10](img/finse/10.jpeg)
 
-![Finse 11](img/finse/11.JPEG)
+![Finse 11](img/finse/11.jpeg)
 
-![Finse 12](img/finse/12.JPEG)
+![Finse 12](img/finse/12.jpeg)
 
-![Finse 13](img/finse/13.JPEG)
+![Finse 13](img/finse/13.jpeg)
 
-![Finse 14](img/finse/14.JPEG)
+![Finse 14](img/finse/14.jpeg)
 
-![Finse 15](img/finse/15.JPEG)
+![Finse 15](img/finse/15.jpeg)
 
-![Finse 16](img/finse/16.JPEG)
+![Finse 16](img/finse/16.jpeg)
 
-![Finse 17](img/finse/17.JPEG)
+![Finse 17](img/finse/17.jpeg)
 
-![Finse 18](img/finse/18.JPEG)
+![Finse 18](img/finse/18.jpeg)
 
-![Finse 19](img/finse/19.JPEG)
+![Finse 19](img/finse/19.jpeg)
 
-![Finse 20](img/finse/20.JPEG)
+![Finse 20](img/finse/20.jpeg)
 
-![Finse 21](img/finse/21.JPEG)
+![Finse 21](img/finse/21.jpeg)
 
-![Finse 22](img/finse/22.JPEG)
+![Finse 22](img/finse/22.jpeg)
 
-![Finse 23](img/finse/23.JPEG)
+![Finse 23](img/finse/23.jpeg)
 
-![Finse 24](img/finse/24.JPEG)
+![Finse 24](img/finse/24.jpeg)
 
-![Finse 25](img/finse/25.JPEG)
+![Finse 25](img/finse/25.jpeg)
 
 :::
 
@@ -152,47 +159,47 @@ page-layout: full
 
 ::: {.photo-gallery}
 
-![Nordfjord 1](img/nordfjord/1.JPEG)
+![Nordfjord 1](img/nordfjord/1.jpeg)
 
-![Nordfjord 2](img/nordfjord/2.JPEG)
+![Nordfjord 2](img/nordfjord/2.jpeg)
 
-![Nordfjord 3](img/nordfjord/3.JPEG)
+![Nordfjord 3](img/nordfjord/3.jpeg)
 
-![Nordfjord 4](img/nordfjord/4.JPEG)
+![Nordfjord 4](img/nordfjord/4.jpeg)
 
-![Nordfjord 5](img/nordfjord/5.JPEG)
+![Nordfjord 5](img/nordfjord/5.jpeg)
 
-![Nordfjord 6](img/nordfjord/6.JPEG)
+![Nordfjord 6](img/nordfjord/6.jpeg)
 
-![Nordfjord 7](img/nordfjord/7.JPEG)
+![Nordfjord 7](img/nordfjord/7.jpeg)
 
-![Nordfjord 8](img/nordfjord/8.JPEG)
+![Nordfjord 8](img/nordfjord/8.jpeg)
 
-![Nordfjord 9](img/nordfjord/9.JPEG)
+![Nordfjord 9](img/nordfjord/9.jpeg)
 
-![Nordfjord 10](img/nordfjord/10.JPEG)
+![Nordfjord 10](img/nordfjord/10.jpeg)
 
-![Nordfjord 11](img/nordfjord/11.JPEG)
+![Nordfjord 11](img/nordfjord/11.jpeg)
 
-![Nordfjord 12](img/nordfjord/12.JPEG)
+![Nordfjord 12](img/nordfjord/12.jpeg)
 
-![Nordfjord 13](img/nordfjord/13.JPEG)
+![Nordfjord 13](img/nordfjord/13.jpeg)
 
-![Nordfjord 14](img/nordfjord/14.JPEG)
+![Nordfjord 14](img/nordfjord/14.jpeg)
 
-![Nordfjord 15](img/nordfjord/15.JPEG)
+![Nordfjord 15](img/nordfjord/15.jpeg)
 
-![Nordfjord 16](img/nordfjord/16.JPEG)
+![Nordfjord 16](img/nordfjord/16.jpeg)
 
-![Nordfjord 17](img/nordfjord/17.JPEG)
+![Nordfjord 17](img/nordfjord/17.jpeg)
 
-![Nordfjord 18](img/nordfjord/18.JPEG)
+![Nordfjord 18](img/nordfjord/18.jpeg)
 
-![Nordfjord 19](img/nordfjord/19.JPEG)
+![Nordfjord 19](img/nordfjord/19.jpeg)
 
-![Nordfjord 20](img/nordfjord/20.JPEG)
+![Nordfjord 20](img/nordfjord/20.jpeg)
 
-![Nordfjord 21](img/nordfjord/21.JPEG)
+![Nordfjord 21](img/nordfjord/21.jpeg)
 
 :::
 
@@ -201,47 +208,47 @@ page-layout: full
 
 ::: {.photo-gallery}
 
-![Azores 1](img/azores/1.JPEG)
+![Azores 1](img/azores/1.jpeg)
 
-![Azores 2](img/azores/2.JPEG)
+![Azores 2](img/azores/2.jpeg)
 
-![Azores 3](img/azores/3.JPEG)
+![Azores 3](img/azores/3.jpeg)
 
-![Azores 4](img/azores/4.JPEG)
+![Azores 4](img/azores/4.jpeg)
 
-![Azores 5](img/azores/5.JPEG)
+![Azores 5](img/azores/5.jpeg)
 
-![Azores 6](img/azores/6.JPEG)
+![Azores 6](img/azores/6.jpeg)
 
-![Azores 7](img/azores/7.JPEG)
+![Azores 7](img/azores/7.jpeg)
 
-![Azores 8](img/azores/8.JPEG)
+![Azores 8](img/azores/8.jpeg)
 
-![Azores 9](img/azores/9.JPEG)
+![Azores 9](img/azores/9.jpeg)
 
 ![Azores 10](img/azores/10.jpg)
 
-![Azores 11](img/azores/11.JPEG)
+![Azores 11](img/azores/11.jpeg)
 
-![Azores 12](img/azores/12.JPEG)
+![Azores 12](img/azores/12.jpeg)
 
-![Azores 13](img/azores/13.JPEG)
+![Azores 13](img/azores/13.jpeg)
 
-![Azores 14](img/azores/14.JPEG)
+![Azores 14](img/azores/14.jpeg)
 
-![Azores 15](img/azores/15.JPEG)
+![Azores 15](img/azores/15.jpeg)
 
-![Azores 16](img/azores/16.JPEG)
+![Azores 16](img/azores/16.jpeg)
 
-![Azores 17](img/azores/17.JPEG)
+![Azores 17](img/azores/17.jpeg)
 
-![Azores 18](img/azores/18.JPEG)
+![Azores 18](img/azores/18.jpeg)
 
-![Azores 19](img/azores/19.JPEG)
+![Azores 19](img/azores/19.jpeg)
 
-![Azores 20](img/azores/20.JPEG)
+![Azores 20](img/azores/20.jpeg)
 
-![Azores 21](img/azores/21.JPEG)
+![Azores 21](img/azores/21.jpeg)
 
 :::
 
@@ -250,76 +257,76 @@ page-layout: full
 
 ::: {.photo-gallery}
 
-![Tapado 1](img/tapado/1.JPEG)
+![Tapado 1](img/tapado/1.jpeg)
 
-![Tapado 2](img/tapado/2.JPEG)
+![Tapado 2](img/tapado/2.jpeg)
 
-![Tapado 3](img/tapado/3.JPEG)
+![Tapado 3](img/tapado/3.jpeg)
 
-![Tapado 4](img/tapado/4.JPEG)
+![Tapado 4](img/tapado/4.jpeg)
 
-![Tapado 5](img/tapado/5.JPEG)
+![Tapado 5](img/tapado/5.jpeg)
 
-![Tapado 6](img/tapado/6.JPEG)
+![Tapado 6](img/tapado/6.jpeg)
 
-![Tapado 7](img/tapado/7.JPEG)
+![Tapado 7](img/tapado/7.jpeg)
 
-![Tapado 8](img/tapado/8.JPEG)
+![Tapado 8](img/tapado/8.jpeg)
 
-![Tapado 9](img/tapado/9.JPEG)
+![Tapado 9](img/tapado/9.jpeg)
 
-![Tapado 10](img/tapado/10.JPEG)
+![Tapado 10](img/tapado/10.jpeg)
 
-![Tapado 11](img/tapado/11.JPEG)
+![Tapado 11](img/tapado/11.jpeg)
 
-![Tapado 12](img/tapado/12.JPEG)
+![Tapado 12](img/tapado/12.jpeg)
 
-![Tapado 13](img/tapado/13.JPEG)
+![Tapado 13](img/tapado/13.jpeg)
 
-![Tapado 14](img/tapado/14.JPEG)
+![Tapado 14](img/tapado/14.jpeg)
 
-![Tapado 15](img/tapado/15.JPEG)
+![Tapado 15](img/tapado/15.jpeg)
 
-![Tapado 16](img/tapado/16.JPEG)
+![Tapado 16](img/tapado/16.jpeg)
 
-![Tapado 17](img/tapado/17.JPEG)
+![Tapado 17](img/tapado/17.jpeg)
 
-![Tapado 18](img/tapado/18.JPEG)
+![Tapado 18](img/tapado/18.jpeg)
 
-![Tapado 19](img/tapado/19.JPEG)
+![Tapado 19](img/tapado/19.jpeg)
 
-![Tapado 20](img/tapado/20.JPEG)
+![Tapado 20](img/tapado/20.jpeg)
 
-![Tapado 21](img/tapado/21.JPEG)
+![Tapado 21](img/tapado/21.jpeg)
 
-![Tapado 22](img/tapado/22.JPEG)
+![Tapado 22](img/tapado/22.jpeg)
 
-![Tapado 23](img/tapado/23.JPG)
+![Tapado 23](img/tapado/23.jpg)
 
-![Tapado 24](img/tapado/24.JPG)
+![Tapado 24](img/tapado/24.jpg)
 
-![Tapado 25](img/tapado/25.JPG)
+![Tapado 25](img/tapado/25.jpg)
 
-![Tapado 26](img/tapado/26.JPG)
+![Tapado 26](img/tapado/26.jpg)
 
-![Tapado 27](img/tapado/27.JPG)
+![Tapado 27](img/tapado/27.jpg)
 
-![Tapado 28](img/tapado/28.JPEG)
+![Tapado 28](img/tapado/28.jpeg)
 
-![Tapado 29](img/tapado/29.JPG)
+![Tapado 29](img/tapado/29.jpg)
 
-![Tapado 30](img/tapado/30.JPG)
+![Tapado 30](img/tapado/30.jpg)
 
-![Tapado 31](img/tapado/31.JPG)
+![Tapado 31](img/tapado/31.jpg)
 
-![Tapado 32](img/tapado/32.JPG)
+![Tapado 32](img/tapado/32.jpg)
 
-![Tapado 33](img/tapado/33.JPG)
+![Tapado 33](img/tapado/33.jpg)
 
-![Tapado 34](img/tapado/34.JPG)
+![Tapado 34](img/tapado/34.jpg)
 
-![Tapado 35](img/tapado/35.JPG)
+![Tapado 35](img/tapado/35.jpg)
 
-![Tapado 36](img/tapado/36.JPG)
+![Tapado 36](img/tapado/36.jpg)
 
 :::

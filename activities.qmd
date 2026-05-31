@@ -100,7 +100,7 @@ Coppola](https://bjerknes.uib.no/en/news/meet-our-new-sac-member-erika-coppola),
 particularly on integrating paleodata into climate model validation
 efforts.
 
-<img src="img/activities/bjerknes.JPG"
+<img src="img/activities/bjerknes.jpg"
 class="img-fluid rounded mx-auto d-block mt-2" alt="Bjerknes Meeting" />
 :::
 
@@ -164,7 +164,7 @@ the high-altitude Andes. This training directly supported the
 methodological foundation of my master’s thesis and strengthened ties
 between researchers from South America and Europe.
 
-<img src="img/activities/chile.JPG"
+<img src="img/activities/chile.jpg"
 class="img-fluid rounded mx-auto d-block mt-2"
 alt="Chile Summer School" />
 :::
@@ -290,7 +290,7 @@ interdisciplinary discussion among geographers, ecologists, and
 paleoclimatologists, strengthening local interest in cross-scalar
 Quaternary research.
 
-<img src="img/activities/lunch2.JPG"
+<img src="img/activities/lunch2.jpg"
 class="img-fluid rounded mx-auto d-block mt-2" alt="Lunch Talk 2025" />
 :::
 

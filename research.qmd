@@ -10,7 +10,7 @@ toc: false
 :::
 
 ::: {.project-card}
-[![Remote Sensing of the Cryosphere](img/img14.JPEG)](tapado.qmd)
+[![Remote Sensing of the Cryosphere](img/img14.jpeg)](tapado.qmd)
 :::
 
 ::: {.project-card}
