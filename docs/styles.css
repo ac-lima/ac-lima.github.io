@@ -541,3 +541,273 @@ body.glacimontis-page main {
   font-size: 0.95rem;
   color: #5f6f7f;
 }
+
+/* ==========================================================================
+   ECO-SPACE page
+   ========================================================================== */
+
+:root {
+  --ecospace-teal: #0b4f4a;
+  --ecospace-green: #6f9f3d;
+  --ecospace-light: #eef7f3;
+  --ecospace-cream: #fbfaf4;
+  --ecospace-text: #263746;
+}
+
+body.ecospace-page {
+  background-color: #f5f8f7;
+  overflow-x: hidden;
+}
+
+/* Remove excessive Quarto spacing on full-width page */
+body.ecospace-page main {
+  max-width: none !important;
+  padding: 0 !important;
+}
+
+/* Full-width hero */
+.ecospace-hero {
+  min-height: 72vh;
+  display: grid;
+  grid-template-columns: minmax(0, 1.4fr) minmax(260px, 0.7fr);
+  gap: 2.5rem;
+  align-items: center;
+  padding: 5rem 3rem;
+  background:
+    linear-gradient(135deg, rgba(11, 79, 74, 0.94), rgba(39, 70, 56, 0.84)),
+    url("img/ecospace_background.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  color: white;
+}
+
+.ecospace-hero-text {
+  max-width: 850px;
+  margin-left: auto;
+}
+
+.ecospace-hero-text h1 {
+  font-size: 4.6rem;
+  font-weight: 850;
+  letter-spacing: 0.03em;
+  margin-bottom: 0.4rem;
+  color: white;
+}
+
+.ecospace-hero-text h2 {
+  font-size: 1.65rem;
+  font-weight: 400;
+  margin-bottom: 1.6rem;
+  color: #e9f4ef;
+}
+
+.ecospace-hero-text p {
+  font-size: 1.2rem;
+  line-height: 1.75;
+  max-width: 760px;
+}
+
+.ecospace-hero-logo {
+  max-width: 330px;
+  margin-right: auto;
+  background: rgba(255, 255, 255, 0.94);
+  padding: 2rem;
+  border-radius: 28px;
+  box-shadow: 0 12px 30px rgba(0, 0, 0, 0.18);
+}
+
+.ecospace-logo {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+/* General content sections */
+.ecospace-section {
+  max-width: 1050px;
+  margin: 4rem auto;
+  padding: 0 2rem;
+}
+
+.ecospace-section h2 {
+  font-size: 2.1rem;
+  font-weight: 750;
+  margin-bottom: 1rem;
+  color: var(--ecospace-text);
+}
+
+.ecospace-section p,
+.ecospace-section li {
+  font-size: 1.08rem;
+  line-height: 1.75;
+  color: #2f3e4d;
+}
+
+/* ECO-SPACE overrides for existing statistic cards */
+.ecospace-stats .stat-card {
+  border-top: 5px solid var(--ecospace-teal);
+}
+
+.ecospace-stats .stat-card h3 {
+  color: var(--ecospace-teal);
+}
+
+/* Highlight box */
+.ecospace-highlight {
+  max-width: 1050px;
+  margin: 4rem auto;
+  padding: 3rem;
+  border-radius: 22px;
+  background: linear-gradient(135deg, var(--ecospace-teal), #263f34);
+  color: white;
+  box-shadow: 0 10px 28px rgba(0, 0, 0, 0.16);
+}
+
+.ecospace-highlight h2 {
+  color: white;
+  margin-bottom: 1rem;
+}
+
+.ecospace-highlight p {
+  font-size: 1.1rem;
+  line-height: 1.75;
+}
+
+/* ECO-SPACE feature cards */
+.ecospace-feature-list .feature-item h3 {
+  color: var(--ecospace-teal);
+}
+
+/* Module cards */
+.ecospace-module-grid {
+  max-width: 1150px;
+  margin: 2rem auto 4rem auto;
+  padding: 0 2rem;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 1.2rem;
+}
+
+.ecospace-module-card {
+  background: white;
+  padding: 1.8rem;
+  border-radius: 18px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.08);
+  border-top: 5px solid var(--ecospace-green);
+}
+
+.ecospace-module-card h4 {
+  display: inline-block;
+  font-size: 0.76rem;
+  font-weight: 750;
+  letter-spacing: 0.02em;
+  color: var(--ecospace-teal);
+  background: var(--ecospace-light);
+  padding: 0.35rem 0.65rem;
+  border-radius: 999px;
+  margin-bottom: 0.8rem;
+}
+
+.ecospace-module-card h3 {
+  color: var(--ecospace-teal);
+  margin-bottom: 0.8rem;
+}
+
+.ecospace-module-card p {
+  line-height: 1.65;
+  color: #2f3e4d;
+}
+
+/* People cards */
+.ecospace-people-grid {
+  max-width: 1150px;
+  margin: 2rem auto 4rem auto;
+  padding: 0 2rem;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1.2rem;
+}
+
+.ecospace-person-card {
+  background: white;
+  padding: 1.8rem;
+  border-radius: 18px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.08);
+}
+
+.ecospace-person-card h3 {
+  color: var(--ecospace-teal);
+  margin-bottom: 0.8rem;
+}
+
+.ecospace-person-card p {
+  line-height: 1.65;
+  color: #2f3e4d;
+}
+
+/* Optional module preview image */
+.ecospace-map {
+  max-width: 950px;
+  margin: 2.5rem auto 4rem auto;
+  text-align: center;
+}
+
+.ecospace-map img {
+  width: 100%;
+  max-width: 950px;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 18px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.08);
+}
+
+/* Mobile */
+@media (max-width: 1050px) {
+  .ecospace-module-grid {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+@media (max-width: 900px) {
+  .ecospace-hero {
+    grid-template-columns: 1fr;
+    min-height: 65vh;
+    padding: 4rem 1.5rem;
+    text-align: center;
+  }
+
+  .ecospace-hero-text,
+  .ecospace-hero-logo {
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .ecospace-hero-text h1 {
+    font-size: 3.2rem;
+  }
+
+  .ecospace-hero-text h2 {
+    font-size: 1.25rem;
+  }
+
+  .ecospace-people-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media (max-width: 650px) {
+  .ecospace-module-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .ecospace-section,
+  .ecospace-module-grid,
+  .ecospace-people-grid,
+  .stats-grid {
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+}

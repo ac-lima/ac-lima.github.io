@@ -24,7 +24,7 @@ website:
             href: uibcollaborative.qmd
           - text: "Paleoglacier Evolution Modelling"
             href: paleoglacier.qmd
-          - text: "ECO-SPACE: Geospatial Competence and Education in Biosciences"
+          - text: "ECO-SPACE"
             href: ecospace.qmd
           - text: "Mountain Paleoglacier Modelling Review"
             href: modelrev.qmd

@@ -18,11 +18,11 @@ toc: false
 :::
 
 ::: {.project-card}
-[![GeoBridge](img/proj4.png)](uibcollaborative.qmd)
+[![GeoBridge](img/proj.jpg)](uibcollaborative.qmd)
 :::
 
 ::: {.project-card}
-[![ECO-SPACE](img/ecospace.jpg)](ecospace.qmd)
+[![ECO-SPACE](img/ecospace.png)](ecospace.qmd)
 :::
 
 ::: {.project-card}
