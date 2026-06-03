@@ -4,14 +4,42 @@
     "href": "uibcollaborative.html",
     "title": "GeoBridge",
     "section": "",
-    "text": "GeoBridge is a collaborative initiative that connects researchers and students from diverse academic backgrounds united by a shared interest in geographical information systems (GIS) and remote sensing (RS). The platform fosters knowledge exchange in techniques applied to landscape dynamics in a changing world and aims to support interdisciplinary collaboration, research visibility, and skill development at the interface of the biosphere, geosphere, and cryosphere.\n\n\n🗓️ Activities through 2025 and 2026\n\n\n\n\nGeoBridge Seminar Series\n\n\nThe GeoBridge Seminar Series is a unique opportunity to engage with researchers and students from UiB, UvA, and global guests on a monthly basis. The seminars focus on spatio-temporal analyses of landscape dynamics across the biosphere, geosphere, and cryosphere, and showcase essential tools for research and real-world problem-solving.\n\n\n\n\n\nWorkshop on UAV and Remote Sensing\n\n\nA hands-on, immersive experience combining UAV fieldwork and geospatial analysis. The 2-Day UAV and Remote Sensing Workshop offers an engaging mix of field missions, data processing, and applied GIS/RS learning. Join researchers, students, and professors for a practical and theoretical deep dive into modern UAV-based landscape analysis.\n\n\n\n\n\nStoryMaps Workshop\n\n\nAs part of the GeoBridge community, we are organized a two-day hands-on workshop on ArcGIS StoryMaps, a powerful approach for communicating research through interactive maps and visual narratives. The workshop focused on translating spatial analyses into compelling visual narratives, bridging the gap between data, interpretation, and communication. During the workshop, participants learned how to design and build their own StoryMaps using ArcGIS StoryMaps, with a focus on effectively translating spatial analyses into compelling visual narratives.\n\n\n\n\n\nResearch Stay in Finse\n\n\nAs part of the GeoBridge community, we are organizing a research stay in Finse, Norway from 27th to 31st July 2026. This research stay will bring together researchers from the Institute of Biodiversity and Ecosystem Dynamics (IBED) at the University of Amsterdam, and the Department of Earth Sciences and the Department of Biological Sciences at the University of Bergen to collaborate on projects related to landscape dynamics in a changing world, with focus on biodiversity. The research stay will provide an opportunity for participants to work together in a unique and inspiring environment, fostering interdisciplinary collaboration and knowledge exchange.\n\n\n\n📬 Contact\n\nFor more information, visit the GeoBridge Website."
+    "text": "Augusto Lima, Benjamin Robson & Suzette Flantua"
+  },
+  {
+    "objectID": "uibcollaborative.html#geobridge-seminar-series",
+    "href": "uibcollaborative.html#geobridge-seminar-series",
+    "title": "GeoBridge",
+    "section": "GeoBridge Seminar Series",
+    "text": "GeoBridge Seminar Series\n\n\n\nGeoBridge Seminar Series\n\n\nThe GeoBridge Seminar Series is a unique opportunity to engage with researchers and students from UiB, UvA, and global guests on a monthly basis. The seminars focus on spatio-temporal analyses of landscape dynamics across the biosphere, geosphere, and cryosphere, and showcase essential tools for research and real-world problem-solving."
+  },
+  {
+    "objectID": "uibcollaborative.html#uav-and-remote-sensing-workshop",
+    "href": "uibcollaborative.html#uav-and-remote-sensing-workshop",
+    "title": "GeoBridge",
+    "section": "UAV and Remote Sensing Workshop",
+    "text": "UAV and Remote Sensing Workshop\n\n\n\nWorkshop on UAV and Remote Sensing\n\n\nA hands-on, immersive experience combining UAV fieldwork and geospatial analysis. The 2-Day UAV and Remote Sensing Workshop offers an engaging mix of field missions, data processing, and applied GIS/RS learning. Join researchers, students, and professors for a practical and theoretical deep dive into modern UAV-based landscape analysis."
+  },
+  {
+    "objectID": "uibcollaborative.html#storytelling-with-arcgis-storymaps-workshop",
+    "href": "uibcollaborative.html#storytelling-with-arcgis-storymaps-workshop",
+    "title": "GeoBridge",
+    "section": "Storytelling with ArcGIS StoryMaps Workshop",
+    "text": "Storytelling with ArcGIS StoryMaps Workshop\n\n\n\nStoryMaps Workshop\n\n\nAs part of the GeoBridge community, we are organized a two-day hands-on workshop on ArcGIS StoryMaps, a powerful approach for communicating research through interactive maps and visual narratives. The workshop focused on translating spatial analyses into compelling visual narratives, bridging the gap between data, interpretation, and communication. During the workshop, participants learned how to design and build their own StoryMaps using ArcGIS StoryMaps, with a focus on effectively translating spatial analyses into compelling visual narratives."
+  },
+  {
+    "objectID": "uibcollaborative.html#research-stay-in-finse",
+    "href": "uibcollaborative.html#research-stay-in-finse",
+    "title": "GeoBridge",
+    "section": "Research Stay in Finse",
+    "text": "Research Stay in Finse\n\n\n\nResearch Stay in Finse\n\n\nAs part of the GeoBridge community, we are organizing a research stay in Finse, Norway from 27th to 31st July 2026. This research stay will bring together researchers from the Institute of Biodiversity and Ecosystem Dynamics (IBED) at the University of Amsterdam, and the Department of Earth Sciences and the Department of Biological Sciences at the University of Bergen to collaborate on projects related to landscape dynamics in a changing world, with focus on biodiversity. The research stay will provide an opportunity for participants to work together in a unique and inspiring environment, fostering interdisciplinary collaboration and knowledge exchange."
   },
   {
     "objectID": "tapado.html",
     "href": "tapado.html",
     "title": "Understanding Glacier Melt with Drones: The Case of Tapado Glacier, Chile",
     "section": "",
-    "text": "My master’s thesis explores how supraglacial ponds and ice cliffs influence the melting patterns of Tapado Glacier in the semiarid Andes of Chile. These features, found on the debris-covered surface of the glacier, play a crucial role in how the glacier loses mass. Using a mix of historical aerial imagery, satellite data, and drone-based surveys, I built an inventory of these features from 1956 to 2023. The goal was to understand their distribution, how they form, and, most importantly, how they accelerate ice melt in specific areas.\nSupervised by: Prof. Benjamin Robson\n\n\n\n\nLocation of Tapado Complex and its landforms. The three main landforms discussed include: (1) the Tapado Complex, (2) the upper and lower debris-covered glaciers with ice cliffs in Areas 1 and 2, (3) Area 1’s thermokarst depression from 2019–2020, and (4) Area 2’s cliffed zones surveyed in 2022–2023.\n\n\n\nThe results showed that even though ponds and cliffs occupy a relatively small surface area, they have an outsized impact on glacier thinning. For instance, ice cliffs alone can increase melt rates by more than six times compared to surrounding areas.\n\n\n\n\nSurface elevation changes related to supraglacial pond and ice cliff formation (5 m bins within a 30 m radius). Left: yearly surface lowering; middle: change per period; right: difference by cliff presence.\n\n\n\nI also found that these features tend to form in areas with low surface slope and slow ice movement, key insights into why some glacier sectors thin more rapidly than others.\n\n\n\n\nDistribution of supraglacial ponds categorized by cliff presence, survey year, and local ice velocity/slope across the Tapado Complex.\n\n\n\nImportantly, the use of drone technology (UAVs) proved to be a game-changer, offering high-resolution 3D models that captured subtle changes missed by satellite imagery.\n\n\n\n\nM3C2 point cloud distances (2022–2023) for cliffed Area 2. Left panel shows RGB point cloud; right panel shows change in meters.\n\n\n\nThis research adds to our understanding of how climate change is affecting high mountain water sources. Tapado Glacier provides meltwater to over 230,000 people downstream, making it a critical resource in a region already facing water scarcity. By highlighting the importance of supraglacial features and the power of UAV-based remote sensing, this thesis offers valuable tools for glacier monitoring and water resource planning in the Andes and beyond.\n\n\n\n\nInventory of supraglacial ponds and ice cliffs at Tapado Glacier from 1955 to 2023.\n\n\n\n📬 Contact\n\nHave questions or want to learn more? Feel free to get in touch or read the full thesis below:\n\nEmail: augusto.naschimento@uib.no\nFull master’s thesis: Understanding Glacier Melt with Drones"
+    "text": "Augusto Lima\n\n2023-11-27\n\n\n\n\nMy master’s thesis explores how supraglacial ponds and ice cliffs influence the melting patterns of Tapado Glacier in the semiarid Andes of Chile. These features, found on the debris-covered surface of the glacier, play a crucial role in how the glacier loses mass. Using a mix of historical aerial imagery, satellite data, and drone-based surveys, I built an inventory of these features from 1956 to 2023. The goal was to understand their distribution, how they form, and, most importantly, how they accelerate ice melt in specific areas.\nSupervised by: Prof. Benjamin Robson\n\n\n\n\nLocation of Tapado Complex and its landforms. The three main landforms discussed include: (1) the Tapado Complex, (2) the upper and lower debris-covered glaciers with ice cliffs in Areas 1 and 2, (3) Area 1’s thermokarst depression from 2019–2020, and (4) Area 2’s cliffed zones surveyed in 2022–2023.\n\n\n\nThe results showed that even though ponds and cliffs occupy a relatively small surface area, they have an outsized impact on glacier thinning. For instance, ice cliffs alone can increase melt rates by more than six times compared to surrounding areas.\n\n\n\n\nSurface elevation changes related to supraglacial pond and ice cliff formation (5 m bins within a 30 m radius). Left: yearly surface lowering; middle: change per period; right: difference by cliff presence.\n\n\n\nI also found that these features tend to form in areas with low surface slope and slow ice movement, key insights into why some glacier sectors thin more rapidly than others.\n\n\n\n\nDistribution of supraglacial ponds categorized by cliff presence, survey year, and local ice velocity/slope across the Tapado Complex.\n\n\n\nImportantly, the use of drone technology (UAVs) proved to be a game-changer, offering high-resolution 3D models that captured subtle changes missed by satellite imagery.\n\n\n\n\nM3C2 point cloud distances (2022–2023) for cliffed Area 2. Left panel shows RGB point cloud; right panel shows change in meters.\n\n\n\nThis research adds to our understanding of how climate change is affecting high mountain water sources. Tapado Glacier provides meltwater to over 230,000 people downstream, making it a critical resource in a region already facing water scarcity. By highlighting the importance of supraglacial features and the power of UAV-based remote sensing, this thesis offers valuable tools for glacier monitoring and water resource planning in the Andes and beyond.\n\n\n\n\nInventory of supraglacial ponds and ice cliffs at Tapado Glacier from 1955 to 2023.\n\n\n\n📬 Contact\n\nHave questions or want to learn more? Feel free to get in touch or read the full thesis below:\n\nEmail: augusto.naschimento@uib.no\nFull master’s thesis: Understanding Glacier Melt with Drones"
   },
   {
     "objectID": "fieldwork.html",
@@ -42,177 +70,177 @@
     "text": "I am an early-career researcher at the University of Bergen, Norway and part of the Mountains in Motion research lab. I completed a master’s degree in Quaternary Geology and Paleoclimate at the University of Bergen with an ERASMUS at the Charles University, and a bachelor’s degree in Geography at the University of São Paulo, Brazil. My research focuses on global cryosphere dynamics, with particular emphasis on mountain glacier systems during the Late Quaternary. My work integrates numerical modelling, remote sensing, geographic information systems, and AI-based tools to reconstruct glacier geometry and dynamics, with a strong emphasis on open science and interdisciplinarity.\nCurrently, I have been extending my insterests into global change ecology and biogeography, as I have been collaborating in projects related to vegetation map and species indentification with remote sensing and modelling of treeline changes and biogeographic shifts. Additionally, I have been co-developing a higher education course, ECO-SPACE, with aiming of increase geospatial competence within the biological sciences. Finally, I am the main coordinator of the GeoBridge Community, a hub for connecting GIS and Remote Sensing researchers from different career stages and for sharing knowledge in a collaborative platform."
   },
   {
-    "objectID": "ecospace.html#geospatial-competence-and-education-in-biosciences-in-norway",
-    "href": "ecospace.html#geospatial-competence-and-education-in-biosciences-in-norway",
+    "objectID": "ecospace.html",
+    "href": "ecospace.html",
     "title": "augusto lima",
-    "section": "Geospatial Competence and Education in Biosciences in Norway",
-    "text": "Geospatial Competence and Education in Biosciences in Norway\nECO-SPACE develops inclusive, research-based geospatial education for biogeography, global change ecology and environmental management. The project brings together GIS, remote sensing, universal design, ecological case studies, and research- and industry-driven learning to prepare students to create spatial products that are scientifically robust, accessible, and useful beyond the university.\n\nProject structure Example modules"
+    "section": "",
+    "text": "ECO-SPACE\n\n\nGeospatial Competence and Education in Biosciences\n\nECO-SPACE is an extra-curricular bio-spatial education initiative at the University of Bergen. The project develops self-paced, universally designed learning modules that connect biogeography, global change ecology, GIS, and remote sensing through hands-on spatial analysis.\n\nProject idea Learning modules EGU26 abstract"
   },
   {
-    "objectID": "ecospace.html#overview",
-    "href": "ecospace.html#overview",
+    "objectID": "ecospace.html#project-idea",
+    "href": "ecospace.html#project-idea",
     "title": "augusto lima",
-    "section": "Overview",
-    "text": "Overview\nHow can biology and environmental science students learn geospatial skills in a way that is both technically strong and accessible to diverse users?\nECO-SPACE addresses this question by developing Earth Observation and Geospatial Tools for Ecosystem and Environmental Management, a new extra curricular module course at the Mountains in Motion Lab, Department of Biological Sciences, University of Bergen. The course responds to a growing need for spatial competence in environmental monitoring, biodiversity management, climate adaptation, land-use planning, and sustainable resource management.\nThe project is built around a simple idea: geospatial education should not only teach students how to analyse spatial data, but also how to develop spatial critical thinking and communicate spatial information in ways that are inclusive, understandable, and useful for society."
+    "section": "Project idea",
+    "text": "Project idea\nECO-SPACE — Geospatial Competence and Education in Biosciences — was created from a simple observation: biological and ecological processes are spatial, but biosciences students often have limited opportunities to learn geospatial tools through biological examples.\nThe project responds to this gap by developing an extra-curricular set of learning modules where students can build practical GIS and remote sensing skills while working with real ecological and environmental questions. Instead of treating GIS as a technical add-on, ECO-SPACE frames spatial analysis as part of ecological thinking: species distributions, island systems, alpine biomes, vegetation change, animal habitats, and climate–ecosystem interactions all happen somewhere.\nThe ambition is to make geospatial learning more accessible, transferable, and relevant for students and researchers in biosciences."
   },
   {
-    "objectID": "ecospace.html#why-eco-space",
-    "href": "ecospace.html#why-eco-space",
+    "objectID": "ecospace.html#why-now",
+    "href": "ecospace.html#why-now",
     "title": "augusto lima",
-    "section": "Why ECO-SPACE?",
-    "text": "Why ECO-SPACE?\nSpatial technologies are now central to environmental research and decision-making. They help us map biodiversity patterns, monitor vegetation change, assess human pressure on ecosystems, understand coastal and marine environments, and communicate complex environmental information to different audiences.\nYet students in biology and environmental sciences often have limited access to geospatial training designed around ecological questions. At the same time, maps, dashboards, models, and visualizations are not always designed with accessibility in mind."
+    "section": "Why now?",
+    "text": "Why now?\nGIS and remote sensing are now essential for biodiversity monitoring, ecological mapping, spatial planning, climate adaptation, and environmental management. Yet geospatial education in Norway is still largely concentrated in geography, earth sciences, and engineering.\nECO-SPACE addresses this mismatch by creating learning material specifically designed for biosciences students, using ecological and biogeographical case studies rather than generic GIS exercises."
   },
   {
     "objectID": "ecospace.html#what-makes-it-different",
     "href": "ecospace.html#what-makes-it-different",
     "title": "augusto lima",
     "section": "What makes it different?",
-    "text": "What makes it different?\nECO-SPACE combines two needs that are often treated separately: spatial competence and universal design. Students learn how to work with geospatial data, but also how to produce outputs that can be read, interpreted, and used by diverse audiences.\nThe course therefore treats accessibility not as an afterthought, but as part of professional geospatial competence."
+    "text": "What makes it different?\nECO-SPACE combines three elements that are often separated: ecological theory, practical spatial analysis, and universal design. Students learn not only how to analyse spatial data, but also how to communicate maps and geospatial outputs clearly, accessibly, and responsibly.\nThe modules are self-paced, cumulative, and reusable, allowing students to learn at different speeds while building confidence across increasingly complex workflows."
   },
   {
-    "objectID": "ecospace.html#inclusive-geospatial-education",
-    "href": "ecospace.html#inclusive-geospatial-education",
+    "objectID": "ecospace.html#bio-spatial-education",
+    "href": "ecospace.html#bio-spatial-education",
     "title": "augusto lima",
-    "section": "Inclusive geospatial education",
-    "text": "Inclusive geospatial education\nThe goal is not only to teach GIS and remote sensing. The goal is to train students to produce spatial analyses, maps, and digital products that are scientifically meaningful, visually clear, and accessible to diverse users."
+    "section": "Bio-spatial education",
+    "text": "Bio-spatial education\nECO-SPACE is not simply a software-training project. It is a bio-spatial education project: students learn to use GIS and remote sensing as tools for asking ecological questions, interpreting complex landscapes, and communicating environmental change."
   },
   {
-    "objectID": "ecospace.html#project-structure",
-    "href": "ecospace.html#project-structure",
+    "objectID": "ecospace.html#from-gap-to-learning-pathway",
+    "href": "ecospace.html#from-gap-to-learning-pathway",
     "title": "augusto lima",
-    "section": "Project structure",
-    "text": "Project structure\n\n\n\nECO-SPACE project"
+    "section": "From gap to learning pathway",
+    "text": "From gap to learning pathway\nThe ECO-SPACE learning pathway is built around five principles."
   },
   {
-    "objectID": "ecospace.html#project-structure-1",
-    "href": "ecospace.html#project-structure-1",
+    "objectID": "ecospace.html#learning-outcomes",
+    "href": "ecospace.html#learning-outcomes",
     "title": "augusto lima",
-    "section": "Project structure",
-    "text": "Project structure\n\n\n\nECO-SPACE project"
+    "section": "Learning outcomes",
+    "text": "Learning outcomes\nECO-SPACE aims to help students move beyond technical button-clicking and toward spatial critical thinking."
   },
   {
-    "objectID": "ecospace.html#universal-design-as-geospatial-competence",
-    "href": "ecospace.html#universal-design-as-geospatial-competence",
+    "objectID": "ecospace.html#learning-modules",
+    "href": "ecospace.html#learning-modules",
     "title": "augusto lima",
-    "section": "Universal design as geospatial competence",
-    "text": "Universal design as geospatial competence\nECO-SPACE treats universal design as more than an accessibility requirement. It is taught as a professional skill for future environmental researchers, consultants, planners, and data communicators.\nIn practice, this means that students learn to think about colour-safe and high-contrast map design, readable legends and captions, clear metadata, multiple content formats, flexible pacing, low-stakes assessments, and spatial communication for specialist and non-specialist audiences."
+    "section": "Learning modules",
+    "text": "Learning modules\nThe modules are designed as self-paced learning units combining short conceptual explanations, practical workflows, checkpoints, quizzes, and reflection tasks. They are not structured around a formal ECTS course. Instead, they function as an extra-curricular resource that can support students, teaching assistants, researchers, and collaborators who want to strengthen bio-spatial competence."
   },
   {
-    "objectID": "ecospace.html#example-modules",
-    "href": "ecospace.html#example-modules",
+    "objectID": "ecospace.html#what-students-practise",
+    "href": "ecospace.html#what-students-practise",
     "title": "augusto lima",
-    "section": "Example modules",
-    "text": "Example modules\nThe course is being developed through a portfolio of practical modules that move from basic geospatial literacy to applied ecological analysis."
+    "section": "What students practise",
+    "text": "What students practise\nThe hands-on workflows are designed around basic but essential geospatial operations used in ecological and environmental research."
   },
   {
-    "objectID": "ecospace.html#project-activities",
-    "href": "ecospace.html#project-activities",
+    "objectID": "ecospace.html#universal-design-as-professional-geospatial-competence",
+    "href": "ecospace.html#universal-design-as-professional-geospatial-competence",
     "title": "augusto lima",
-    "section": "Project activities",
-    "text": "Project activities\nECO-SPACE is developed through three complementary activity streams.\nInternal workshops with researchers at BIO-UiB support the development of research-based modules using departmental expertise and datasets. These workshops also strengthen geospatial capacity among staff and students.\nExternal academic workshops connect ECO-SPACE to collaborators in geography, earth sciences, ecology, and geospatial education. This allows the course to reuse, adapt, and improve existing teaching materials while aligning them with ecological applications and universal design.\nStakeholder workshops with public and private actors help connect course content with real-world environmental challenges. These collaborations are intended to make the course more relevant for future workplaces and to generate practical case studies that students can use in project-based assignments."
+    "section": "Universal design as professional geospatial competence",
+    "text": "Universal design as professional geospatial competence\nIn ECO-SPACE, accessibility is treated as part of what it means to be a good geospatial practitioner. Students are encouraged to think about who will use their maps, who might be excluded by unclear design choices, and how spatial products can become more understandable for specialist and non-specialist audiences."
+  },
+  {
+    "objectID": "ecospace.html#collaboration",
+    "href": "ecospace.html#collaboration",
+    "title": "augusto lima",
+    "section": "Collaboration",
+    "text": "Collaboration\nECO-SPACE is developed through collaboration across the Department of Biological Sciences, the Department of Geography, and the Department of Earth Sciences at the University of Bergen, together with international partners at the University of Amsterdam.\nThe project is also shaped by students, research assistants, teaching collaborators, and stakeholders working with biodiversity monitoring, spatial planning, and environmental management."
+  },
+  {
+    "objectID": "ecospace.html#eco-space-as-a-hub",
+    "href": "ecospace.html#eco-space-as-a-hub",
+    "title": "augusto lima",
+    "section": "ECO-SPACE as a hub",
+    "text": "ECO-SPACE as a hub\nBeyond individual modules, the long-term vision is to make ECO-SPACE a hub for bio-spatial education: a community where researchers, educators, students, and stakeholders can co-develop learning resources and share geospatial teaching practices across institutions."
+  },
+  {
+    "objectID": "ecospace.html#dissemination",
+    "href": "ecospace.html#dissemination",
+    "title": "augusto lima",
+    "section": "Dissemination",
+    "text": "Dissemination\nThe ECO-SPACE project has been presented through conference and poster formats under the framing Everything Happens Somewhere. The EGU26 abstract, ECO-SPACE: Geospatial Competence and Education in Biosciences, presents the project as a response to the limited integration of GIS and remote sensing in biosciences curricula and highlights its focus on self-paced, universally designed modules for ecological and biogeographical research.\n\nRead the EGU26 abstract Access EGU26 presentation\n\n\n\n\n\nBIO ECC Conference 2025"
   },
   {
     "objectID": "ecospace.html#my-role",
     "href": "ecospace.html#my-role",
     "title": "augusto lima",
     "section": "My role",
-    "text": "My role\nI contribute to ECO-SPACE as part of the leadership team and as a course developer. My work focuses on building GIS and remote sensing teaching materials, translating ecological and environmental questions into practical geospatial workflows, supporting accessible spatial communication, and helping design modules that students can follow independently."
+    "text": "My role\nI contribute to ECO-SPACE as part of the project team and as a course developer. My work focuses on translating ecological and environmental questions into practical GIS and remote sensing workflows, designing student-friendly module structures, supporting accessible map communication, and presenting the project to wider scientific and educational audiences."
   },
   {
     "objectID": "ecospace.html#connection-to-my-work",
     "href": "ecospace.html#connection-to-my-work",
     "title": "augusto lima",
     "section": "Connection to my work",
-    "text": "Connection to my work\nThis work builds directly on my background in geomatics, remote sensing, geospatial databases, glacier and vegetation monitoring, and interdisciplinary GIS education. ECO-SPACE also connects with my broader interest in making spatial methods more accessible to students and researchers working across ecology, biogeography, cryosphere science, and landscape change."
+    "text": "Connection to my work\nECO-SPACE connects directly with my broader interests in GIS, remote sensing, environmental change, glacier and alpine landscape monitoring, geospatial databases, and interdisciplinary spatial education. It also supports my goal of making geospatial tools more accessible to students and researchers working across ecology, biogeography, cryosphere science, and landscape analysis."
   },
   {
-    "objectID": "ecospace.html#team-and-collaborators",
-    "href": "ecospace.html#team-and-collaborators",
+    "objectID": "ecospace.html#team",
+    "href": "ecospace.html#team",
     "title": "augusto lima",
-    "section": "Team and collaborators",
-    "text": "Team and collaborators"
-  },
-  {
-    "objectID": "ecospace.html#expected-impact",
-    "href": "ecospace.html#expected-impact",
-    "title": "augusto lima",
-    "section": "Expected impact",
-    "text": "Expected impact\nECO-SPACE aims to become a reusable and scalable model for inclusive geospatial education in ecology and environmental management. By developing modular teaching resources, the project can support students at UiB while also contributing to wider national and international teaching collaborations.\nThe long-term ambition is to help train environmental professionals who can analyse spatial data critically, communicate results clearly, and design geospatial products that are accessible to the people who need them."
-  },
-  {
-    "objectID": "ecospace.html#contact",
-    "href": "ecospace.html#contact",
-    "title": "augusto lima",
-    "section": "Contact",
-    "text": "Contact\nFor questions about ECO-SPACE or related geospatial education activities, please contact:\nAugusto Lima\nDepartment of Biological Sciences, University of Bergen\naugusto.naschimento@uib.no\nSuzette Flantua\nDepartment of Biological Sciences, University of Bergen"
+    "section": "Team",
+    "text": "Team"
   },
   {
     "objectID": "glacimontis.html",
     "href": "glacimontis.html",
-    "title": "GLACIMONTIS",
+    "title": "augusto lima",
     "section": "",
-    "text": "When and where did mountains host their largest glaciers?\nGLACIMONTIS is a global geodatabase of reconstructed mountain paleoglaciers at the Last Glacial Maximum. It brings together glacier reconstructions from the scientific literature into a harmonised, traceable, and open-access spatial dataset.\n\nRead the paper Behind the Paper Download the database"
-  },
-  {
-    "objectID": "glacimontis.html#mountain-glacier-extents-at-the-last-glacial-maximum",
-    "href": "glacimontis.html#mountain-glacier-extents-at-the-last-glacial-maximum",
-    "title": "GLACIMONTIS",
-    "section": "",
-    "text": "When and where did mountains host their largest glaciers?\nGLACIMONTIS is a global geodatabase of reconstructed mountain paleoglaciers at the Last Glacial Maximum. It brings together glacier reconstructions from the scientific literature into a harmonised, traceable, and open-access spatial dataset.\n\nRead the paper Behind the Paper Download the database"
+    "text": "GLACIMONTIS\n\n\nMountain Glacier Extents at the Last Glacial Maximum\n\nWhen and where did mountains host their largest glaciers?\nGLACIMONTIS is a global geodatabase of reconstructed mountain paleoglaciers at the Last Glacial Maximum. It brings together glacier reconstructions from the scientific literature into a harmonised, traceable, and open-access spatial dataset.\n\nRead the paper Behind the Paper Download the database"
   },
   {
     "objectID": "glacimontis.html#overview",
     "href": "glacimontis.html#overview",
-    "title": "GLACIMONTIS",
+    "title": "augusto lima",
     "section": "Overview",
     "text": "Overview\nApproximately 21,000 years ago, Earth was much colder than today, and glaciers extended far beyond their modern limits. In mountain regions, these former glaciers shaped landscapes, influenced ecosystems, and left behind geomorphological evidence that can still be mapped today.\nGLACIMONTIS was developed to bring this scattered knowledge together. Rather than reconstructing glaciers directly from the landscape, the project traced glacier reconstructions through hundreds of studies published across the global literature. The result is a global geodatabase of mountain glacier extents at the global and local Last Glacial Maximum."
   },
   {
     "objectID": "glacimontis.html#why-glacimontis",
     "href": "glacimontis.html#why-glacimontis",
-    "title": "GLACIMONTIS",
+    "title": "augusto lima",
     "section": "Why GLACIMONTIS?",
     "text": "Why GLACIMONTIS?\nMountain glaciers are key archives of past climate and landscape change. Yet, before GLACIMONTIS, reconstructions of former mountain glaciers were scattered across publications, regional datasets, printed maps, supplementary materials, and non-standard geospatial formats.\nThis made it difficult to compare mountain regions globally, evaluate glacier and climate models, or use paleoglacier extents in ecological and biogeographical studies.\nGLACIMONTIS addresses this by providing a global, open-access synthesis of reconstructed mountain glacier extents, while preserving links to the original studies and their interpretations."
   },
   {
     "objectID": "glacimontis.html#the-challenge",
     "href": "glacimontis.html#the-challenge",
-    "title": "GLACIMONTIS",
+    "title": "augusto lima",
     "section": "The challenge",
     "text": "The challenge\nCompiling GLACIMONTIS was not simply a matter of downloading existing files. Many reconstructions were difficult to access, available only as figures in publications, or stored in formats that required additional processing. In other cases, spatial references, coordinate systems, or metadata were incomplete.\nAnother challenge was temporal. The Last Glacial Maximum is often treated as a single global interval, but mountain glaciers did not all reach their largest extent at the same time. For this reason, GLACIMONTIS includes both global LGM and local last glacial maximum reconstructions within a broader 57–14 ka timeframe."
   },
   {
     "objectID": "glacimontis.html#the-approach",
     "href": "glacimontis.html#the-approach",
-    "title": "GLACIMONTIS",
+    "title": "augusto lima",
     "section": "The approach",
     "text": "The approach\nThe project focused on making data heterogeneity traceable rather than erasing it. Each glacier reconstruction is linked to its original source, and the database preserves information about chronology, paleoclimate estimates, equilibrium-line altitude, data availability, and methodological context where available.\nThis allows users to understand not only where former glaciers were mapped, but also how those reconstructions were produced and how they should be interpreted."
   },
   {
     "objectID": "glacimontis.html#what-the-database-contains",
     "href": "glacimontis.html#what-the-database-contains",
-    "title": "GLACIMONTIS",
+    "title": "augusto lima",
     "section": "What the database contains",
-    "text": "What the database contains\nGLACIMONTIS includes two main spatial products:\n\n\nEmpirically Reconstructed Paleoglaciers\nA compilation of the individual glacier reconstructions, organised by source and mountain range. This layer preserves the original reconstruction context as much as possible.\n\n\nFiltered Reconstructed Paleoglaciers\nA curated, ready-to-use product that merges reconstructions into generalised glacier masks for broad-scale applications, including modelling and comparative analyses.\n\n\nThe database also includes metadata tables documenting source publications, reconstruction methods, data availability, chronology, ELA information, and paleoclimate values where reported."
+    "text": "What the database contains\nGLACIMONTIS includes three main spatial products:\n\n\nEmpirically Reconstructed Paleoglaciers\nA compilation of individual glacier reconstructions, organised by source publication and mountain range. This layer preserves the original reconstruction context as much as possible.\n\n\nFiltered Reconstructed Paleoglaciers\nA curated, ready-to-use product that merges reconstructions into generalised glacier masks for broad-scale applications, including modelling and comparative analyses.\n\n\nGlaciated Mountain Ranges Overview\nA global overview of mountain ranges that were glaciated to some extent during the Last Glacial Maximum. This layer helps identify where empirical reconstructions are available, where glaciation is known but remains unmapped, and where mountain ranges were unglaciated.\n\n\nThe database also includes metadata tables documenting source publications, reconstruction methods, data availability, chronology, ELA information, and paleoclimate values where reported."
   },
   {
     "objectID": "glacimontis.html#applications",
     "href": "glacimontis.html#applications",
-    "title": "GLACIMONTIS",
+    "title": "augusto lima",
     "section": "Applications",
     "text": "Applications\nGLACIMONTIS can support research across several fields:\n\nPaleoclimate reconstruction\nGlacier and climate model evaluation\nLandscape evolution studies\nMountain biogeography and paleoecology\nGlobal comparisons of Quaternary mountain glaciation\nIdentification of geographic and methodological research gaps"
   },
   {
     "objectID": "glacimontis.html#behind-the-project",
     "href": "glacimontis.html#behind-the-project",
-    "title": "GLACIMONTIS",
+    "title": "augusto lima",
     "section": "Behind the project",
     "text": "Behind the project\nThis work was developed by an interdisciplinary team bringing together expertise in glacial geomorphology, paleoglacier reconstruction, paleoclimate, biogeography, GIS, and mountain landscape change.\nThe project also reflects the collaborative spirit of the paleoglacier research community. Many researchers shared data, clarified interpretations, and contributed to improving the global synthesis."
   },
   {
     "objectID": "glacimontis.html#citation",
     "href": "glacimontis.html#citation",
-    "title": "GLACIMONTIS",
+    "title": "augusto lima",
     "section": "Citation",
     "text": "Citation\nLima, A. C., Dulfer, H. E., Hughes, A. L. C., Margold, M., Barr, I., Laabs, B. J. C., & Flantua, S. G. A.\nMountain glacier extents at the Last Glacial Maximum.\nScientific Data 13, 629 (2026).\n\nScientific Data paper Zenodo dataset Behind the Paper story"
   },
@@ -228,20 +256,6 @@
     "href": "thermalmap.html",
     "title": "Urban Heat Islands: A Comparison of Air and Land Surface Temperature in São Paulo",
     "section": "",
-    "text": "Our research investigated the relationship between air temperature and land surface temperature (LST) in São Paulo, Brazil, focusing on how urbanization and seasonal variations affect temperature patterns across the city. We used remote sensing data to quantify the urban heat island effect and found substantial temperature differences between urban and rural areas.\nSpecifically, urban regions experienced temperatures approximately 5.8 to 11.5 °C warmer than rural areas during spring–summer, and 4.4 to 8.5 °C warmer during autumn–winter. These results clearly show how urban development significantly influences local climate.\n\n\n\n\nLand Use/Land Cover (LULC) classification of São Paulo on the right. LST thermal mapping during summer (center) and winter (left).\n\n\n\nMore importantly, this study demonstrates that remote sensing is a highly effective, affordable, and practical tool for monitoring urban climate conditions. By providing sufficiently precise spatial temperature data, our findings can directly inform urban planning strategies and environmental policies.\nUltimately, this research highlights the importance of integrating remote sensing technology to better manage and mitigate urban heat island effects, especially in growing cities that lack a dense network of weather stations.\n\n\n\n\nComparison between Air Temperature and Land Surface Temperature during winter (left) and summer (right).\n\n\n\n📬 Contact\n\nHave questions or want to learn more? Reach out via email or explore the full publication below:\n\nEmail: augusto.naschimento@uib.no\nFull paper: Urban Heat Islands: A Comparison of Air and Land Surface Temperature in São Paulo"
-  },
-  {
-    "objectID": "ecospace.html#ecological-spatial-competence-and-education",
-    "href": "ecospace.html#ecological-spatial-competence-and-education",
-    "title": "ECO-SPACE",
-    "section": "Ecological Spatial Competence and Education",
-    "text": "Ecological Spatial Competence and Education\nECO-SPACE develops inclusive, research-based geospatial education for ecology and environmental management. The project brings together GIS, remote sensing, universal design, ecological case studies, and stakeholder-driven learning to prepare students to create spatial products that are scientifically robust, accessible, and useful beyond the university.\n\nProject structure Example modules"
-  },
-  {
-    "objectID": "ecospace.html#course-design",
-    "href": "ecospace.html#course-design",
-    "title": "ECO-SPACE",
-    "section": "Course design",
-    "text": "Course design\nThe course is designed as a 5 ECTS foundation that can be expanded by an additional 5 ECTS through a student-led geospatial project. The foundation introduces students to GIS, remote sensing, spatial data handling, map design, ecological applications, and universal design principles.\nThe optional extension allows students to develop their own applied geospatial project using self-collected data, curated research datasets, or stakeholder-provided case studies. This structure makes the course useful both for students who need a first introduction to spatial tools and for students who want to apply these tools in a thesis, internship, or research project.\nThe course also includes a support system through face-to-face GIS walk-in sessions and online support through Mitt UiB. This is important because GIS and remote sensing often involve technical barriers, and students benefit from structured spaces where they can troubleshoot, ask questions, and receive feedback."
+    "text": "Augusto Lima, Emerson Galvani, João Paulo Assis Gobo & Cássio Arthur Wollmann\n\n2022-03-18\n\n\n\n\nOur research investigated the relationship between air temperature and land surface temperature (LST) in São Paulo, Brazil, focusing on how urbanization and seasonal variations affect temperature patterns across the city. We used remote sensing data to quantify the urban heat island effect and found substantial temperature differences between urban and rural areas.\nSpecifically, urban regions experienced temperatures approximately 5.8 to 11.5 °C warmer than rural areas during spring–summer, and 4.4 to 8.5 °C warmer during autumn–winter. These results clearly show how urban development significantly influences local climate.\n\n\n\n\nLand Use/Land Cover (LULC) classification of São Paulo on the right. LST thermal mapping during summer (center) and winter (left).\n\n\n\nMore importantly, this study demonstrates that remote sensing is a highly effective, affordable, and practical tool for monitoring urban climate conditions. By providing sufficiently precise spatial temperature data, our findings can directly inform urban planning strategies and environmental policies.\nUltimately, this research highlights the importance of integrating remote sensing technology to better manage and mitigate urban heat island effects, especially in growing cities that lack a dense network of weather stations.\n\n\n\n\nComparison between Air Temperature and Land Surface Temperature during winter (left) and summer (right).\n\n\n\n📬 Contact\n\nHave questions or want to learn more? Reach out via email or explore the full publication below:\n\nEmail: augusto.naschimento@uib.no\nFull paper: Urban Heat Islands: A Comparison of Air and Land Surface Temperature in São Paulo"
   }
 ]

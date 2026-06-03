@@ -2,6 +2,11 @@
 title: "Urban Heat Islands: A Comparison of Air and Land Surface Temperature in São Paulo"
 author: "Augusto Lima, Emerson Galvani, João Paulo Assis Gobo & Cássio Arthur Wollmann"
 date: "2022-03-18"
+format:
+  html:
+    toc: false
+    smooth-scroll: true
+    title-block-style: none
 ---
 
 ::: {.card}

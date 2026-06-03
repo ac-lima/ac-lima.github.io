@@ -1,11 +1,4 @@
 ---
-title: "GLACIMONTIS"
-toc: false
----
-
----
-title: "GLACIMONTIS"
-subtitle: "Mountain glacier extents at the Last Glacial Maximum"
 page-layout: full
 toc: false
 format:
@@ -15,9 +8,8 @@ format:
 
 ::: {.glacimontis-hero}
 ::: {.glacimontis-hero-text}
-# GLACIMONTIS
-
-## Mountain Glacier Extents at the Last Glacial Maximum
+<div class="glacimontis-title">GLACIMONTIS</div>
+<div class="glacimontis-subtitle">Mountain Glacier Extents at the Last Glacial Maximum</div>
 
 When and where did mountains host their largest glaciers?
 
@@ -104,24 +96,36 @@ This allows users to understand not only where former glaciers were mapped, but 
 
 ## What the database contains
 
-GLACIMONTIS includes two main spatial products:
+GLACIMONTIS includes three main spatial products:
 
 ::: {.feature-list}
 
 ::: {.feature-item}
 ### Empirically Reconstructed Paleoglaciers
-A compilation of the individual glacier reconstructions, organised by source and mountain range. This layer preserves the original reconstruction context as much as possible.
+
+A compilation of individual glacier reconstructions, organised by source publication and mountain range. This layer preserves the original reconstruction context as much as possible.
 :::
 
 ::: {.feature-item}
 ### Filtered Reconstructed Paleoglaciers
+
 A curated, ready-to-use product that merges reconstructions into generalised glacier masks for broad-scale applications, including modelling and comparative analyses.
+:::
+
+::: {.feature-item}
+### Glaciated Mountain Ranges Overview
+
+A global overview of mountain ranges that were glaciated to some extent during the Last Glacial Maximum. This layer helps identify where empirical reconstructions are available, where glaciation is known but remains unmapped, and where mountain ranges were unglaciated.
 :::
 
 :::
 
 The database also includes metadata tables documenting source publications, reconstruction methods, data availability, chronology, ELA information, and paleoclimate values where reported.
 
+:::
+
+::: {.glacimontis-map}
+![Global overview of mountain ranges classified according to Last Glacial Maximum glaciation status and reconstruction availability.](img/glacimontis_mountains.png)
 :::
 
 ::: {.glacimontis-section}

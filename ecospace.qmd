@@ -1,205 +1,330 @@
 ---
-page-layout: custom
+page-layout: full
 format:
   html:
     toc: false
     smooth-scroll: true
+    title-block-style: none
 body-class: ecospace-page
 ---
 
 ::: {.ecospace-hero}
 ::: {.ecospace-hero-text}
-# ECO-SPACE
+<div class="ecospace-title">ECO-SPACE</div>
 
-## Geospatial Competence and Education in Biosciences in Norway
+<div class="ecospace-subtitle">Geospatial Competence and Education in Biosciences</div>
 
-ECO-SPACE develops inclusive, research-based geospatial education for biogeography, global change ecology and environmental management. The project brings together GIS, remote sensing, universal design, ecological case studies, and research- and industry-driven learning to prepare students to create spatial products that are scientifically robust, accessible, and useful beyond the university.
+ECO-SPACE is an extra-curricular bio-spatial education initiative at the University of Bergen. The project develops self-paced, universally designed learning modules that connect biogeography, global change ecology, GIS, and remote sensing through hands-on spatial analysis.
 
 ::: {.button-row-dark}
-[Project structure](#project-structure){.btn .btn-light}
-[Example modules](#example-modules){.btn .btn-outline-light}
+[Project idea](#project-idea){.btn .btn-light}
+[Learning modules](#learning-modules){.btn .btn-outline-light}
+[EGU26 abstract](https://meetingorganizer.copernicus.org/EGU26/EGU26-21271.html){.btn .btn-outline-light}
 :::
 :::
 
 ::: {.ecospace-hero-logo}
-![ECO-SPACE logo](img/ecospace.png){.ecospace-logo}
+![](img/ecospacefull.png){.ecospace-logo}
 :::
 :::
 
 ::: {.stats-grid .ecospace-stats}
 ::: {.stat-card}
-### 25
-Potential self-paced modules covering foundational and advanced GIS/RS topics.
+### Extra-curricular
+A flexible learning space beyond formal ECTS structures.
 :::
 
 ::: {.stat-card}
-### BIO
-Developed at the Department of Biological Sciences, University of Bergen in collaboration with the Department of Earth Sciences and the Department of Geography, University of Bergen and the Institute for Biodiversity and Ecosystem Dynamics, University of Amsterdam.
+### GIS + RS
+Hands-on training in Geographic Information Systems and Remote Sensing.
 :::
 
 ::: {.stat-card}
-### UD
-Universal design integrated as both teaching practice and course content.
+### Bio-spatial
+Ecological questions translated into spatial workflows.
+:::
+
+::: {.stat-card}
+### Accessible
+Universal design integrated into learning materials and map communication.
 :::
 :::
 
-::: {.ecospace-section}
-## Overview
+::: {.ecospace-section #project-idea}
+## Project idea
 
-How can biology and environmental science students learn geospatial skills in a way that is both technically strong and accessible to diverse users?
+ECO-SPACE — *Geospatial Competence and Education in Biosciences* — was created from a simple observation: biological and ecological processes are spatial, but biosciences students often have limited opportunities to learn geospatial tools through biological examples.
 
-ECO-SPACE addresses this question by developing *Earth Observation and Geospatial Tools for Ecosystem and Environmental Management*, a new extra curricular module course at the Mountains in Motion Lab, Department of Biological Sciences, University of Bergen. The course responds to a growing need for spatial competence in environmental monitoring, biodiversity management, climate adaptation, land-use planning, and sustainable resource management.
+The project responds to this gap by developing an extra-curricular set of learning modules where students can build practical GIS and remote sensing skills while working with real ecological and environmental questions. Instead of treating GIS as a technical add-on, ECO-SPACE frames spatial analysis as part of ecological thinking: species distributions, island systems, alpine biomes, vegetation change, animal habitats, and climate–ecosystem interactions all happen somewhere.
 
-The project is built around a simple idea: geospatial education should not only teach students how to analyse spatial data, but also how to develop spatial critical thinking and communicate spatial information in ways that are inclusive, understandable, and useful for society.
+The ambition is to make geospatial learning more accessible, transferable, and relevant for students and researchers in biosciences.
 :::
 
 ::: {.two-column-section}
 ::: {.text-column}
-## Why ECO-SPACE?
+## Why now?
 
-Spatial technologies are now central to environmental research and decision-making. They help us map biodiversity patterns, monitor vegetation change, assess human pressure on ecosystems, understand coastal and marine environments, and communicate complex environmental information to different audiences.
+GIS and remote sensing are now essential for biodiversity monitoring, ecological mapping, spatial planning, climate adaptation, and environmental management. Yet geospatial education in Norway is still largely concentrated in geography, earth sciences, and engineering.
 
-Yet students in biology and environmental sciences often have limited access to geospatial training designed around ecological questions. At the same time, maps, dashboards, models, and visualizations are not always designed with accessibility in mind.
+ECO-SPACE addresses this mismatch by creating learning material specifically designed for biosciences students, using ecological and biogeographical case studies rather than generic GIS exercises.
 :::
 
 ::: {.text-column}
 ## What makes it different?
 
-ECO-SPACE combines two needs that are often treated separately: spatial competence and universal design. Students learn how to work with geospatial data, but also how to produce outputs that can be read, interpreted, and used by diverse audiences.
+ECO-SPACE combines three elements that are often separated: ecological theory, practical spatial analysis, and universal design. Students learn not only how to analyse spatial data, but also how to communicate maps and geospatial outputs clearly, accessibly, and responsibly.
 
-The course therefore treats accessibility not as an afterthought, but as part of professional geospatial competence.
+The modules are self-paced, cumulative, and reusable, allowing students to learn at different speeds while building confidence across increasingly complex workflows.
 :::
 :::
 
 ::: {.ecospace-highlight}
-## Inclusive geospatial education
+## Bio-spatial education
 
-The goal is not only to teach GIS and remote sensing. The goal is to train students to produce spatial analyses, maps, and digital products that are scientifically meaningful, visually clear, and accessible to diverse users.
-:::
-
-::: {.ecospace-section #project-structure}
-## Project structure
-![ECO-SPACE project](img/ecospace_project.png)
+ECO-SPACE is not simply a software-training project. It is a bio-spatial education project: students learn to use GIS and remote sensing as tools for asking ecological questions, interpreting complex landscapes, and communicating environmental change.
 :::
 
 ::: {.ecospace-section}
-## Universal design as geospatial competence
+## From gap to learning pathway
 
-ECO-SPACE treats universal design as more than an accessibility requirement. It is taught as a professional skill for future environmental researchers, consultants, planners, and data communicators.
-
-In practice, this means that students learn to think about colour-safe and high-contrast map design, readable legends and captions, clear metadata, multiple content formats, flexible pacing, low-stakes assessments, and spatial communication for specialist and non-specialist audiences.
+The ECO-SPACE learning pathway is built around five principles.
 :::
 
-::: {.ecospace-section #example-modules}
-## Example modules
+::: {.feature-list .ecospace-feature-list}
+::: {.feature-item}
+### Throughline
 
-The course is being developed through a portfolio of practical modules that move from basic geospatial literacy to applied ecological analysis.
+Modules are connected by a shared ecological and spatial narrative, moving from basic geospatial literacy toward applied environmental analysis.
+:::
+
+::: {.feature-item}
+### Progression
+
+Students begin with foundational GIS and remote sensing concepts before advancing to raster analysis, classification, spatial statistics, and change detection.
+:::
+
+::: {.feature-item}
+### Cumulativeness
+
+Each module reuses concepts and tools introduced earlier, helping students consolidate knowledge instead of treating exercises as isolated tasks.
+:::
+
+::: {.feature-item}
+### Transferability
+
+Workflows are designed so that students can transfer skills across software, datasets, ecological systems, and future research projects.
+:::
+
+::: {.feature-item}
+### Accessibility
+
+Universal design principles guide the structure of the materials, the pacing of the modules, and the way students learn to design maps and communicate spatial information.
+:::
+:::
+
+::: {.ecospace-section}
+## Learning outcomes
+
+ECO-SPACE aims to help students move beyond technical button-clicking and toward spatial critical thinking.
 :::
 
 ::: {.ecospace-module-grid}
 ::: {.ecospace-module-card}
-### Exploring the Islands of Europe
+#### Conceptual knowledge
+### Biogeography and global ecology
 
-Students learn how to create an ArcGIS Pro project, work with vector and raster data, calculate island area, analyse distance to the mainland, summarize elevation and climate, and export a clear map layout.
+Understand key concepts in biogeography, global change ecology, landscape interpretation, and ecological spatial patterns.
 :::
 
 ::: {.ecospace-module-card}
-#### Beginner · QGIS
-### Exploring Greenland
+#### Technical competence
+### GIS and remote sensing tools
 
-Students use QGIS and QGreenland to explore the west coast of Greenland, thick-billed murre colonies, sea-ice conditions, vector layers, raster layers, metadata, spatial patterns, and accessible map production.
+Gain practical experience with ArcGIS, QGIS, spatial data handling, geoprocessing, raster analysis, and satellite imagery.
 :::
 
 ::: {.ecospace-module-card}
-#### Intermediate · ArcGIS Pro
-### Alpine Biome Under Pressure
+#### Critical thinking
+### Complex landscapes
 
-Students analyse alpine biome definitions in High Mountain Asia using GMBA mountain units, elevation data, alpine biome maps, the Global Human Footprint Index, and protected-area datasets.
+Develop spatial reasoning to interpret biological and environmental processes across heterogeneous landscapes.
 :::
 
 ::: {.ecospace-module-card}
-#### Intermediate · Remote Sensing
-### Shrub Encroachment Around Finse
+#### Infrastructure literacy
+### Geospatial data systems
 
-Students work with satellite imagery to understand alpine vegetation change. The workflow includes band combinations, NDVI, supervised and unsupervised classification, accuracy assessment, and change detection.
+Learn how to find, evaluate, use, document, and communicate geospatial datasets and metadata.
+:::
+
+::: {.ecospace-module-card}
+#### Application
+### Real-world challenges
+
+Apply spatial analysis to ecological, biogeographical, climate-change, and environmental-management questions.
+:::
+
+::: {.ecospace-module-card}
+#### Communication
+### Accessible spatial outputs
+
+Create maps, legends, layouts, captions, and visual products that are readable and useful for diverse audiences.
 :::
 :::
 
-<!-- Optional image block. Add a screenshot/collage to img/ecospace_modules.png and remove these comment markers.
+::: {.ecospace-section #learning-modules}
+## Learning modules
 
-::: {.ecospace-map}
-![Examples of ECO-SPACE learning modules combining ecological questions, geospatial workflows, and accessible map communication.](img/ecospace_modules.png)
+The modules are designed as self-paced learning units combining short conceptual explanations, practical workflows, checkpoints, quizzes, and reflection tasks. They are not structured around a formal ECTS course. Instead, they function as an extra-curricular resource that can support students, teaching assistants, researchers, and collaborators who want to strengthen bio-spatial competence.
 :::
 
--->
+::: {.ecospace-module-grid}
+::: {.ecospace-module-card}
+#### Foundation · ArcGIS/QGIS
+### Introduction to GIS and RS for biosciences
+
+Students learn core geospatial concepts, project organisation, vector and raster data, coordinate systems, metadata, symbology, and map layouts.
+:::
+
+::: {.ecospace-module-card}
+#### Arctic ecology · QGIS
+### Biotic and abiotic interactions in Greenland
+
+Students use QGIS and QGreenland to explore thick-billed murre colonies, sea-ice conditions, latitude, coastlines, and spatial habitat patterns.
+:::
+
+::: {.ecospace-module-card}
+#### Island biogeography · ArcGIS Pro
+### Spatio-temporal dynamics of islands
+
+Students analyse European islands through area calculations, distance to mainland, elevation, climate variables, and map-based interpretation.
+:::
+
+::: {.ecospace-module-card}
+#### Mountain ecology · ArcGIS Pro
+### Mapping alpine biomes under pressure
+
+Students compare alpine biome definitions, calculate mountain-range statistics, analyse human pressure, and assess protected areas in High Mountain Asia.
+:::
+
+::: {.ecospace-module-card}
+#### Remote sensing · Finse
+### Vegetation change monitoring
+
+Students work with satellite imagery, true- and false-colour composites, NDVI, supervised and unsupervised classification, accuracy assessment, and change detection.
+:::
+
+::: {.ecospace-module-card}
+#### Communication · GIS storytelling
+### Scientific storytelling with maps
+
+Students learn how to communicate spatial results through clear maps, layouts, metadata, legends, and accessible visual narratives.
+:::
+:::
 
 ::: {.ecospace-section}
-## Project activities
+## What students practise
 
-ECO-SPACE is developed through three complementary activity streams.
+The hands-on workflows are designed around basic but essential geospatial operations used in ecological and environmental research.
+:::
 
-Internal workshops with researchers at BIO-UiB support the development of research-based modules using departmental expertise and datasets. These workshops also strengthen geospatial capacity among staff and students.
+::: {.feature-list .ecospace-feature-list}
+::: {.feature-item}
+### Overlay and proximity tools
 
-External academic workshops connect ECO-SPACE to collaborators in geography, earth sciences, ecology, and geospatial education. This allows the course to reuse, adapt, and improve existing teaching materials while aligning them with ecological applications and universal design.
+Clip, select, buffer, near, intersect, erase, union, merge, dissolve, split, and spatial join.
+:::
 
-Stakeholder workshops with public and private actors help connect course content with real-world environmental challenges. These collaborations are intended to make the course more relevant for future workplaces and to generate practical case studies that students can use in project-based assignments.
+::: {.feature-item}
+### Raster and statistical analysis
+
+Raster calculation, reclassification, summary statistics, zonal statistics, focal statistics, field calculation, and attribute joins.
+:::
+
+::: {.feature-item}
+### Remote sensing workflows
+
+Composite bands, true- and false-colour imagery, vegetation indices, supervised and unsupervised classification, accuracy assessment, and change detection.
+:::
+
+::: {.feature-item}
+### Accessible geospatial communication
+
+Colour-safe palettes, readable legends, clear captions, map layout design, metadata interpretation, and spatial storytelling.
+:::
+:::
+
+::: {.ecospace-highlight}
+## Universal design as professional geospatial competence
+
+In ECO-SPACE, accessibility is treated as part of what it means to be a good geospatial practitioner. Students are encouraged to think about who will use their maps, who might be excluded by unclear design choices, and how spatial products can become more understandable for specialist and non-specialist audiences.
+:::
+
+::: {.two-column-section}
+::: {.text-column}
+## Collaboration
+
+ECO-SPACE is developed through collaboration across the Department of Biological Sciences, the Department of Geography, and the Department of Earth Sciences at the University of Bergen, together with international partners at the University of Amsterdam.
+
+The project is also shaped by students, research assistants, teaching collaborators, and stakeholders working with biodiversity monitoring, spatial planning, and environmental management.
+:::
+
+::: {.text-column}
+## ECO-SPACE as a hub
+
+Beyond individual modules, the long-term vision is to make ECO-SPACE a hub for bio-spatial education: a community where researchers, educators, students, and stakeholders can co-develop learning resources and share geospatial teaching practices across institutions.
+:::
+:::
+
+::: {.ecospace-section}
+## Dissemination
+
+The ECO-SPACE project has been presented through conference and poster formats under the framing *Everything Happens Somewhere*. The EGU26 abstract, **ECO-SPACE: Geospatial Competence and Education in Biosciences**, presents the project as a response to the limited integration of GIS and remote sensing in biosciences curricula and highlights its focus on self-paced, universally designed modules for ecological and biogeographical research.
+
+::: {.button-row}
+[Read the EGU26 abstract](https://meetingorganizer.copernicus.org/EGU26/EGU26-21271.html){.btn .btn-primary}
+[Access EGU26 presentation](https://universityofbergen-my.sharepoint.com/:p:/g/personal/augusto_naschimento_uib_no/IQA82fTaTUYxTKr8QX-G1Rg_AdNMmVUI-Qww5357-BXveXo?e=FWR8bn){.btn .btn-primary}
+:::
+
+::: {.ecospace-map}
+![BIO ECC Conference 2025](img/ecospace_poster.png)
+:::
 :::
 
 ::: {.two-column-section}
 ::: {.text-column}
 ## My role
 
-I contribute to ECO-SPACE as part of the leadership team and as a course developer. My work focuses on building GIS and remote sensing teaching materials, translating ecological and environmental questions into practical geospatial workflows, supporting accessible spatial communication, and helping design modules that students can follow independently.
+I contribute to ECO-SPACE as part of the project team and as a course developer. My work focuses on translating ecological and environmental questions into practical GIS and remote sensing workflows, designing student-friendly module structures, supporting accessible map communication, and presenting the project to wider scientific and educational audiences.
 :::
 
 ::: {.text-column}
 ## Connection to my work
 
-This work builds directly on my background in geomatics, remote sensing, geospatial databases, glacier and vegetation monitoring, and interdisciplinary GIS education. ECO-SPACE also connects with my broader interest in making spatial methods more accessible to students and researchers working across ecology, biogeography, cryosphere science, and landscape change.
+ECO-SPACE connects directly with my broader interests in GIS, remote sensing, environmental change, glacier and alpine landscape monitoring, geospatial databases, and interdisciplinary spatial education. It also supports my goal of making geospatial tools more accessible to students and researchers working across ecology, biogeography, cryosphere science, and landscape analysis.
 :::
 :::
 
 ::: {.ecospace-section}
-## Team and collaborators
+## Team
 :::
 
 ::: {.ecospace-people-grid}
 ::: {.ecospace-person-card}
-### Leadership and course development
+### Project team
 
-Suzette Flantua, Augusto Lima, Peter Manning, Sehoya Cotner, and Jonathan Soulé.
+Suzette G. A. Flantua, Augusto C. Lima, Tabea Wein, Myrthe van Hecke, Maria Dunzendorfer, and collaborators across UiB and partner institutions.
 :::
 
 ::: {.ecospace-person-card}
-### National collaborators
+### UiB collaboration
 
-Benjamin Robson and Gidske Andersen contribute expertise in GIS, remote sensing, geomatics, and geospatial education at UiB.
+The project connects expertise from biosciences, geography, earth sciences, geospatial education, teaching development, and ecological research with collaborators from the Department of Earth Sciences and Department ofGeography.
 :::
 
 ::: {.ecospace-person-card}
-### International collaborators
+### International and stakeholder links
 
-Ligia Vizeu Barrozo, Harry Seijmonsbergen, Thijs de Boer, and partners from USP, UvA, and other institutions contribute international perspectives on applied GIS, remote sensing, and ecological modelling.
+ECO-SPACE builds on collaboration with the Institute for Biodiversity and Ecosystem Dynamics at the University of Amsterdam and with stakeholders at the Vestland Fylkeskommune involved in biodiversity monitoring, spatial planning, and environmental management.
 :::
-:::
-
-::: {.ecospace-highlight}
-## Expected impact
-
-ECO-SPACE aims to become a reusable and scalable model for inclusive geospatial education in ecology and environmental management. By developing modular teaching resources, the project can support students at UiB while also contributing to wider national and international teaching collaborations.
-
-The long-term ambition is to help train environmental professionals who can analyse spatial data critically, communicate results clearly, and design geospatial products that are accessible to the people who need them.
-:::
-
-::: {.ecospace-section}
-## Contact
-
-For questions about ECO-SPACE or related geospatial education activities, please contact:
-
-**Augusto Lima**  
-Department of Biological Sciences, University of Bergen  
-<augusto.naschimento@uib.no>
-
-**Suzette Flantua**  
-Department of Biological Sciences, University of Bergen
 :::

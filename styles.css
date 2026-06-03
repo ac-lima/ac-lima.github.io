@@ -542,6 +542,23 @@ body.glacimontis-page main {
   color: #5f6f7f;
 }
 
+.glacimontis-title {
+  font-size: 4rem;
+  font-weight: 800;
+  letter-spacing: 0.05em;
+  margin-bottom: 1.5rem;
+  color: white;
+}
+
+.glacimontis-subtitle {
+  font-size: 1.45rem;
+  font-weight: 400;
+  padding-bottom: 0.8rem;
+  margin-bottom: 1.5rem;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.5);
+  color: white;
+}
+
 /* ==========================================================================
    ECO-SPACE page
    ========================================================================== */
@@ -559,20 +576,12 @@ body.ecospace-page {
   overflow-x: hidden;
 }
 
-/* Remove excessive Quarto spacing on full-width page */
-body.ecospace-page main {
-  max-width: none !important;
-  padding: 0 !important;
-}
-
-/* Full-width hero */
 .ecospace-hero {
   min-height: 72vh;
-  display: grid;
-  grid-template-columns: minmax(0, 1.4fr) minmax(260px, 0.7fr);
-  gap: 2.5rem;
+  display: flex;
   align-items: center;
-  padding: 5rem 3rem;
+  justify-content: center;
+  padding: 5rem 2rem;
   background:
     linear-gradient(135deg, rgba(11, 79, 74, 0.94), rgba(39, 70, 56, 0.84)),
     url("img/ecospace_background.png");
@@ -623,7 +632,6 @@ body.ecospace-page main {
   display: block;
 }
 
-/* General content sections */
 .ecospace-section {
   max-width: 1050px;
   margin: 4rem auto;
@@ -644,7 +652,6 @@ body.ecospace-page main {
   color: #2f3e4d;
 }
 
-/* ECO-SPACE overrides for existing statistic cards */
 .ecospace-stats .stat-card {
   border-top: 5px solid var(--ecospace-teal);
 }
@@ -653,7 +660,6 @@ body.ecospace-page main {
   color: var(--ecospace-teal);
 }
 
-/* Highlight box */
 .ecospace-highlight {
   max-width: 1050px;
   margin: 4rem auto;
@@ -674,18 +680,16 @@ body.ecospace-page main {
   line-height: 1.75;
 }
 
-/* ECO-SPACE feature cards */
 .ecospace-feature-list .feature-item h3 {
   color: var(--ecospace-teal);
 }
 
-/* Module cards */
 .ecospace-module-grid {
   max-width: 1150px;
   margin: 2rem auto 4rem auto;
   padding: 0 2rem;
   display: grid;
-  grid-template-columns: repeat(4, 1fr);
+  grid-template-columns: repeat(3, 1fr);
   gap: 1.2rem;
 }
 
@@ -719,7 +723,6 @@ body.ecospace-page main {
   color: #2f3e4d;
 }
 
-/* People cards */
 .ecospace-people-grid {
   max-width: 1150px;
   margin: 2rem auto 4rem auto;
@@ -746,7 +749,6 @@ body.ecospace-page main {
   color: #2f3e4d;
 }
 
-/* Optional module preview image */
 .ecospace-map {
   max-width: 950px;
   margin: 2.5rem auto 4rem auto;
@@ -764,7 +766,6 @@ body.ecospace-page main {
   box-shadow: 0 8px 24px rgba(0, 0, 0, 0.08);
 }
 
-/* Mobile */
 @media (max-width: 1050px) {
   .ecospace-module-grid {
     grid-template-columns: 1fr 1fr;
@@ -810,4 +811,21 @@ body.ecospace-page main {
     padding-left: 1rem;
     padding-right: 1rem;
   }
+}
+
+.ecospace-title {
+  font-size: 4rem;
+  font-weight: 800;
+  letter-spacing: 0.05em;
+  margin-bottom: 1.5rem;
+  color: white;
+}
+
+.ecospace-subtitle {
+  font-size: 1.45rem;
+  font-weight: 400;
+  padding-bottom: 0.8rem;
+  margin-bottom: 1.5rem;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.5);
+  color: white;
 }

@@ -2,6 +2,11 @@
 title: "Understanding Glacier Melt with Drones: The Case of Tapado Glacier, Chile"
 author: "Augusto Lima"
 date: "2023-11-27"
+format:
+  html:
+    toc: false
+    smooth-scroll: true
+    title-block-style: none
 ---
 
 ::: {.card}
