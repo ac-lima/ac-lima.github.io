@@ -39,7 +39,7 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-a37c72dd2dbac68997fcdc15a3622e78.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-dfb324f25d9b1687192fa8be62ac8f9c.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-576e3046620f543f50f94cc14fea882b.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -177,18 +177,160 @@ ul.task-list li input[type="checkbox"] {
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
-    </div>
+    
 <!-- main -->
-<main class="content" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"></header>
+<main class="content column-page" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"></header>
 
 
 
 
+<div class="paleo-hero">
+<div class="paleo-hero-inner">
+<div class="paleo-hero-text">
+<div class="paleo-title">
+Transient Paleoglacier Modelling
+</div>
+<div class="paleo-subtitle">
+Mountain glacier evolution since the last interglacial
+</div>
+<p>This project uses the AI-based <strong>Instructed Glacier Model (IGM)</strong> to simulate mountain glacier evolution across glacial-interglacial timescales. We model glacier extent, ice thickness, and ice-flow evolution since ~130 ka, combining paleoclimate forcing, GPU-accelerated ice dynamics, and spatial validation against empirical glacier reconstructions.</p>
+<div class="button-row-dark">
+<p><a href="#project-idea" class="btn btn-light">Project idea</a> <a href="#modelling-workflow" class="btn btn-outline-light">Modelling workflow</a> <a href="#validation-framework" class="btn btn-outline-light">Validation framework</a></p>
+</div>
+</div>
+</div>
+</div>
+<div class="stats-grid">
+<section id="ka" class="level3 stat-card">
+<h3 class="anchored" data-anchor-id="ka">~130ka</h3>
+<p>Simulation period</p>
+</section>
+<section id="m" class="level3 stat-card">
+<h3 class="anchored" data-anchor-id="m">500m</h3>
+<p>Spatial resolution</p>
+</section>
+<section id="section" class="level3 stat-card">
+<h3 class="anchored" data-anchor-id="section">14</h3>
+<p>Simulation domains</p>
+</section>
+<section id="section-1" class="level3 stat-card">
+<h3 class="anchored" data-anchor-id="section-1">617</h3>
+<p>Calibration experiments</p>
+</section>
+</div>
+<section id="project-idea" class="level2 glacimontis-section">
+<h2 class="anchored" data-anchor-id="project-idea">Project idea</h2>
+<p>Mountain glaciers are central to understanding past climate, landscape evolution, and alpine ecosystem history. Yet, for many mountain ranges, glacier evolution through the Last Glacial Cycle and the Holocene remains poorly constrained. Existing studies often focus on individual time slices, such as the Last Glacial Maximum or the Younger Dryas, or cover limited spatial domains because high-resolution transient glacier modelling is computationally demanding.</p>
+<p>This project addresses that gap by using the <strong>Instructed Glacier Model (IGM)</strong>, a deep-learning ice-flow emulator, to make long-timescale, high-resolution transient simulations feasible across broad mountain regions. Instead of reconstructing only a single glacier maximum, the aim is to model how glaciers expanded, retreated, and reorganised through full glacial-interglacial climate variability.</p>
+</section>
+<div class="two-column-section">
+<section id="why-this-matters" class="level2 text-column">
+<h2 class="anchored" data-anchor-id="why-this-matters">Why this matters</h2>
+<p>Transient glacier simulations provide time-varying boundary conditions for research questions that cannot be answered with static glacier maps alone. They help investigate when mountain corridors were glaciated, how valleys were connected or isolated, and how glacier change influenced sediment flux, lake development, geomorphic processes, and alpine biogeography.</p>
+</section>
+<section id="main-innovation" class="level2 text-column">
+<h2 class="anchored" data-anchor-id="main-innovation">Main innovation</h2>
+<p>The project combines GPU-accelerated glacier modelling with an explicit ensemble-evaluation strategy. Rather than selecting one visually convincing “best” simulation, the workflow evaluates many plausible simulations and maps where model agreement is robust or sensitive to parameter choices.</p>
+</section>
+</div>
+<section id="study-areas" class="level2 glacimontis-section">
+<h2 class="anchored" data-anchor-id="study-areas">Study areas</h2>
+<p>The simulations cover eight broad mountain ranges across North America, South America, Eurasia, and Africa, subdivided into 14 simulation domains. The domains include the Northern Andes, Ethiopian Highlands, Eastern Rift Mountains, Ruwenzori Mountains, California Sierra Nevada, Greater Caucasus, Pyrenees, and European Alps.</p>
+<div class="paleo-figure">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="img/igm_site.png" class="img-fluid figure-img"></p>
+<figcaption>Selected mountain ranges and simulation domains used for paleoglacier evolution simulations.</figcaption>
+</figure>
+</div>
+</div>
+</section>
+<section id="modelling-workflow" class="level2 glacimontis-section">
+<h2 class="anchored" data-anchor-id="modelling-workflow">Modelling workflow</h2>
+<p>The modelling workflow links global topography, present-day climatologies, paleoclimate proxy information, ice-flow dynamics, and systematic parameter calibration. This creates a reproducible pipeline for testing how different climate and ice-dynamic assumptions influence simulated glacier evolution.</p>
+<div class="feature-list">
+<section id="ice-free-topography" class="level3 feature-item">
+<h3 class="anchored" data-anchor-id="ice-free-topography">Ice-free topography</h3>
+<p>An ice-free digital elevation model is prepared by removing present-day glacier thickness from a global terrain model, producing the bedrock surface used for the simulations.</p>
+</section>
+<section id="paleoclimate-forcing" class="level3 feature-item">
+<h3 class="anchored" data-anchor-id="paleoclimate-forcing">Paleoclimate forcing</h3>
+<p>Temperature and precipitation are derived from present-day climatologies and adjusted through paleoclimate anomalies, regional scaling factors, lapse-rate corrections, and glacial-index precipitation scaling.</p>
+</section>
+<section id="ice-dynamics-with-igm" class="level3 feature-item">
+<h3 class="anchored" data-anchor-id="ice-dynamics-with-igm">Ice dynamics with IGM</h3>
+<p>The Instructed Glacier Model simulates transient glacier evolution using a physics-informed deep-learning emulator for ice flow, allowing long simulations to be run efficiently on GPUs.</p>
+</section>
+<section id="parameter-calibration" class="level3 feature-item">
+<h3 class="anchored" data-anchor-id="parameter-calibration">Parameter calibration</h3>
+<p>Temperature scaling, precipitation scaling, melt factors, and sliding parameters are varied across simulation ensembles to explore uncertainty and identify plausible model configurations.</p>
+</section>
+</div>
+</section>
+<section id="from-single-best-fit-maps-to-ensemble-probabilities" class="level2 glacimontis-highlight">
+<h2 class="anchored" data-anchor-id="from-single-best-fit-maps-to-ensemble-probabilities">From single best-fit maps to ensemble probabilities</h2>
+<p>A major challenge in paleoglacier modelling is <strong>equifinality</strong>: different combinations of climate forcing and ice-dynamic parameters can produce similarly plausible glacier extents. This project treats that uncertainty as part of the result. By ranking simulations and analysing the top-performing ensemble, glacier extent is expressed as a probability surface rather than a single deterministic outline.</p>
+</section>
+<section id="validation-framework" class="level2 glacimontis-section">
+<h2 class="anchored" data-anchor-id="validation-framework">Validation framework</h2>
+<p>Modelled glacier extents are validated through spatial comparison against empirical and present-day glacier datasets. For the Last Glacial Maximum, model outputs are compared with GLACIMONTIS glacier reconstructions. For the model present day, glacier outlines and ice volumes are compared with RGI 7.0 and the Farinotti et al.&nbsp;global ice-thickness estimate.</p>
+<p>The validation workflow classifies model-data agreement into correct presence, correct absence, underestimation, and overestimation. These classes are then summarised using confusion-matrix scores and the Critical Success Index (CSI), allowing simulations to be ranked quantitatively rather than only judged visually.</p>
+<div class="paleo-figure">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="img/validation_matrix.png" class="img-fluid figure-img"></p>
+<figcaption>Spatial confusion-matrix validation example comparing simulated glacier extent with empirical glacier reconstruction.</figcaption>
+</figure>
+</div>
+</div>
+</section>
+<div id="probabilistic-outputs" class="glacimontis-section">
+<section id="probabilistic-glacier-reconstructions" class="level2">
+<h2 class="anchored" data-anchor-id="probabilistic-glacier-reconstructions">Probabilistic glacier reconstructions</h2>
+<p>The final evaluation step uses the highest-ranked simulations from each ensemble to map how frequently each grid cell becomes ice-covered. Areas covered by ice in more than 75% of acceptable simulations represent robust model agreement. Areas covered in fewer than 25% of acceptable simulations indicate locations where glacier formation depends strongly on parameter choices or uncertain climate forcing.</p>
+<p>This creates a spatial uncertainty product that is useful for both paleoclimate interpretation and downstream ecological or geomorphological applications. Instead of presenting past glacier extent as a fixed boundary, the model highlights where the reconstructed glacier landscape is stable, uncertain, or sensitive to forcing assumptions.</p>
+<div class="paleo-figure">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="img/caucasus_heatmap.png" class="img-fluid figure-img"></p>
+<figcaption>Glacier extent probability map based on the ranked model ensemble for the Greater Caucasus.</figcaption>
+</figure>
+</div>
+</div>
+</section>
+</div>
+<div id="my-role" class="glacimontis-section">
+<section id="my-contribution" class="level2">
+<h2 class="anchored" data-anchor-id="my-contribution">My contribution</h2>
+<p>My contribution focused on synthesising climate scenarios for glacier simulations, supporting model setup, contributing to result analysis, and co-developing the first manuscript draft. This work builds directly on my broader research on GLACIMONTIS and paleoglacier datasets, linking empirical glacier reconstructions with numerical glacier modelling and model validation.</p>
+</section>
+</div>
+<div class="two-column-section">
+<section id="key-outputs" class="level2 text-column">
+<h2 class="anchored" data-anchor-id="key-outputs">Key outputs</h2>
+<ul>
+<li>Transient simulations of mountain glacier evolution since ~130 ka.</li>
+<li>Modelled glacier extent, ice thickness, and surface velocity through time.</li>
+<li>Calibration ensembles exploring paleoclimate and ice-dynamic uncertainty.</li>
+<li>Quantitative validation against LGM and present-day glacier datasets.</li>
+<li>Probability-based maps of robust and uncertain glacier occurrence.</li>
+</ul>
+</section>
+<section id="paleoglacier-evolution-animation" class="level2 text-column">
+<h2 class="anchored" data-anchor-id="paleoglacier-evolution-animation">Paleoglacier evolution animation</h2>
+<p>The full 130 ka transient simulation can be visualised in an animation that shows how glaciers expanded, retreated, and reorganised through glacial-interglacial climate variability. However, animations are yet not included as publication is in review and such outputs were not made available within the pre-print.</p>
+</section>
+</div>
+<section id="project-status" class="level2 glacimontis-section">
+<h2 class="anchored" data-anchor-id="project-status">Project status</h2>
+<p>This page describes an ongoing preprint project. The first manuscript was subimitted to Earth System Science Data (ESSD) Copernicus Publications. The next steps are to address reviewer comments, finalise the manuscript, and prepare the data and code for public release. The project is expected to be published in late 2026 or early 2027. Menwhile, you can cheack the preprint on Zenodo and our poster from the EGU General Assembly 2026.</p>
+<div class="button-row">
+<p><a href="https://zenodo.org/records/18195704" class="btn btn-primary">Manuscript pre-print</a> <a href="https://meetingorganizer.copernicus.org/EGU26/EGU26-18020.html" class="btn btn-outline-primary">EGU26 Poster</a></p>
+</div>
+</section>
 
 
 

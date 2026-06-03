@@ -829,3 +829,136 @@ body.ecospace-page {
   border-bottom: 1px solid rgba(255, 255, 255, 0.5);
   color: white;
 }
+
+/* ==========================================================================
+   Paleoglacier Modelling page
+   ========================================================================== */
+
+body.paleoglacier-page {
+  background-color: #f5f7fa;
+  overflow-x: hidden;
+}
+
+body.paleoglacier-page header#title-block-header,
+body.paleoglacier-page .quarto-title-block,
+body.paleoglacier-page .quarto-title {
+  display: none !important;
+}
+
+.paleo-hero {
+  max-width: 1120px;
+  margin: 2.5rem auto 3rem auto;
+  padding: 4rem;
+  border-radius: 0;
+  background:
+    linear-gradient(rgba(20, 39, 58, 0.78), rgba(20, 39, 58, 0.78)),
+    url("img/paleoglacier_hero.png");
+  background-size: cover;
+  background-position: center;
+  color: white;
+  box-shadow: 0 10px 28px rgba(0, 0, 0, 0.14);
+}
+
+.paleo-hero-inner {
+  display: grid;
+  grid-template-columns: minmax(0, 2fr) 310px;
+  gap: 3rem;
+  align-items: center;
+}
+
+.paleo-title {
+  font-size: 4rem;
+  font-weight: 800;
+  letter-spacing: 0.03em;
+  margin-bottom: 0.8rem;
+}
+
+.paleo-subtitle {
+  font-size: 1.55rem;
+  font-weight: 400;
+  padding-bottom: 0.9rem;
+  margin-bottom: 1.6rem;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.55);
+}
+
+.paleo-hero-text p {
+  font-size: 1.08rem;
+  line-height: 1.75;
+  max-width: 760px;
+}
+
+.paleo-hero-card {
+  background: rgba(255, 255, 255, 0.94);
+  color: #263746;
+  padding: 2rem;
+  border-radius: 20px;
+  box-shadow: 0 12px 28px rgba(0, 0, 0, 0.18);
+}
+
+.paleo-card-kicker {
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  font-size: 0.8rem;
+  color: #5f6f7f;
+  margin-bottom: 0.6rem;
+}
+
+.paleo-card-title {
+  font-size: 1.6rem;
+  font-weight: 750;
+  color: #335885;
+  margin-bottom: 0.8rem;
+}
+
+.paleo-card-text {
+  line-height: 1.6;
+  color: #2f3e4d;
+}
+
+.paleo-figure {
+  max-width: 950px;
+  margin: 2.5rem auto 4rem auto;
+  text-align: center;
+}
+
+.paleo-figure img {
+  width: 100%;
+  max-width: 950px;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 8px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.08);
+}
+
+.paleo-figure figcaption,
+.paleo-figure .figure-caption {
+  max-width: 720px;
+  margin: 0.8rem auto 0 auto;
+  text-align: center;
+  font-size: 0.95rem;
+  color: #5f6f7f;
+}
+
+.paleo-optional img {
+  border: 2px dashed #c4ccd5;
+}
+
+@media (max-width: 900px) {
+  .paleo-hero {
+    padding: 3rem 1.5rem;
+  }
+
+  .paleo-hero-inner {
+    grid-template-columns: 1fr;
+  }
+
+  .paleo-title {
+    font-size: 2.8rem;
+  }
+
+  .paleo-subtitle {
+    font-size: 1.25rem;
+  }
+}
