@@ -1,0 +1,23 @@
+---
+page-layout: full
+format:
+  html:
+    toc: false
+    smooth-scroll: true
+    title-block-style: none
+body-class: modelrev-page
+---
+
+::: {.review-disclaimer}
+
+## Work in progress
+
+This manuscript is currently in development. More information, including project results, figures, and outputs, will be added after publication.
+
+For now, you can read more about the project through the EGU26 presentation abstract:
+
+::: {.button-row}
+[Read the EGU26 presentation abstract](https://meetingorganizer.copernicus.org/EGU26/EGU26-19769.html){.btn .btn-primary}
+:::
+
+:::

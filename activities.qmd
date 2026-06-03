@@ -100,8 +100,6 @@ Coppola](https://bjerknes.uib.no/en/news/meet-our-new-sac-member-erika-coppola),
 particularly on integrating paleodata into climate model validation
 efforts.
 
-<img src="img/activities/bjerknes.jpg"
-class="img-fluid rounded mx-auto d-block mt-2" alt="Bjerknes Meeting" />
 :::
 
 ::: {.card}
@@ -164,9 +162,6 @@ the high-altitude Andes. This training directly supported the
 methodological foundation of my master’s thesis and strengthened ties
 between researchers from South America and Europe.
 
-<img src="img/activities/chile.jpg"
-class="img-fluid rounded mx-auto d-block mt-2"
-alt="Chile Summer School" />
 :::
 
 ::: {.card}
@@ -204,6 +199,13 @@ paleoenvironmental research in high-mountain regions.
 # 🛠️ Workshops
 
 ::: {.card}
+#### Connectivity Workshop – Alpine Biome Dynamics
+Bergen, Norway 2026
+
+I participated in a collaborative workshop focused on connectivity analysis for alpine biome reconstructions. The workshop introduced the use of the Makurhini R package to calculate landscape connectivity metrics and explored how these metrics can be applied to reconstructed alpine biome distributions through time. The discussion focused on understanding what different connectivity metrics represent, how they can be interpreted in ecological and biogeographical contexts, and why connectivity dynamics may matter for present-day alpine biodiversity, dispersal processes, and long-term evolutionary histories. Using preliminary analyses from the Ruwenzori Mountains as examples, the workshop helped connect technical spatial metrics with broader questions about alpine landscape fragmentation, habitat continuity, and species movement through changing mountain environments.
+:::
+
+::: {.card}
 #### StoryMaps Workshop in ArcGIS
 Bergen, Norway 2026
 
@@ -225,6 +227,16 @@ I attended the [MNPED101 - Introduction to peer teaching for teaching assistants
 :::
 
 ::: {.card}
+#### Pannotator Workshop – 360° Image Annotation for Ecological Research
+Online 2024
+
+I participated in a workshop introducing **pannotator**, an R/Shiny-based tool for visualising, mapping, and annotating geocoded 360° imagery from cameras or drones. The workshop focused on how panoramic field imagery can be explored in relation to satellite imagery and annotated through user-defined categories for ecological and biogeographical research. The training was especially relevant for field-based spatial ecology because pannotator supports the annotation of panospheric images, map-based image locations, and exportable spatial annotations. These outputs can be used in downstream workflows such as geospatial analysis, camera-based survey interpretation, and training datasets for AI or machine-learning models.
+
+More information: [pannotator GitHub repository](https://github.com/NunzioKnerr/pannotator_package_source)
+
+:::
+
+::: {.card}
 #### Geospatial Artificial Intelligence Workshop
 Bergen, Norway 2024
 
@@ -240,8 +252,6 @@ ability to evaluate AI tools for cryosphere studies and opened pathways
 for future work at the intersection of geoinformatics and environmental
 change.
 
-<img src="img/activities/geoai.png"
-class="img-fluid rounded mx-auto d-block mt-2" alt="GeoAI Workshop" />
 :::
 
 ::: {.card}
@@ -257,9 +267,6 @@ sea-level rise. My role included logistical and technical support
 throughout the event. This workshop provided me with a broader context
 for academic event management and organization.
 
-<img src="img/activities/greenland.jpg"
-class="img-fluid rounded mx-auto d-block mt-2"
-alt="Greenland Workshop" />
 :::
 
 # 🎤 Talks
@@ -290,8 +297,6 @@ interdisciplinary discussion among geographers, ecologists, and
 paleoclimatologists, strengthening local interest in cross-scalar
 Quaternary research.
 
-<img src="img/activities/lunch2.jpg"
-class="img-fluid rounded mx-auto d-block mt-2" alt="Lunch Talk 2025" />
 :::
 
 ::: {.card}

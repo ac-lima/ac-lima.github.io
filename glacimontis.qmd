@@ -21,6 +21,11 @@ GLACIMONTIS is a global geodatabase of reconstructed mountain paleoglaciers at t
 [Download the database](https://zenodo.org/records/15600659){.btn .btn-outline-light}
 :::
 :::
+
+::: {.glacimontis-hero-logo}
+![](img/glacimontis_logo.png.png){.glacimontis-logo}
+:::
+
 :::
 
 ::: {.glacimontis-section}

@@ -26,9 +26,9 @@ website:
             href: paleoglacier.qmd
           - text: "ECO-SPACE"
             href: ecospace.qmd
-          - text: "Mountain Paleoglacier Modelling Review"
+          - text: "Paleoglacier Modelling Review"
             href: modelrev.qmd
-          - text: "Drone-Willow-Bumblebee Project"
+          - text: "Bumblebee Project"
             href: bumblebee.qmd
       - text: "Fieldwork Gallery"
         href: fieldwork.qmd

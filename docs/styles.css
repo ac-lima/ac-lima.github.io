@@ -299,8 +299,7 @@ body.glacimontis-page {
   justify-content: center;
   padding: 5rem 2rem;
   background:
-    linear-gradient(rgba(20, 39, 58, 0.58), rgba(20, 39, 58, 0.58)),
-    url("img/glacimontis_logo.png");
+    linear-gradient(rgba(20, 39, 58, 0.58), rgba(20, 39, 58, 0.58));
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -332,6 +331,21 @@ body.glacimontis-page {
   max-width: 800px;
   margin-left: auto;
   margin-right: auto;
+}
+
+.glacimontis-hero-logo {
+  max-width: 330px;
+  margin-right: auto;
+  background: rgba(255, 255, 255, 0.94);
+  padding: 2rem;
+  border-radius: 28px;
+  box-shadow: 0 12px 30px rgba(0, 0, 0, 0.18);
+}
+
+.glacimontis-logo {
+  width: 100%;
+  height: auto;
+  display: block;
 }
 
 /* General content sections */
@@ -583,8 +597,7 @@ body.ecospace-page {
   justify-content: center;
   padding: 5rem 2rem;
   background:
-    linear-gradient(135deg, rgba(11, 79, 74, 0.94), rgba(39, 70, 56, 0.84)),
-    url("img/ecospace_background.png");
+    linear-gradient(135deg, rgba(11, 79, 74, 0.94), rgba(39, 70, 56, 0.84));
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -847,12 +860,15 @@ body.paleoglacier-page .quarto-title {
 
 .paleo-hero {
   max-width: 1120px;
+  min-height: 72vh;
+  display: flex;
   margin: 2.5rem auto 3rem auto;
-  padding: 4rem;
+  padding: 5rem 2rem;
+  align-items: center;
+  justify-content: center;
   border-radius: 0;
   background:
-    linear-gradient(rgba(20, 39, 58, 0.78), rgba(20, 39, 58, 0.78)),
-    url("img/paleoglacier_hero.png");
+    linear-gradient(rgba(20, 39, 58, 0.78), rgba(20, 39, 58, 0.78));
   background-size: cover;
   background-position: center;
   color: white;
@@ -885,6 +901,21 @@ body.paleoglacier-page .quarto-title {
   font-size: 1.08rem;
   line-height: 1.75;
   max-width: 760px;
+}
+
+.paleoglacier-hero-logo {
+  max-width: 330px;
+  margin-right: auto;
+  background: rgba(255, 255, 255, 0.94);
+  padding: 2rem;
+  border-radius: 28px;
+  box-shadow: 0 12px 30px rgba(0, 0, 0, 0.18);
+}
+
+.paleoglacier-logo {
+  width: 100%;
+  height: auto;
+  display: block;
 }
 
 .paleo-hero-card {
@@ -960,5 +991,372 @@ body.paleoglacier-page .quarto-title {
 
   .paleo-subtitle {
     font-size: 1.25rem;
+  }
+}
+
+/* ========================================================================== 
+   Drone-Willow-Bumblebee project page
+   ========================================================================== */
+
+body.bumblebee-page {
+  background-color: #f5f7fa;
+  overflow-x: hidden;
+}
+
+body.bumblebee-page main {
+  max-width: 1200px !important;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 2rem !important;
+  padding-right: 2rem !important;
+}
+
+body.bumblebee-page header#title-block-header,
+body.bumblebee-page .quarto-title-block,
+body.bumblebee-page .quarto-title {
+  display: none !important;
+}
+
+.bumblebee-hero {
+  max-width: 1120px;
+  min-height: 72vh;
+  display: flex;
+  margin: 2.5rem auto 3rem auto;
+  padding: 5rem 2rem;
+  align-items: center;
+  justify-content: center;
+  border-radius: 0;
+  background:
+    linear-gradient(135deg, rgba(46, 91, 61, 0.94), rgba(104, 125, 70, 0.90));
+  color: white;
+  background-size: cover;
+  background-position: center;
+  box-shadow: 0 10px 28px rgba(0, 0, 0, 0.14);
+}
+
+.bumblebee-hero-inner {
+  width: 100%;
+  display: grid !important;
+  grid-template-columns: minmax(0, 1fr) 380px;
+  gap: 3rem;
+  align-items: center;
+}
+
+.bumblebee-title {
+  font-size: 3.7rem;
+  font-weight: 800;
+  letter-spacing: 0.03em;
+  margin-bottom: 1rem;
+  color: white;
+}
+
+.bumblebee-subtitle {
+  font-size: 1.35rem;
+  font-weight: 400;
+  padding-bottom: 0.8rem;
+  margin-bottom: 1.4rem;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.55);
+  color: white;
+}
+
+.bumblebee-hero-text p {
+  font-size: 1.05rem;
+  line-height: 1.75;
+  color: white;
+}
+
+.bumblebee-hero-image {
+  background: rgba(255, 255, 255, 0.94);
+  padding: 1.1rem;
+  border-radius: 22px;
+  box-shadow: 0 12px 28px rgba(0, 0, 0, 0.18);
+}
+
+.bumblebee-hero-map {
+  width: 100%;
+  height: auto;
+  display: block;
+  border-radius: 12px;
+}
+
+.bumblebee-hero-image .caption {
+  color: #5f6c77;
+  margin-top: 0.8rem;
+}
+
+.bumblebee-section {
+  max-width: 1050px;
+  margin: 4rem auto;
+  padding: 0 2rem;
+}
+
+.bumblebee-section h2 {
+  font-size: 2.1rem;
+  font-weight: 750;
+  margin-bottom: 1rem;
+  color: #263746;
+}
+
+.bumblebee-section p,
+.bumblebee-section li {
+  font-size: 1.08rem;
+  line-height: 1.75;
+  color: #2f3e4d;
+}
+
+.bumblebee-stats {
+  max-width: 1100px;
+  margin: 3rem auto;
+  padding: 0 2rem;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 1.2rem;
+}
+
+.bumblebee-stat-card {
+  background: rgba(255, 255, 255, 0.97);
+  border-radius: 18px;
+  padding: 2rem 1.4rem;
+  text-align: center;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.08);
+  border-top: 5px solid #6b8f35;
+}
+
+.bumblebee-stat-card h3 {
+  font-size: 2.3rem;
+  font-weight: 800;
+  color: #3f6f3d;
+  margin-bottom: 0.5rem;
+}
+
+.bumblebee-stat-card p {
+  margin: 0;
+  font-size: 1rem;
+  color: #2f3e4d;
+}
+
+.workflow-grid,
+.resource-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1.2rem;
+  margin-top: 2rem;
+}
+
+.workflow-card,
+.resource-card {
+  background: white;
+  padding: 1.8rem;
+  border-radius: 18px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.08);
+}
+
+.workflow-card h3,
+.resource-card h3 {
+  color: #3f6f3d;
+  margin-bottom: 0.8rem;
+}
+
+.bumblebee-highlight {
+  max-width: 1050px;
+  margin: 4rem auto;
+  padding: 3rem;
+  border-radius: 22px;
+  background: linear-gradient(135deg, #3f6f3d, #264d38);
+  color: white;
+  box-shadow: 0 10px 28px rgba(0, 0, 0, 0.16);
+}
+
+.bumblebee-highlight h2 {
+  color: white;
+  margin-bottom: 1rem;
+}
+
+.bumblebee-highlight p {
+  font-size: 1.1rem;
+  line-height: 1.75;
+  color: white;
+}
+
+.bumblebee-image-block {
+  max-width: 900px;
+  margin: 2.5rem auto;
+  text-align: center;
+}
+
+.bumblebee-image-block img {
+  width: 100%;
+  height: auto;
+  border-radius: 16px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.12);
+}
+
+.bumblebee-gallery {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1.2rem;
+  margin-top: 2rem;
+}
+
+.bumblebee-gallery-item {
+  background: white;
+  padding: 0.75rem;
+  border-radius: 16px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.08);
+}
+
+.bumblebee-gallery-item img {
+  width: 100%;
+  height: 260px;
+  object-fit: cover;
+  object-position: center;
+  border-radius: 12px;
+  display: block;
+  transition: transform 0.2s ease;
+}
+
+.bumblebee-gallery-item img:hover {
+  transform: scale(1.02);
+}
+
+.bumblebee-image-placeholder {
+  border: 2px dashed #9bb783;
+  border-radius: 18px;
+  background: #f8fbf4;
+  padding: 1.5rem;
+  color: #2f3e4d;
+  margin: 2rem auto;
+  max-width: 850px;
+}
+
+.bumblebee-page .button-row-dark {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.8rem;
+  justify-content: flex-start;
+  margin-top: 2rem;
+}
+
+.bumblebee-page .button-row-dark .btn {
+  text-decoration: none;
+  border-radius: 999px;
+  padding: 0.75rem 1.2rem;
+  font-weight: 600;
+}
+
+@media (max-width: 900px) {
+  body.bumblebee-page main {
+    padding-left: 1rem !important;
+    padding-right: 1rem !important;
+  }
+
+  .bumblebee-hero {
+    padding: 3rem 1.5rem;
+    min-height: auto;
+  }
+
+  .bumblebee-hero-inner {
+    grid-template-columns: 1fr;
+  }
+
+  .bumblebee-title {
+    font-size: 2.6rem;
+  }
+
+  .bumblebee-stats {
+    grid-template-columns: 1fr 1fr;
+  }
+
+  .workflow-grid,
+  .resource-grid,
+  .bumblebee-gallery {
+    grid-template-columns: 1fr;
+  }
+
+  .bumblebee-gallery-item img {
+    height: auto;
+  }
+}
+
+@media (max-width: 550px) {
+  .bumblebee-stats {
+    grid-template-columns: 1fr;
+  }
+
+  .bumblebee-section,
+  .bumblebee-stats {
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+}
+
+/* ==========================================================================
+   Mountain palaeoglacier modelling review page
+   ========================================================================== */
+
+body.paleoglacier-review-page {
+  background-color: #f5f7fa;
+  overflow-x: hidden;
+}
+
+/* Keep page content aligned with your project pages */
+body.paleoglacier-review-page main {
+  max-width: 1050px !important;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 2rem !important;
+  padding-right: 2rem !important;
+}
+
+/* Main work-in-progress box */
+.review-disclaimer {
+  max-width: 900px;
+  margin: 4rem auto;
+  padding: 2.5rem;
+  border-radius: 22px;
+  background: linear-gradient(135deg, #335885, #1f354f);
+  color: white;
+  box-shadow: 0 10px 28px rgba(0, 0, 0, 0.16);
+}
+
+.review-disclaimer h2 {
+  color: white;
+  margin-bottom: 1rem;
+}
+
+.review-disclaimer p {
+  font-size: 1.08rem;
+  line-height: 1.75;
+  color: white;
+}
+
+/* Keep buttons readable inside dark box */
+.review-disclaimer .button-row {
+  justify-content: flex-start;
+  margin-top: 1.5rem;
+}
+
+.review-disclaimer .btn-primary {
+  background-color: white;
+  border-color: white;
+  color: #1f354f;
+}
+
+.review-disclaimer .btn-primary:hover {
+  background-color: #ff9d00;
+  border-color: #ff9d00;
+  color: white;
+}
+
+/* Mobile */
+@media (max-width: 700px) {
+  body.paleoglacier-review-page main {
+    padding-left: 1rem !important;
+    padding-right: 1rem !important;
+  }
+
+  .review-disclaimer {
+    padding: 1.8rem;
+    margin: 2.5rem auto;
   }
 }

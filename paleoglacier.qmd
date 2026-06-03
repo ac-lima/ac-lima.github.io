@@ -10,9 +10,8 @@ body-class: paleoglacier-page
 
 ::: {.paleo-hero}
 ::: {.paleo-hero-inner}
-
 ::: {.paleo-hero-text}
-<div class="paleo-title">Transient Paleoglacier Modelling</div>
+<div class="paleo-title">Paleoglacier Modelling</div>
 <div class="paleo-subtitle">Mountain glacier evolution since the last interglacial</div>
 
 This project uses the AI-based **Instructed Glacier Model (IGM)** to simulate mountain glacier evolution across glacial-interglacial timescales. We model glacier extent, ice thickness, and ice-flow evolution since ~130 ka, combining paleoclimate forcing, GPU-accelerated ice dynamics, and spatial validation against empirical glacier reconstructions.
@@ -22,6 +21,10 @@ This project uses the AI-based **Instructed Glacier Model (IGM)** to simulate mo
 [Modelling workflow](#modelling-workflow){.btn .btn-outline-light}
 [Validation framework](#validation-framework){.btn .btn-outline-light}
 :::
+:::
+
+::: {.paleoglacier-hero-logo}
+![](img/igm.png){.paleoglacier-logo}
 :::
 
 :::
