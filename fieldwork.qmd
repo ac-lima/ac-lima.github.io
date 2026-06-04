@@ -24,6 +24,8 @@ page-layout: full
     { place: "Tapado Glacier", lat: -30.13, lon: -69.89 },
     { place: "Prague", lat: 50.0755, lon: 14.4378 },
     { place: "São Paulo", lat: -23.55, lon: -46.63 }
+    { place: "Amsterdam", lat: 52.355, lon: 4.956 },
+    { place: "Viena", lat: 48.234, lon: 16.413 },
   ];
 
   markers.forEach(({ place, lat, lon }) => {
