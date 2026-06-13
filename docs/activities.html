@@ -2,13 +2,16 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.24">
+<meta name="generator" content="quarto-1.9.37">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
 <title>Research Activities – augusto lima</title>
 <style>
+/* Default styles provided by pandoc.
+** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+*/
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
 div.columns{display: flex; gap: min(4vw, 1.5em);}
@@ -36,10 +39,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-a37c72dd2dbac68997fcdc15a3622e78.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-7f8f88aac4f3542376d5c11b86a4c14d.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-dfb324f25d9b1687192fa8be62ac8f9c.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-a0f9fd0d421825b736dc1bbcbcba2219.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -81,7 +84,8 @@ ul.task-list li input[type="checkbox"] {
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
     <a href="./index.html" class="navbar-brand navbar-brand-logo">
-    <img src="./img/indexlogo.png" alt="" class="navbar-logo">
+    <img src="./img/indexlogo.png" alt="" class="navbar-logo light-content">
+    <img src="./img/indexlogo.png" alt="" class="navbar-logo dark-content">
     </a>
     <a class="navbar-brand" href="./index.html">
     <span class="navbar-title">augusto lima</span>
@@ -148,10 +152,21 @@ ul.task-list li input[type="checkbox"] {
     <a class="nav-link active" href="./activities.html" aria-current="page"> 
 <span class="menu-text">Research Activities</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./CV.html"> 
-<span class="menu-text">CV</span></a>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-curriculum-vitae" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Curriculum Vitae</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-curriculum-vitae">    
+        <li>
+    <a class="dropdown-item" href="./CV.html">
+ <span class="dropdown-text">CV</span></a>
   </li>  
+        <li>
+    <a class="dropdown-item" href="./publications.html">
+ <span class="dropdown-text">Publications</span></a>
+  </li>  
+    </ul>
+  </li>
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item compact">
@@ -303,6 +318,11 @@ ul.task-list li input[type="checkbox"] {
 <p>Bergen, Norway 2021-2022</p>
 <p>During my undergraduate studies in Geography, I spent one academic year at the University of Bergen through a bilateral exchange program. My coursework focused on Quaternary geomorphology, cryosphere dynamics, and advanced GIS and Remote Sensing techniques. This period was formative in shaping my interest in long-term environmental change and mountain glaciation, as I gained hands-on experience with spatial data analysis, landform mapping, and proxy-based climate interpretation. The exchange also marked my first academic involvement in cryospheric science and laid the foundation for my ongoing focus on glacial and paleoenvironmental research in high-mountain regions.</p>
 </section>
+<section id="language-and-culture-exchange" class="level4 card">
+<h4 class="anchored" data-anchor-id="language-and-culture-exchange">Language and Culture Exchange</h4>
+<p>Brisbane, Australia 2017-2018</p>
+<p>I participated in a language and cultural exchange programme in Brisbane, Australia, where I developed my English-language skills while engaging with an international community. As part of the programme, I also completed a project management course, strengthening my skills in planning, teamwork, communication, and project coordination.</p>
+</section>
 </section>
 <section id="workshops" class="level1">
 <h1>🛠️ Workshops</h1>
@@ -438,13 +458,14 @@ ul.task-list li input[type="checkbox"] {
       e.clearSelection();
     }
     const getTextToCopy = function(trigger) {
-        const codeEl = trigger.previousElementSibling.cloneNode(true);
-        for (const childEl of codeEl.children) {
-          if (isCodeAnnotation(childEl)) {
-            childEl.remove();
-          }
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
         }
-        return codeEl.innerText;
+      }
+      return codeEl.innerText;
     }
     const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
       text: getTextToCopy

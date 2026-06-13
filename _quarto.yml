@@ -34,8 +34,12 @@ website:
         href: fieldwork.qmd
       - text: "Research Activities"
         href: activities.qmd
-      - text: "CV"
-        href: CV.qmd
+      - text: "Curriculum Vitae"
+        menu: 
+          - text: "CV"
+            href: CV.qmd
+          - text: "Publications"
+            href: publications.qmd
     right:
       - icon: github
         href: https://github.com/ac-lima

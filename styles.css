@@ -1360,3 +1360,460 @@ body.paleoglacier-review-page main {
     margin: 2.5rem auto;
   }
 }
+
+/* ========================================================================== 
+   GeoBridge project page
+   ========================================================================== */
+
+:root {
+  --geobridge-navy: #073847;
+  --geobridge-deep: #0a4b57;
+  --geobridge-cyan: #2fc3dd;
+  --geobridge-green: #87ad7e;
+  --geobridge-light: #eef7f8;
+  --geobridge-bg: #f5f8fa;
+  --geobridge-text: #243744;
+  --geobridge-muted: #61727c;
+  --geobridge-border: #dce7eb;
+  --geobridge-white: #ffffff;
+}
+
+body.geobridge-page {
+  background: var(--geobridge-bg);
+  color: var(--geobridge-text);
+  overflow-x: hidden;
+}
+
+/* Hide Quarto's automatic title block because the page has a custom hero. */
+body.geobridge-page header#title-block-header,
+body.geobridge-page .quarto-title-block,
+body.geobridge-page .quarto-title {
+  display: none !important;
+}
+
+/* Allow the custom sections to use the full browser width. */
+body.geobridge-page main,
+body.geobridge-page main.content,
+body.geobridge-page main#quarto-document-content {
+  max-width: none !important;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+body.geobridge-page #quarto-content,
+body.geobridge-page .page-columns {
+  padding: 0 !important;
+}
+
+.geobridge-hero {
+  min-height: 72vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 5rem 2rem;
+  color: var(--geobridge-white);
+  background:
+    radial-gradient(circle at 88% 18%, rgba(47, 195, 221, 0.24), transparent 30%),
+    radial-gradient(circle at 10% 88%, rgba(135, 173, 126, 0.20), transparent 34%),
+    linear-gradient(135deg, #062f3d 0%, #07505d 58%, #315e54 100%);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  color: white;
+}
+
+.geobridge-hero::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  background-image:
+    linear-gradient(rgba(255, 255, 255, 0.035) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(255, 255, 255, 0.035) 1px, transparent 1px);
+  background-size: 42px 42px;
+  -webkit-mask-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.85), transparent 92%);
+  mask-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.85), transparent 92%);
+}
+
+.geobridge-hero-inner {
+  position: relative;
+  z-index: 1;
+  width: min(1180px, 100%);
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: minmax(0, 1.8fr) minmax(250px, 0.72fr);
+  gap: 4.5rem;
+  align-items: center;
+}
+
+.geobridge-hero-text {
+  max-width: 850px;
+  margin-left: auto;
+}
+
+.geobridge-title {
+  margin: 0 0 0.65rem;
+  color: var(--geobridge-white);
+  font-size: clamp(3.4rem, 7vw, 5.4rem);
+  font-weight: 850;
+  line-height: 0.98;
+  letter-spacing: 0.02em;
+}
+
+.geobridge-subtitle {
+  max-width: 760px;
+  margin-bottom: 1.5rem;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.42);
+  color: #d9f6fb;
+  font-size: clamp(1.15rem, 2vw, 1.55rem);
+  font-weight: 450;
+  line-height: 1.45;
+}
+
+.geobridge-hero-text p {
+  max-width: 760px;
+  margin-bottom: 0;
+  color: rgba(255, 255, 255, 0.94);
+  font-size: 1.14rem;
+  line-height: 1.75;
+}
+
+.geobridge-hero-logo {
+  width: min(340px, 100%);
+  margin-left: auto;
+  padding: 2rem;
+  border: 1px solid rgba(255, 255, 255, 0.45);
+  border-radius: 28px;
+  background: rgba(255, 255, 255, 0.96);
+  box-shadow: 0 18px 48px rgba(0, 0, 0, 0.22);
+  backdrop-filter: blur(8px);
+}
+
+.geobridge-hero-logo figure {
+  margin: 0;
+}
+
+.geobridge-hero-logo figcaption {
+  display: none;
+}
+
+.geobridge-logo {
+  display: block;
+  width: 100%;
+  height: auto;
+  margin: 0;
+}
+
+.geobridge-button-row {
+  margin-top: 2rem;
+}
+
+.geobridge-button-row > p {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  margin: 0;
+}
+
+.geobridge-button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 44px;
+  padding: 0.7rem 1.05rem;
+  border: 1px solid rgba(255, 255, 255, 0.72);
+  border-radius: 999px;
+  color: var(--geobridge-white) !important;
+  background: rgba(255, 255, 255, 0.07);
+  font-size: 0.92rem;
+  font-weight: 700;
+  line-height: 1.2;
+  text-decoration: none !important;
+  transition: transform 0.2s ease, background 0.2s ease, border-color 0.2s ease;
+}
+
+.geobridge-button:hover {
+  transform: translateY(-2px);
+  border-color: var(--geobridge-white);
+  color: var(--geobridge-navy) !important;
+  background: var(--geobridge-white);
+}
+
+.geobridge-section {
+  width: min(1120px, calc(100% - 4rem));
+  margin: 4.5rem auto;
+  scroll-margin-top: 6rem;
+}
+
+.geobridge-introduction {
+  max-width: 880px;
+  margin-top: 4.8rem;
+  margin-bottom: 2.5rem;
+  text-align: center;
+}
+
+.geobridge-section-label {
+  margin-bottom: 0.65rem;
+  color: #16849a;
+  font-size: 0.77rem;
+  font-weight: 800;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+}
+
+.geobridge-section-label.light {
+  color: #9debf7;
+}
+
+.geobridge-introduction h2,
+.geobridge-contact h2 {
+  margin: 0 0 1rem;
+  font-size: clamp(2rem, 4vw, 3rem);
+  font-weight: 800;
+  line-height: 1.15;
+}
+
+.geobridge-introduction p {
+  margin: 0 auto;
+  color: var(--geobridge-muted);
+  font-size: 1.12rem;
+  line-height: 1.75;
+}
+
+.geobridge-activity-card {
+  display: grid;
+  grid-template-columns: minmax(0, 0.95fr) minmax(0, 1.05fr);
+  min-height: 390px;
+  overflow: hidden;
+  border: 1px solid var(--geobridge-border);
+  border-radius: 24px;
+  background: var(--geobridge-white);
+  box-shadow: 0 12px 34px rgba(20, 56, 70, 0.09);
+  transition: transform 0.25s ease, box-shadow 0.25s ease;
+}
+
+.geobridge-activity-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 18px 42px rgba(20, 56, 70, 0.14);
+}
+
+.geobridge-activity-card.reverse .geobridge-activity-image {
+  order: 2;
+}
+
+.geobridge-activity-card.reverse .geobridge-activity-content {
+  order: 1;
+}
+
+.geobridge-activity-image {
+  min-height: 100%;
+  background: var(--geobridge-light);
+}
+
+.geobridge-activity-image p,
+.geobridge-activity-image figure {
+  height: 100%;
+  margin: 0;
+}
+
+.geobridge-activity-image figcaption {
+  display: none;
+}
+
+.geobridge-activity-image img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  min-height: 390px;
+  margin: 0;
+  object-fit: cover;
+}
+
+.geobridge-activity-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: clamp(2rem, 4vw, 3.5rem);
+}
+
+.geobridge-status {
+  align-self: flex-start;
+  margin-bottom: 1rem;
+  padding: 0.4rem 0.72rem;
+  border-radius: 999px;
+  color: #0e6e80;
+  background: #e5f7fa;
+  font-size: 0.74rem;
+  font-weight: 800;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.geobridge-activity-content h2 {
+  margin: 0 0 1rem;
+  color: var(--geobridge-navy);
+  font-size: clamp(1.7rem, 3vw, 2.35rem);
+  font-weight: 800;
+  line-height: 1.2;
+}
+
+.geobridge-activity-content p {
+  margin-bottom: 1rem;
+  color: #40535e;
+  font-size: 1.04rem;
+  line-height: 1.72;
+}
+
+.geobridge-activity-content p:last-child {
+  margin-bottom: 0;
+}
+
+.geobridge-text-link {
+  display: inline-block;
+  margin-top: 0.35rem;
+  color: #0b788d !important;
+  font-weight: 750;
+  text-decoration: none !important;
+}
+
+.geobridge-text-link:hover {
+  color: var(--geobridge-navy) !important;
+  text-decoration: underline !important;
+  text-underline-offset: 0.2em;
+}
+
+.geobridge-contact {
+  margin-top: 5rem;
+  padding: 5rem 2rem;
+  color: var(--geobridge-white);
+  text-align: center;
+  background:
+    radial-gradient(circle at 20% 0%, rgba(47, 195, 221, 0.20), transparent 30%),
+    linear-gradient(135deg, var(--geobridge-navy), #0b5661 65%, #315e54);
+}
+
+.geobridge-contact-inner {
+  max-width: 780px;
+  margin: 0 auto;
+}
+
+.geobridge-contact h2 {
+  color: var(--geobridge-white);
+}
+
+.geobridge-contact p {
+  margin: 0 auto 1.8rem;
+  color: rgba(255, 255, 255, 0.9);
+  font-size: 1.1rem;
+  line-height: 1.75;
+}
+
+.geobridge-button-solid {
+  border-color: var(--geobridge-white);
+  color: var(--geobridge-navy) !important;
+  background: var(--geobridge-white);
+}
+
+.geobridge-button-solid:hover {
+  color: var(--geobridge-white) !important;
+  background: transparent;
+}
+
+@media (max-width: 900px) {
+  .geobridge-hero {
+    min-height: auto;
+    padding: 4.5rem 1.5rem;
+  }
+
+  .geobridge-hero-inner {
+    grid-template-columns: 1fr;
+    gap: 2.75rem;
+    text-align: center;
+  }
+
+  .geobridge-hero-text {
+    margin: 0 auto;
+  }
+
+  .geobridge-hero-text p {
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+  .geobridge-button-row > p {
+    justify-content: center;
+  }
+
+  .geobridge-hero-logo {
+    width: min(300px, 76vw);
+    margin: 0 auto;
+  }
+
+  .geobridge-activity-card,
+  .geobridge-activity-card.reverse {
+    grid-template-columns: 1fr;
+  }
+
+  .geobridge-activity-card.reverse .geobridge-activity-image,
+  .geobridge-activity-card.reverse .geobridge-activity-content {
+    order: initial;
+  }
+
+  .geobridge-activity-image img {
+    height: auto;
+    min-height: 0;
+    aspect-ratio: 16 / 9;
+  }
+}
+
+@media (max-width: 600px) {
+  .geobridge-hero {
+    padding: 3.8rem 1rem;
+  }
+
+  .geobridge-title {
+    font-size: 3.15rem;
+  }
+
+  .geobridge-subtitle {
+    font-size: 1.08rem;
+  }
+
+  .geobridge-hero-text p {
+    font-size: 1rem;
+  }
+
+  .geobridge-button-row > p {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+  }
+
+  .geobridge-section {
+    width: calc(100% - 2rem);
+    margin-top: 3.2rem;
+    margin-bottom: 3.2rem;
+  }
+
+  .geobridge-introduction {
+    margin-top: 3.5rem;
+  }
+
+  .geobridge-activity-card {
+    border-radius: 18px;
+  }
+
+  .geobridge-activity-content {
+    padding: 1.65rem;
+  }
+
+  .geobridge-contact {
+    padding: 4rem 1rem;
+  }
+}
+
+@media (max-width: 420px) {
+  .geobridge-button-row > p {
+    grid-template-columns: 1fr;
+  }
+}

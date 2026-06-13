@@ -1,0 +1,48 @@
+---
+title: "Publications"
+toc: true
+toc-depth: 2
+page-layout: full
+---
+
+This page presents my journal articles, data publications, and conference contributions.
+
+# Journal publications
+
+## Published
+
+1. **Lima, A. C.**, Dulfer, H. E., Hughes, A. L. C., Margold, M., Barr, I., Laabs, B., & Flantua, S. G. A. (2026). Mountain glacier extents at the Last Glacial Maximum. *Scientific Data, 13*, 629. [https://doi.org/10.1038/s41597-026-06841-z](https://doi.org/10.1038/s41597-026-06841-z)
+
+2. **Lima, A. C.**, Galvani, E., Gobo, J. P. A., & Wollmann, C. A. (2022). Comparison between air temperature and land surface temperature for the city of São Paulo, Brazil. *Atmosphere, 13*(3), 491. [https://doi.org/10.3390/atmos13030491](https://doi.org/10.3390/atmos13030491)
+
+## In review
+
+1. Barndon, S., **Lima, A. C.**, Chandler, D. M., Wiersma, A. T., Leger, T. P. M., Pratz, R. P., Rentier, E. S., & Flantua, S. G. A. Mountain glacier evolution since the last interglacial. *Earth System Science Data*. Preprint available at [https://doi.org/10.5281/zenodo.18195704](https://doi.org/10.5281/zenodo.18195704).
+
+## In preparation
+
+1. Rentier, E. S., Barndon, S., De Groeve, J., Hooghiemstra, H., **Lima, A. C.**, Mottl, O., Norder, S., Pacheco-Riaño, L. C., Rijsdijk, K. F., Schultz, L., Grytnes, J. A., & Flantua, S. G. A. Redefining alpine biogeography: Global dynamics of the alpine biome over the last 120,000 years.
+
+2. Halis, O., **Lima, A. C.**, Yingkui, L., & Flantua, S. G. A. An extensive review of landform–ice-surface profile model applications and methods in reconstructing palaeoglaciers.
+
+3. **Lima, A. C.**, Halis, O., Yingkui, L., & Flantua, S. G. A. Modelling mountain glaciers through time: A review of numerical palaeoglacier simulations in mountain ranges.
+
+4. Moreno, F., **Lima, A. C.**, Ayala, Á., Navarro, G., MacDonell, S., & Robson, B. A. The role of ice cliffs in the mass loss of a debris-covered glacier in the semiarid Andes, Chile.
+
+# Data publications
+
+1. **Lima, A. C.**, Dulfer, H. E., Hughes, A. L. C., Margold, M., Barr, I., Laabs, B., & Flantua, S. G. A. (2025). *GLACIMONTIS* [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.15600659](https://doi.org/10.5281/zenodo.15600659)
+
+2. Barndon, S., **Lima, A.**, Flantua, S., Rentier, E., Pratz, R., Wiersma, A., Leger, T., & Chandler, D. (2026). *Evolution of mountain glaciers since the last interglacial* [Data set]. NIRD Research Data Archive. [https://doi.org/10.11582/2026.juu0pnt4](https://doi.org/10.11582/2026.juu0pnt4)
+
+3. **Lima, A. C.**, Barndon, S., Chandler, D. M., Wiersma, A. T., Leger, T. P. M., Pratz, R. P., Rentier, E. S., & Flantua, S. G. A. (2026). *Animations of transient mountain glacier extent since the last interglacial*. Copernicus Publications. [https://doi.org/10.5446/s_2022](https://doi.org/10.5446/s_2022)
+
+# Conference publications
+
+1. **Lima, A. C.**, Wein, T., van Hecke, M., & Flantua, S. G. A. (2026). ECO-SPACE: Geospatial competence and education in biosciences. *EGU General Assembly 2026*, Vienna, Austria, 3–8 May 2026, EGU26-21271. [https://doi.org/10.5194/egusphere-egu26-21271](https://doi.org/10.5194/egusphere-egu26-21271)
+
+2. **Lima, A. C.**, Barndon, S., Chandler, D. M., Yingkui, L., & Flantua, S. G. A. (2026). Validation practices in mountain palaeoglacier modelling. *EGU General Assembly 2026*, Vienna, Austria, 3–8 May 2026, EGU26-19769. [https://doi.org/10.5194/egusphere-egu26-19769](https://doi.org/10.5194/egusphere-egu26-19769)
+
+3. **Lima, A. C.**, Margold, M., Hughes, A. L. C., Dulfer, H., Barr, I., Rentier, E., Laabs, B., & Flantua, S. G. A. (2025). Global geodatabase of mountain glacier extents at the Last Glacial Maximum. *EGU General Assembly 2025*, Vienna, Austria, 27 April–2 May 2025, EGU25-20104. [https://doi.org/10.5194/egusphere-egu25-20104](https://doi.org/10.5194/egusphere-egu25-20104)
+
+4. Ayala, Á., Robson, B., MacDonell, S., Navarro, G., Schaffer, N., Segovia, A., Petlicki, M., Kinnard, C., Schauwecker, S., Casassa, G., Vivero, S., & **Lima, A. C.** (2024). Monitoring the physical processes driving the mass loss of Tapado Glacier, Desert Andes of Chile. *EGU General Assembly 2024*, Vienna, Austria, 14–19 April 2024, EGU24-13473. [https://doi.org/10.5194/egusphere-egu24-13473](https://doi.org/10.5194/egusphere-egu24-13473)

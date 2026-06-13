@@ -2,58 +2,62 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://ac-lima.github.io/uibcollaborative.html</loc>
-    <lastmod>2026-06-03T07:39:22.060Z</lastmod>
+    <lastmod>2026-06-13T11:34:30.881Z</lastmod>
   </url>
   <url>
     <loc>https://ac-lima.github.io/tapado.html</loc>
-    <lastmod>2026-06-03T07:40:12.514Z</lastmod>
+    <lastmod>2026-06-03T07:40:12.000Z</lastmod>
   </url>
   <url>
-    <loc>https://ac-lima.github.io/paleoglacier.html</loc>
-    <lastmod>2026-06-03T13:50:26.488Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ac-lima.github.io/index.html</loc>
-    <lastmod>2026-05-31T16:42:22.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ac-lima.github.io/fieldwork.html</loc>
-    <lastmod>2026-06-04T07:30:44.275Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ac-lima.github.io/CV.html</loc>
-    <lastmod>2026-05-31T16:42:22.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ac-lima.github.io/activities.html</loc>
-    <lastmod>2026-06-03T14:07:30.153Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ac-lima.github.io/about.html</loc>
-    <lastmod>2026-06-03T12:18:30.512Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ac-lima.github.io/bumblebee.html</loc>
-    <lastmod>2026-06-03T13:42:05.303Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ac-lima.github.io/ecospace.html</loc>
-    <lastmod>2026-06-03T07:40:18.171Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ac-lima.github.io/glacimontis.html</loc>
-    <lastmod>2026-06-03T13:39:18.735Z</lastmod>
+    <loc>https://ac-lima.github.io/publications.html</loc>
+    <lastmod>2026-06-13T11:47:24.343Z</lastmod>
   </url>
   <url>
     <loc>https://ac-lima.github.io/modelrev.html</loc>
-    <lastmod>2026-06-03T13:56:09.563Z</lastmod>
+    <lastmod>2026-06-03T13:56:09.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ac-lima.github.io/glacimontis.html</loc>
+    <lastmod>2026-06-13T11:10:21.520Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ac-lima.github.io/ecospace.html</loc>
+    <lastmod>2026-06-03T07:40:18.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ac-lima.github.io/bumblebee.html</loc>
+    <lastmod>2026-06-03T13:42:05.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ac-lima.github.io/about.html</loc>
+    <lastmod>2026-06-03T12:18:30.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ac-lima.github.io/activities.html</loc>
+    <lastmod>2026-06-13T11:56:59.437Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ac-lima.github.io/CV.html</loc>
+    <lastmod>2026-06-13T11:42:33.818Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ac-lima.github.io/fieldwork.html</loc>
+    <lastmod>2026-06-13T11:51:20.945Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ac-lima.github.io/index.html</loc>
+    <lastmod>2026-05-31T16:42:22.453Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ac-lima.github.io/paleoglacier.html</loc>
+    <lastmod>2026-06-03T13:50:26.000Z</lastmod>
   </url>
   <url>
     <loc>https://ac-lima.github.io/research.html</loc>
-    <lastmod>2026-06-03T12:17:02.030Z</lastmod>
+    <lastmod>2026-06-03T12:17:02.000Z</lastmod>
   </url>
   <url>
     <loc>https://ac-lima.github.io/thermalmap.html</loc>
-    <lastmod>2026-06-03T07:40:15.277Z</lastmod>
+    <lastmod>2026-06-03T07:40:15.000Z</lastmod>
   </url>
 </urlset>

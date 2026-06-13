@@ -23,7 +23,7 @@ GLACIMONTIS is a global geodatabase of reconstructed mountain paleoglaciers at t
 :::
 
 ::: {.glacimontis-hero-logo}
-![](img/glacimontis_logo.png.png){.glacimontis-logo}
+![](img/glacimontis_logo.png){.glacimontis-logo}
 :::
 
 :::

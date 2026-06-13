@@ -3,7 +3,6 @@ title: "Fieldwork Gallery"
 page-layout: full
 ---
 
-
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.3/dist/leaflet.css">
 <script src="https://unpkg.com/leaflet@1.9.3/dist/leaflet.js"></script>
 
@@ -23,9 +22,10 @@ page-layout: full
     { place: "Azores", lat: 37.74, lon: -25.67 },
     { place: "Tapado Glacier", lat: -30.13, lon: -69.89 },
     { place: "Prague", lat: 50.0755, lon: 14.4378 },
-    { place: "São Paulo", lat: -23.55, lon: -46.63 }
+    { place: "São Paulo", lat: -23.55, lon: -46.63 },
     { place: "Amsterdam", lat: 52.355, lon: 4.956 },
     { place: "Viena", lat: 48.234, lon: 16.413 },
+    { place: "Brisbane", lat: -27.47, lon: 153.03 },
   ];
 
   markers.forEach(({ place, lat, lon }) => {
